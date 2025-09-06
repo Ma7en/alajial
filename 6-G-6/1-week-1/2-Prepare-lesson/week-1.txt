@@ -1,0 +1,78 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Introduction to Computer (مقدمة إلى الحاسوب)
+
+Class (الفصل):
+Sixth Grade (الصف السادس الابتدائي)
+
+Day (اليوم):
+Sunday (الأحد)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the basic components of a computer.
+2. Identify the different parts of a computer system.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Discussion, Hands-on Activity (مناقشة، نشاط عملي)
+
+New Vocabularies (المفردات الجديدة):
+1. Computer (الحاسوب)
+2. Hardware (الأجهزة المادية)
+3. Software (البرمجيات)
+4. Input (الإدخال)
+5. Output (الإخراج)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer (الحاسوب)
+2. Diagrams (الرسوم البيانية)
+3. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what a computer is.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هو الحاسوب.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of a computer and its importance.
+    - Explain the basic components of a computer system (hardware, software, input, output).
+    - تقديم مفهوم الحاسوب وأهميته.
+    - شرح المكونات الأساسية لنظام الحاسوب (الأجهزة المادية، البرمجيات، الإدخال، الإخراج).
+2. Discussion (15 minutes):
+    - Discuss the different parts of a computer system and their functions.
+    - Ask students to identify and describe the different components of a computer.
+    - مناقشة الأجزاء المختلفة لنظام الحاسوب ووظائفها.
+    - اطلب من الطلاب تحديد ووصف المكونات المختلفة للحاسوب.
+3. Hands-on Activity (10 minutes):
+    - Let students explore and identify the different parts of a computer.
+    - دع الطلاب يستكشفون ويحددون الأجزاء المختلفة للحاسوب.
+
+Evaluation (التقييم):
+- Observe students' participation in the discussion and hands-on activity.
+- Ask students questions about the basic components of a computer.
+- مراقبة مشاركة الطلاب في المناقشة والنشاط العملي.
+- سؤال الطلاب عن المكونات الأساسية للحاسوب.
+
+Homework (الواجب المنزلي):
+- Draw and label the different parts of a computer system.
+- رسم وتسمية الأجزاء المختلفة لنظام الحاسوب.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!

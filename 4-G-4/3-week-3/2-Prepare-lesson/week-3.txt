@@ -1,0 +1,77 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Network Connections (اتصالات الشبكة)
+
+Class (الفصل):
+Fourth Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Tuesday (الثلاثاء)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of network connections.
+2. Identify the different types of network connections.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Interactive Lecture, Group Discussion (محاضرة تفاعلية، مناقشة جماعية)
+
+New Vocabularies (المفردات الجديدة):
+1. Network (الشبكة)
+2. Connection (الاتصال)
+3. Wi-Fi (الواي فاي)
+4. Ethernet (الإيثرنت)
+
+Teaching Aids (الوسائل التعليمية):
+1. Whiteboard (السبورة)
+2. Markers (الأقلام)
+3. Diagrams (الرسوم البيانية)
+4. Pictures (الصور)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what network connections are.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هي اتصالات الشبكة.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of network connections and its importance.
+    - Explain the different types of network connections (Wi-Fi, Ethernet, etc.).
+    - تقديم مفهوم اتصالات الشبكة وأهميتها.
+    - شرح أنواع اتصالات الشبكة المختلفة (الواي فاي، الإيثرنت، إلخ).
+2. Group Discussion (15 minutes):
+    - Divide the students into groups and ask them to discuss the advantages and disadvantages of different types of network connections.
+    - دع الطلاب يناقشون في مجموعات مزايا وعيوب أنواع اتصالات الشبكة المختلفة.
+3. Presentation (10 minutes):
+    - Show diagrams and pictures to explain how network connections work.
+    - عرض الرسوم البيانية والصور لشرح كيفية عمل اتصالات الشبكة.
+
+Evaluation (التقييم):
+- Ask students questions about network connections and its types.
+- Observe students' participation in the group discussion.
+- سؤال الطلاب عن اتصالات الشبكة وأنواعها.
+- مراقبة مشاركة الطلاب في المناقشة الجماعية.
+
+Homework (الواجب المنزلي):
+- Draw a diagram of a network connection and label its different parts.
+- رسم رسم بياني لاتصال الشبكة وتسمية أجزائه المختلفة.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+

@@ -1,0 +1,85 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+3D Printing (الطباعة ثلاثية الأبعاد)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Wednesday (الأربعاء)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of 3D printing.
+2. Explain the process of 3D printing.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Discussion, Demonstration (مناقشة، عرض توضيحي)
+
+New Vocabularies (المفردات الجديدة):
+1. 3D Printing (الطباعة ثلاثية الأبعاد)
+2. Additive Manufacturing (التصنيع الإضافي)
+3. Layering (الطبقات)
+4. Prototype (النموذج الأولي)
+
+Teaching Aids (الوسائل التعليمية):
+1. 3D Printer (طابعة ثلاثية الأبعاد)
+2. Whiteboard (السبورة)
+3. Markers (علامات)
+4. Examples of 3D printed objects (أمثلة على كائنات مطبوعة ثلاثية الأبعاد)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what 3D printing is.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هي الطباعة ثلاثية الأبعاد.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of 3D printing and its importance.
+    - Explain the basic process of 3D printing.
+    - تقديم مفهوم الطباعة ثلاثية الأبعاد وأهميتها.
+    - شرح العملية الأساسية للطباعة ثلاثية الأبعاد.
+2. Demonstration (15 minutes):
+    - Demonstrate the 3D printing process using a 3D printer.
+    - Explain the different steps involved in 3D printing (designing, slicing, printing).
+    - عرض توضيحي لعملية الطباعة ثلاثية الأبعاد باستخدام طابعة ثلاثية الأبعاد.
+    - شرح الخطوات المختلفة المتبعة في الطباعة ثلاثية الأبعاد (التصميم، التقطيع، الطباعة).
+3. Discussion (10 minutes):
+    - Discuss the applications and benefits of 3D printing.
+    - Ask students to share their thoughts and ideas about 3D printing.
+    - مناقشة تطبيقات وفوائد الطباعة ثلاثية الأبعاد.
+    - اطلب من الطلاب مشاركة أفكارهم وآرائهم حول الطباعة ثلاثية الأبعاد.
+
+Evaluation (التقييم):
+- Observe students' participation in the discussion.
+- Ask students questions about 3D printing and its process.
+- مراقبة مشاركة الطلاب في المناقشة.
+- سؤال الطلاب عن الطباعة ثلاثية الأبعاد وعمليتها.
+
+Homework (الواجب المنزلي):
+- Research and write about the different types of 3D printing technologies.
+- البحث عن وكتابة حول أنواع تقنيات الطباعة ثلاثية الأبعاد المختلفة.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+
+
+
+
+

@@ -1,0 +1,82 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Introduction to Computer (مقدمة إلى الحاسوب)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Sunday (الأحد)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the basic concepts of a computer.
+2. Identify the main components of a computer.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Discussion, Demonstration (مناقشة، عرض توضيحي)
+
+New Vocabularies (المفردات الجديدة):
+1. Computer (الحاسوب)
+2. Hardware (العتاد الصلب)
+3. Software (البرمجيات)
+4. CPU (وحدة المعالجة المركزية)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer (جهاز حاسوب)
+2. Whiteboard (السبورة)
+3. Markers (علامات)
+4. Diagrams of computer components (رسوم بيانية لمكونات الحاسوب)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what a computer is.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هو الحاسوب.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of a computer and its importance.
+    - Explain the difference between hardware and software.
+    - تقديم مفهوم الحاسوب وأهميته.
+    - شرح الفرق بين العتاد الصلب والبرمجيات.
+2. Demonstration (15 minutes):
+    - Demonstrate the main components of a computer (CPU, keyboard, mouse, etc.).
+    - Explain the function of each component.
+    - عرض توضيحي للمكونات الرئيسية للحاسوب (وحدة المعالجة المركزية، لوحة المفاتيح، الفأرة، إلخ).
+    - شرح وظيفة كل مكون.
+3. Discussion (10 minutes):
+    - Discuss the importance of computers in everyday life.
+    - Ask students to share their experiences and what they learned.
+    - مناقشة أهمية الحواسيب في الحياة اليومية.
+    - اطلب من الطلاب مشاركة تجاربهم وما تعلموه.
+
+Evaluation (التقييم):
+- Observe students' participation in the discussion.
+- Ask students questions about the main components of a computer.
+- مراقبة مشاركة الطلاب في المناقشة.
+- سؤال الطلاب عن المكونات الرئيسية للحاسوب.
+
+Homework (الواجب المنزلي):
+- Draw a diagram of a computer and label its main components.
+- رسم رسم بياني للحاسوب وتسمية مكوناته الرئيسية.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+
+

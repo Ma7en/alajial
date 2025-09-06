@@ -1,0 +1,77 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Computer Memory (ذاكرة الحاسب الآلي)
+
+Class (الفصل):
+Fourth Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of computer memory.
+2. Identify the different types of computer memory.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Hands-on Activity, Guided Practice (نشاط عملي، ممارسة موجهة)
+
+New Vocabularies (المفردات الجديدة):
+1. RAM (ذاكرة الوصول العشوائي)
+2. ROM (ذاكرة القراءة فقط)
+3. Memory (الذاكرة)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer (الحاسب الآلي)
+2. Diagrams (الرسوم البيانية)
+3. Pictures (الصور)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what computer memory is.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هي ذاكرة الحاسب الآلي.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of computer memory and its importance.
+    - Explain the difference between RAM and ROM.
+    - تقديم مفهوم ذاكرة الحاسب الآلي وأهميتها.
+    - شرح الفرق بين ذاكرة الوصول العشوائي وذاكرة القراءة فقط.
+2. Guided Practice (15 minutes):
+    - Use diagrams and pictures to explain the different types of computer memory.
+    - Ask students to identify the different types of memory.
+    - استخدام الرسوم البيانية والصور لشرح أنواع ذاكرة الحاسب الآلي المختلفة.
+    - دع الطلاب يتعرفون على أنواع الذاكرة المختلفة.
+3. Hands-on Activity (10 minutes):
+    - Let students work in pairs to match different types of memory with their definitions.
+    - دع الطلاب يعملون في أزواج لمطابقة أنواع الذاكرة المختلفة مع تعريفاتها.
+
+Evaluation (التقييم):
+- Ask students questions about computer memory and its types.
+- Observe students' participation in the hands-on activity.
+- سؤال الطلاب عن ذاكرة الحاسب الآلي وأنواعها.
+- مراقبة مشاركة الطلاب في النشاط العملي.
+
+Homework (الواجب المنزلي):
+- Draw a diagram of a computer's memory and label its different parts.
+- رسم رسم بياني لذاكرة الحاسب الآلي وتسمية أجزائها المختلفة.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+

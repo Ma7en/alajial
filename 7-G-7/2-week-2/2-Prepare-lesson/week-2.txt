@@ -1,0 +1,81 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+3D Environment (البيئة ثلاثية الأبعاد)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of 3D environment.
+2. Create a simple 3D environment using software.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Discussion, Hands-on Activity (مناقشة، نشاط عملي)
+
+New Vocabularies (المفردات الجديدة):
+1. 3D (ثلاثي الأبعاد)
+2. Environment (البيئة)
+3. Modeling (النمذجة)
+4. Rendering (التصيير)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer with 3D software (جهاز كمبيوتر مع برنامج 3D)
+2. Whiteboard (السبورة)
+3. Markers (علامات)
+4. Examples of 3D environments (أمثلة على بيئات 3D)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what 3D environment is.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هي البيئة ثلاثية الأبعاد.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of 3D environment and its importance.
+    - Explain the basic concepts of 3D modeling and rendering.
+    - تقديم مفهوم البيئة ثلاثية الأبعاد وأهميتها.
+    - شرح المفاهيم الأساسية للنمذجة والتصيير ثلاثي الأبعاد.
+2. Hands-on Activity (15 minutes):
+    - Let students work in pairs to create a simple 3D environment using software.
+    - Ask students to add objects and textures to their 3D environment.
+    - دع الطلاب يعملون في أزواج لإنشاء بيئة 3D بسيطة باستخدام البرنامج.
+    - اطلب من الطلاب إضافة الكائنات والملمس إلى بيئتهم ثلاثية الأبعاد.
+3. Discussion (10 minutes):
+    - Discuss the importance of 3D environment in various fields (gaming, architecture, etc.).
+    - Ask students to share their experiences and what they learned.
+    - مناقشة أهمية البيئة ثلاثية الأبعاد في مختلف المجالات (الألعاب، الهندسة المعمارية، إلخ).
+    - اطلب من الطلاب مشاركة تجاربهم وما تعلموه.
+
+Evaluation (التقييم):
+- Observe students' participation in the hands-on activity.
+- Ask students questions about 3D environment and its applications.
+- مراقبة مشاركة الطلاب في النشاط العملي.
+- سؤال الطلاب عن البيئة ثلاثية الأبعاد وتطبيقاتها.
+
+Homework (الواجب المنزلي):
+- Create a simple 3D environment using software and add objects and textures.
+- إنشاء بيئة 3D بسيطة باستخدام البرنامج وإضافة الكائنات والملمس.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+
