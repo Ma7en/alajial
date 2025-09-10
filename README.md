@@ -45,7 +45,7 @@ git branch -m main
 ```
 
 ```
-git remote add origin git@github.com:Ma7en/django-v-riyadahacademy-1
+git remote add origin git@github.com:Ma7en/alajial
 ```
 
 ```
@@ -55,7 +55,7 @@ git push -u origin main
 `Step 3` : Clone.
 
 ```
-git clone git@github.com:Ma7en/django-v-riyadahacademy-1
+git clone git@github.com:Ma7en/alajial
 ```
 
 `Step 4` : Pull.
@@ -153,11 +153,11 @@ pip install -r requirements.txt
 `Step 4` : Create Project.
 
 ```
-django-admin startproject riyadahacademy .
+django-admin startproject alajial .
 ```
 
 ```
-cd riyadahacademy
+cd alajial
 ```
 
 `Step 5` : Create Apps.
@@ -181,15 +181,15 @@ CREATE USER django_proj WITH PASSWORD 'django@@1';
 ```
 
 ```
-create database riyadahacademy;
+create database alajial;
 ```
 
 ```
-\c riyadahacademy;
+\c alajial;
 ```
 
 ```
-GRANT ALL PRIVILEGES ON DATABASE riyadahacademy TO django_proj;
+GRANT ALL PRIVILEGES ON DATABASE alajial TO django_proj;
 ```
 
 ```
@@ -221,15 +221,15 @@ python manage.py createsuperuser
 ```
 
 ```
-riyadahacademy_proj@gmail.com
+alajial_proj@gmail.com
 ```
 
 ```
-riyadahacademy_proj
+alajial_proj
 ```
 
 ```
-riyadahacademy@@1
+alajial@@1
 ```
 
 `Step 9` : Run Server.
@@ -241,11 +241,11 @@ python3 manage.py runserver
 `Step 10` : Info Admin.
 
 ```
-riyadahacademy_proj@gmail.com
+alajial_proj@gmail.com
 ```
 
 ```
-riyadahacademy@@1
+alajial@@1
 ```
 
 `Step 11` : Info Server.
@@ -334,11 +334,11 @@ pip install -r wrequirements.txt
 `Step 4` : Create Project.
 
 ```
-django-admin startproject riyadahacademy
+django-admin startproject alajial
 ```
 
 ```
-cd riyadahacademy
+cd alajial
 ```
 
 `Step 5` : Create Apps.
@@ -362,15 +362,15 @@ CREATE USER django_proj WITH PASSWORD 'django@@1';
 ```
 
 ```
-create database riyadahacademy;
+create database alajial;
 ```
 
 ```
-\c riyadahacademy
+\c alajial
 ```
 
 ```
-GRANT ALL PRIVILEGES ON DATABASE riyadahacademy TO django_proj;
+GRANT ALL PRIVILEGES ON DATABASE alajial TO django_proj;
 ```
 
 ```
@@ -402,15 +402,15 @@ python manage.py createsuperuser
 ```
 
 ```
-riyadahacademy_proj@gmail.com
+alajial_proj@gmail.com
 ```
 
 ```
-riyadahacademy_proj
+alajial_proj
 ```
 
 ```
-riyadahacademy@@1
+alajial@@1
 ```
 
 `Step 9` : Run Server.
@@ -422,11 +422,11 @@ python manage.py runserver
 `Step 10` : Info Admin.
 
 ```
-riyadahacademy_proj@gmail.com
+alajial_proj@gmail.com
 ```
 
 ```
-riyadahacademy@@1
+alajial@@1
 ```
 
 `Step 11` : Info Server.
@@ -456,7 +456,7 @@ Technologies used in the project:
 
 ---
 
-<p align="left"><img src="https://profile-counter.glitch.me/django-v-riyadahacademy-1/count.svg" alt="desphixs" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/alajial/count.svg" alt="desphixs" /></p>
 
 ---
 
@@ -467,16 +467,10 @@ Technologies used in the project:
         <td>
             <img src="https://avatars.githubusercontent.com/u/91129862?v=4"></img>
         </td>
-        <td>
-            <img src="https://avatars.githubusercontent.com/u/135178714?v=4"></img>
-        </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/Ma7en">Mazen Saad</a>
-        </td>
-        <td>
-            <a href="https://github.com/shemo6870">Mahmoud Masry</a>
         </td>
     </tr>
 </table>
