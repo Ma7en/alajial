@@ -1,0 +1,77 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Animate with Scratch (الرسوم المتحركة باستخدام سكراتش)
+
+Class (الفصل):
+Fourth Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Wednesday (الأربعاء)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the basics of animation using Scratch.
+2. Create a simple animation using Scratch.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Hands-on Activity, Guided Practice (نشاط عملي، ممارسة موجهة)
+
+New Vocabularies (المفردات الجديدة):
+1. Animation (الرسوم المتحركة)
+2. Scratch (سكراتش)
+3. Sprite (الشخصية)
+4. Script (البرنامج النصي)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers (أجهزة الحاسب الآلي)
+2. Scratch software (برنامج سكراتش)
+3. Projector (جهاز العرض)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what animation is.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هي الرسوم المتحركة.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of animation using Scratch.
+    - Explain the basics of creating a simple animation.
+    - تقديم مفهوم الرسوم المتحركة باستخدام سكراتش.
+    - شرح أساسيات إنشاء رسوم متحركة بسيطة.
+2. Guided Practice (15 minutes):
+    - Guide the students to create a simple animation using Scratch.
+    - Ask students to add sprites and scripts to their animation.
+    - توجيه الطلاب لإنشاء رسوم متحركة بسيطة باستخدام سكراتش.
+    - دع الطلاب يضيفون شخصيات وبرامج نصية إلى رسومهم المتحركة.
+3. Hands-on Activity (10 minutes):
+    - Let students work on their own to create and customize their animations.
+    - دع الطلاب يعملون بمفردهم لإنشاء وتخصيص رسومهم المتحركة.
+
+Evaluation (التقييم):
+- Observe students' animations and provide feedback.
+- Ask students questions about their animations.
+- مراقبة رسوم الطلاب المتحركة وتقديم التغذية الراجعة.
+- سؤال الطلاب عن رسومهم المتحركة.
+
+Homework (الواجب المنزلي):
+- Create a new animation using Scratch and share it with the class.
+- إنشاء رسوم متحركة جديدة باستخدام سكراتش ومشاركتها مع الفصل.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!

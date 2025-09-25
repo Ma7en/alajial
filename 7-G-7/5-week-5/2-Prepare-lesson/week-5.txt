@@ -1,0 +1,83 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Stylesheets (أوراق الأنماط)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Thursday (الخميس)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of stylesheets.
+2. Use stylesheets to control the layout and appearance of web pages.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Discussion, Hands-on Activity (مناقشة، نشاط عملي)
+
+New Vocabularies (المفردات الجديدة):
+1. Stylesheet (ورقة الأنماط)
+2. CSS (أوراق الأنماط المتتالية)
+3. Selector (المحدد)
+4. Property (الخاصية)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer with text editor (جهاز كمبيوتر مع محرر نصوص)
+2. Whiteboard (السبورة)
+3. Markers (علامات)
+4. Examples of stylesheets (أمثلة على أوراق الأنماط)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what stylesheets are.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هي أوراق الأنماط.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of stylesheets and their importance.
+    - Explain the basic syntax of CSS.
+    - تقديم مفهوم أوراق الأنماط وأهميتها.
+    - شرح بناء الجملة الأساسية لأوراق الأنماط المتتالية.
+2. Hands-on Activity (15 minutes):
+    - Let students work in pairs to create a simple stylesheet using CSS.
+    - Ask students to apply styles to a web page.
+    - دع الطلاب يعملون في أزواج لإنشاء ورقة أنماط بسيطة باستخدام أوراق الأنماط المتتالية.
+    - اطلب من الطلاب تطبيق الأنماط على صفحة ويب.
+3. Discussion (10 minutes):
+    - Discuss the benefits and applications of stylesheets.
+    - Ask students to share their experiences and what they learned.
+    - مناقشة فوائد وتطبيقات أوراق الأنماط.
+    - اطلب من الطلاب مشاركة تجاربهم وما تعلموه.
+
+Evaluation (التقييم):
+- Observe students' participation in the hands-on activity.
+- Ask students questions about stylesheets and CSS.
+- مراقبة مشاركة الطلاب في النشاط العملي.
+- سؤال الطلاب عن أوراق الأنماط وأوراق الأنماط المتتالية.
+
+Homework (الواجب المنزلي):
+- Create a stylesheet using CSS and apply it to a web page.
+- إنشاء ورقة أنماط باستخدام أوراق الأنماط المتتالية وتطبيقها على صفحة ويب.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+
+
+

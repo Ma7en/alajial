@@ -1,0 +1,132 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Software
+
+Class (الفصل):
+Third Grade
+
+Day (اليوم):
+Tuesday
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of software.
+2. Identify different types of software.
+
+Period (الفترة الزمنية):
+45 minutes
+
+Date (التاريخ):
+[Insert Date]
+
+Strategy (الاستراتيجية):
+Interactive Lecture, Discussion
+
+New Vocabularies (المفردات الجديدة):
+1. Software
+2. Application
+3. System software
+4. Utility software
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer Lab
+2. Computers
+3. Examples of software (e.g., word processor, game)
+
+Time (الوقت):
+- Warm-up: 5 minutes
+- Procedures: 30 minutes
+- Evaluation: 5 minutes
+- Homework: 5 minutes
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what software is.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of software and its importance.
+    - Explain the difference between system software and application software.
+2. Presentation (15 minutes):
+    - Show examples of different types of software.
+    - Explain their functions and uses.
+3. Discussion (10 minutes):
+    - Discuss the importance of software in everyday life.
+
+Evaluation (التقييم):
+- Ask students questions about software and its types.
+- Observe their ability to identify different types of software.
+
+Homework (الواجب المنزلي):
+- Research and list different types of software used in everyday life.
+
+خطة الدرس (باللغة العربية)
+عنوان الدرس:
+البرمجيات
+
+الفصل:
+الصف الثالث الابتدائي
+
+اليوم:
+الثلاثاء
+
+أهداف الدرس:
+في نهاية هذا الدرس، سيتمكن الطلاب من:
+1. فهم مفهوم البرمجيات.
+2. التعرف على أنواع مختلفة من البرمجيات.
+
+الفترة الزمنية:
+45 دقيقة
+
+التاريخ:
+[تاريخ اليوم]
+
+الاستراتيجية:
+محاضرة تفاعلية، مناقشة
+
+المفردات الجديدة:
+1. البرمجيات
+2. التطبيق
+3. برمجيات النظام
+4. برمجيات الأدوات المساعدة
+
+الوسائل التعليمية:
+1. معمل الحاسب الآلي
+2. أجهزة الحاسب الآلي
+3. أمثلة على البرمجيات (مثل معالج الكلمات، الألعاب)
+
+الوقت:
+- التهيئة: 5 دقائق
+- الإجراءات: 30 دقيقة
+- التقييم: 5 دقائق
+- الواجب المنزلي: 5 دقائق
+
+التهيئة:
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هي البرمجيات.
+
+الإجراءات:
+1. المقدمة (5 دقائق):
+    - تقديم مفهوم البرمجيات وأهميتها.
+    - شرح الفرق بين برمجيات النظام وبرمجيات التطبيقات.
+2. العرض (15 دقيقة):
+    - عرض أمثلة على أنواع مختلفة من البرمجيات.
+    - شرح وظائفها واستخداماتها.
+3. المناقشة (10 دقائق):
+    - مناقشة أهمية البرمجيات في الحياة اليومية.
+
+التقييم:
+- سؤال الطلاب عن البرمجيات وأنواعها.
+- مراقبة قدرتهم على التعرف على أنواع مختلفة من البرمجيات.
+
+الواجب المنزلي:
+- البحث عن أنواع مختلفة من البرمجيات المستخدمة في الحياة اليومية وتدوينها.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+
+
+

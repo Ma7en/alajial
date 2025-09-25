@@ -1,0 +1,131 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Hello Scratch
+
+Class (الفصل):
+Third Grade
+
+Day (اليوم):
+Wednesday
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the basics of Scratch programming.
+2. Create a simple project using Scratch.
+
+Period (الفترة الزمنية):
+45 minutes
+
+Date (التاريخ):
+[Insert Date]
+
+Strategy (الاستراتيجية):
+Hands-on Activity, Guided Practice
+
+New Vocabularies (المفردات الجديدة):
+1. Scratch
+2. Block-based programming
+3. Sprite
+4. Script
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer Lab
+2. Computers
+3. Scratch software
+
+Time (الوقت):
+- Warm-up: 5 minutes
+- Procedures: 30 minutes
+- Evaluation: 5 minutes
+- Homework: 5 minutes
+
+Warm-up (التهيئة):
+- Greet the students and ask if they have heard of Scratch before.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of Scratch and its importance.
+    - Explain block-based programming.
+2. Demonstration (10 minutes):
+    - Show students how to create a simple project using Scratch.
+    - Explain sprites and scripts.
+3. Guided Practice (15 minutes):
+    - Let students practice creating their own simple projects.
+
+Evaluation (التقييم):
+- Observe students' ability to create simple projects.
+- Ask students questions about Scratch and its basics.
+
+Homework (الواجب المنزلي):
+- Create a simple animation using Scratch.
+
+خطة الدرس (باللغة العربية)
+عنوان الدرس:
+مرحبًا سكراتش
+
+الفصل:
+الصف الثالث الابتدائي
+
+اليوم:
+الأربعاء
+
+أهداف الدرس:
+في نهاية هذا الدرس، سيتمكن الطلاب من:
+1. فهم أساسيات برمجة سكراتش.
+2. إنشاء مشروع بسيط باستخدام سكراتش.
+
+الفترة الزمنية:
+45 دقيقة
+
+التاريخ:
+[تاريخ اليوم]
+
+الاستراتيجية:
+نشاط عملي، ممارسة موجهة
+
+المفردات الجديدة:
+1. سكراتش
+2. البرمجة القائمة على الكتل
+3. الكائن (Sprite)
+4. البرنامج النصي (Script)
+
+الوسائل التعليمية:
+1. معمل الحاسب الآلي
+2. أجهزة الحاسب الآلي
+3. برنامج سكراتش
+
+الوقت:
+- التهيئة: 5 دقائق
+- الإجراءات: 30 دقيقة
+- التقييم: 5 دقائق
+- الواجب المنزلي: 5 دقائق
+
+التهيئة:
+- تحية الطلاب وسؤالهم إذا كانوا قد سمعوا عن سكراتش من قبل.
+
+الإجراءات:
+1. المقدمة (5 دقائق):
+    - تقديم مفهوم سكراتش وأهميته.
+    - شرح البرمجة القائمة على الكتل.
+2. العرض (10 دقائق):
+    - عرض كيفية إنشاء مشروع بسيط باستخدام سكراتش.
+    - شرح الكائنات والبرامج النصية.
+3. الممارسة الموجهة (15 دقيقة):
+    - دع الطلاب يمارسون إنشاء مشاريع بسيطة.
+
+التقييم:
+- مراقبة قدرة الطلاب على إنشاء مشاريع بسيطة.
+- سؤال الطلاب عن سكراتش وأساسياتها.
+
+الواجب المنزلي:
+- إنشاء رسوم متحركة بسيطة باستخدام سكراتش.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+
+

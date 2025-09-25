@@ -1,0 +1,131 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس باللغة الإنجليزية):
+Parts of Computers
+
+Class (الفصل):
+First Grade
+
+Day (اليوم):
+Monday
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Identify the main parts of a computer.
+2. Understand the function of each part.
+
+Period (الفترة الزمنية):
+45 minutes
+
+Date (التاريخ):
+[Insert Date]
+
+Strategy (الاستراتيجية):
+Interactive Lecture, Hands-on Activity
+
+New Vocabularies (المفردات الجديدة):
+1. Monitor
+2. Keyboard
+3. Mouse
+4. CPU
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer Lab
+2. Projector
+3. Whiteboard
+4. Computer Parts Models
+
+Time (الوقت):
+- Warm-up: 5 minutes
+- Procedures: 30 minutes
+- Evaluation: 5 minutes
+- Homework: 5 minutes
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know the parts of a computer.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the topic of computer parts and ask students what they know about them.
+2. Presentation (15 minutes):
+    - Show the main parts of a computer and explain their functions.
+3. Hands-on Activity (10 minutes):
+    - Let students identify and touch the different parts of a computer.
+
+Evaluation (التقييم):
+- Ask students questions about the parts of a computer.
+
+Homework (الواجب المنزلي):
+- Draw and label the parts of a computer.
+
+Supervisor (المشرف):
+[Name of Supervisor]
+
+School Headmaster (مدير المدرسة):
+[Name of School Headmaster]
+
+خطة الدرس (باللغة العربية)
+عنوان الدرس:
+أجزاء الحاسب الآلي
+
+الفصل:
+الصف الأول الابتدائي
+
+اليوم:
+الاثنين
+
+أهداف الدرس:
+في نهاية هذا الدرس، سيتمكن الطلاب من:
+1. التعرف على الأجزاء الرئيسية للحاسب الآلي.
+2. فهم وظيفة كل جزء.
+
+الفترة الزمنية:
+45 دقيقة
+
+التاريخ:
+[تاريخ اليوم]
+
+الاستراتيجية:
+محاضرة تفاعلية، نشاط عملي
+
+المفردات الجديدة:
+1. الشاشة
+2. لوحة المفاتيح
+3. الفأرة
+4. وحدة المعالجة المركزية
+
+الوسائل التعليمية:
+1. معمل الحاسب الآلي
+2. جهاز العرض
+3. السبورة البيضاء
+4. نماذج أجزاء الحاسب الآلي
+
+الوقت:
+- التهيئة: 5 دقائق
+- الإجراءات: 30 دقيقة
+- التقييم: 5 دقائق
+- الواجب المنزلي: 5 دقائق
+
+التهيئة:
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون أجزاء الحاسب الآلي.
+
+الإجراءات:
+1. المقدمة (5 دقائق):
+    - تقديم موضوع أجزاء الحاسب الآلي وسؤال الطلاب عن ما يعرفونه عنها.
+2. العرض (15 دقيقة):
+    - عرض الأجزاء الرئيسية للحاسب الآلي وشرح وظائفها.
+3. النشاط العملي (10 دقائق):
+    - دع الطلاب يتعرفون على الأجزاء المختلفة للحاسب الآلي ويلمسونها.
+
+التقييم:
+- سؤال الطلاب عن أجزاء الحاسب الآلي.
+
+الواجب المنزلي:
+- ارسم واكتب أجزاء الحاسب الآلي.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+
