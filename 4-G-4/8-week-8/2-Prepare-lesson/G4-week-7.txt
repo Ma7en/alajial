@@ -1,0 +1,77 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Scratch Extensions (إضافات سكراتش)
+
+Class (الفصل):
+Fourth Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Thursday (الخميس)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand what Scratch extensions are.
+2. Use Scratch extensions to enhance their projects.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Hands-on Activity, Guided Practice (نشاط عملي، ممارسة موجهة)
+
+New Vocabularies (المفردات الجديدة):
+1. Extension (الإضافة)
+2. Enhance (تعزيز)
+3. Project (المشروع)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers (أجهزة الحاسب الآلي)
+2. Scratch software (برنامج سكراتش)
+3. Projector (جهاز العرض)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what Scratch extensions are.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هي إضافات سكراتش.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of Scratch extensions and their benefits.
+    - Explain how to add extensions to a Scratch project.
+    - تقديم مفهوم إضافات سكراتش وفوائدها.
+    - شرح كيفية إضافة إضافات إلى مشروع سكراتش.
+2. Guided Practice (15 minutes):
+    - Guide the students to add extensions to their Scratch projects.
+    - Ask students to explore different extensions and their features.
+    - توجيه الطلاب لإضافة إضافات إلى مشاريع سكراتش الخاصة بهم.
+    - دع الطلاب يستكشفون الإضافات المختلفة وميزاتها.
+3. Hands-on Activity (10 minutes):
+    - Let students work on their own to enhance their projects using Scratch extensions.
+    - دع الطلاب يعملون بمفردهم لتعزيز مشاريعهم باستخدام إضافات سكراتش.
+
+Evaluation (التقييم):
+- Observe students' projects and provide feedback.
+- Ask students questions about their use of Scratch extensions.
+- مراقبة مشاريع الطلاب وتقديم التغذية الراجعة.
+- سؤال الطلاب عن استخدامهم لإضافات سكراتش.
+
+Homework (الواجب المنزلي):
+- Create a new project using Scratch extensions and share it with the class.
+- إنشاء مشروع جديد باستخدام إضافات سكراتش ومشاركته مع الفصل.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+

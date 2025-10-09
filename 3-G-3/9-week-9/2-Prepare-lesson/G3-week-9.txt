@@ -1,0 +1,130 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Loops
+
+Class (الفصل):
+Third Grade
+
+Day (اليوم):
+Thursday
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of loops in programming.
+2. Use loops to repeat actions in a program.
+
+Period (الفترة الزمنية):
+45 minutes
+
+Date (التاريخ):
+[Insert Date]
+
+Strategy (الاستراتيجية):
+Hands-on Activity, Guided Practice
+
+New Vocabularies (المفردات الجديدة):
+1. Loop
+2. Repeat
+3. Iteration
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer Lab
+2. Computers
+3. Scratch software or other visual programming tools
+
+Time (الوقت):
+- Warm-up: 5 minutes
+- Procedures: 30 minutes
+- Evaluation: 5 minutes
+- Homework: 5 minutes
+
+Warm-up (التهيئة):
+- Greet the students and ask if they have ever repeated a task multiple times.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of loops and its importance in programming.
+    - Explain how loops can be used to repeat actions.
+2. Demonstration (10 minutes):
+    - Show students how to create a simple loop using Scratch or other visual programming tools.
+    - Explain the concept of iteration and how loops work.
+3. Guided Practice (15 minutes):
+    - Let students practice creating loops to repeat actions.
+
+Evaluation (التقييم):
+- Observe students' ability to create loops.
+- Ask students questions about loops and their uses.
+
+Homework (الواجب المنزلي):
+- Create a program that uses a loop to repeat an action.
+
+خطة الدرس (باللغة العربية)
+عنوان الدرس:
+الحلقات التكرارية
+
+الفصل:
+الصف الثالث الابتدائي
+
+اليوم:
+الخميس
+
+أهداف الدرس:
+في نهاية هذا الدرس، سيتمكن الطلاب من:
+1. فهم مفهوم الحلقات التكرارية في البرمجة.
+2. استخدام الحلقات التكرارية لتكرار الإجراءات في البرنامج.
+
+الفترة الزمنية:
+45 دقيقة
+
+التاريخ:
+[تاريخ اليوم]
+
+الاستراتيجية:
+نشاط عملي، ممارسة موجهة
+
+المفردات الجديدة:
+1. الحلقة التكرارية
+2. التكرار
+3. التكرارية
+
+الوسائل التعليمية:
+1. معمل الحاسب الآلي
+2. أجهزة الحاسب الآلي
+3. برنامج سكراتش أو أدوات برمجة بصرية أخرى
+
+الوقت:
+- التهيئة: 5 دقائق
+- الإجراءات: 30 دقيقة
+- التقييم: 5 دقائق
+- الواجب المنزلي: 5 دقائق
+
+التهيئة:
+- تحية الطلاب وسؤالهم إذا كانوا قد قاموا بتكرار مهمة ما عدة مرات.
+
+الإجراءات:
+1. المقدمة (5 دقائق):
+    - تقديم مفهوم الحلقات التكرارية وأهميتها في البرمجة.
+    - شرح كيفية استخدام الحلقات التكرارية لتكرار الإجراءات.
+2. العرض (10 دقائق):
+    - عرض كيفية إنشاء حلقة تكرارية بسيطة باستخدام سكراتش أو أدوات برمجة بصرية أخرى.
+    - شرح مفهوم التكرارية وكيفية عمل الحلقات التكرارية.
+3. الممارسة الموجهة (15 دقيقة):
+    - دع الطلاب يمارسون إنشاء حلقات تكرارية لتكرار الإجراءات.
+
+التقييم:
+- مراقبة قدرة الطلاب على إنشاء حلقات تكرارية.
+- سؤال الطلاب عن الحلقات التكرارية واستخداماتها.
+
+الواجب المنزلي:
+- إنشاء برنامج يستخدم حلقة تكرارية لتكرار إجراء ما.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+
+
+
