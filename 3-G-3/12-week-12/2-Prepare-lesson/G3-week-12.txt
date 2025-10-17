@@ -1,0 +1,129 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Conditions
+
+Class (الفصل):
+Third Grade
+
+Day (اليوم):
+Sunday
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of conditions in programming.
+2. Use conditions to make decisions in a program.
+
+Period (الفترة الزمنية):
+45 minutes
+
+Date (التاريخ):
+[Insert Date]
+
+Strategy (الاستراتيجية):
+Hands-on Activity, Guided Practice
+
+New Vocabularies (المفردات الجديدة):
+1. Condition
+2. If-then statement
+3. Decision-making
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer Lab
+2. Computers
+3. Scratch software or other visual programming tools
+
+Time (الوقت):
+- Warm-up: 5 minutes
+- Procedures: 30 minutes
+- Evaluation: 5 minutes
+- Homework: 5 minutes
+
+Warm-up (التهيئة):
+- Greet the students and ask if they have ever made decisions based on certain conditions.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of conditions and its importance in programming.
+    - Explain how conditions can be used to make decisions.
+2. Demonstration (10 minutes):
+    - Show students how to create a simple program using if-then statements.
+    - Explain the concept of decision-making in programming.
+3. Guided Practice (15 minutes):
+    - Let students practice creating programs that use conditions to make decisions.
+
+Evaluation (التقييم):
+- Observe students' ability to create programs that use conditions.
+- Ask students questions about conditions and decision-making.
+
+Homework (الواجب المنزلي):
+- Create a program that uses conditions to make decisions.
+
+خطة الدرس (باللغة العربية)
+عنوان الدرس:
+الشروط
+
+الفصل:
+الصف الثالث الابتدائي
+
+اليوم:
+الأحد
+
+أهداف الدرس:
+في نهاية هذا الدرس، سيتمكن الطلاب من:
+1. فهم مفهوم الشروط في البرمجة.
+2. استخدام الشروط لاتخاذ القرارات في البرنامج.
+
+الفترة الزمنية:
+45 دقيقة
+
+التاريخ:
+[تاريخ اليوم]
+
+الاستراتيجية:
+نشاط عملي، ممارسة موجهة
+
+المفردات الجديدة:
+1. الشرط
+2. جملة إذا-ثم
+3. اتخاذ القرار
+
+الوسائل التعليمية:
+1. معمل الحاسب الآلي
+2. أجهزة الحاسب الآلي
+3. برنامج سكراتش أو أدوات برمجة بصرية أخرى
+
+الوقت:
+- التهيئة: 5 دقائق
+- الإجراءات: 30 دقيقة
+- التقييم: 5 دقائق
+- الواجب المنزلي: 5 دقائق
+
+التهيئة:
+- تحية الطلاب وسؤالهم إذا كانوا قد اتخذوا قرارات بناءً على شروط معينة.
+
+الإجراءات:
+1. المقدمة (5 دقائق):
+    - تقديم مفهوم الشروط وأهميتها في البرمجة.
+    - شرح كيفية استخدام الشروط لاتخاذ القرارات.
+2. العرض (10 دقائق):
+    - عرض كيفية إنشاء برنامج بسيط باستخدام جمل إذا-ثم.
+    - شرح مفهوم اتخاذ القرار في البرمجة.
+3. الممارسة الموجهة (15 دقيقة):
+    - دع الطلاب يمارسون إنشاء برامج تستخدم الشروط لاتخاذ القرارات.
+
+التقييم:
+- مراقبة قدرة الطلاب على إنشاء برامج تستخدم الشروط.
+- سؤال الطلاب عن الشروط واتخاذ القرار.
+
+الواجب المنزلي:
+- إنشاء برنامج يستخدم الشروط لاتخاذ القرارات.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+
+

@@ -1,0 +1,82 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Design Frameworks (إطارات التصميم)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of design frameworks.
+2. Identify the benefits and applications of design frameworks.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Discussion, Demonstration (مناقشة، عرض توضيحي)
+
+New Vocabularies (المفردات الجديدة):
+1. Design Framework (إطار التصميم)
+2. Bootstrap (إطار عمل Bootstrap)
+3. Foundation (إطار عمل Foundation)
+4. UI/UX (تجربة المستخدم وواجهة المستخدم)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer with design software (جهاز كمبيوتر مع برنامج تصميم)
+2. Whiteboard (السبورة)
+3. Markers (علامات)
+4. Examples of design frameworks (أمثلة على إطارات التصميم)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what design frameworks are.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هي إطارات التصميم.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of design frameworks and their importance.
+    - Explain the benefits and applications of design frameworks.
+    - تقديم مفهوم إطارات التصميم وأهميتها.
+    - شرح الفوائد والتطبيقات لإطارات التصميم.
+2. Demonstration (15 minutes):
+    - Demonstrate how to use a design framework (e.g. Bootstrap) to create a web page.
+    - Explain the different components and features of the framework.
+    - عرض توضيحي لكيفية استخدام إطار تصميم (مثل Bootstrap) لإنشاء صفحة ويب.
+    - شرح المكونات والميزات المختلفة للإطار.
+3. Discussion (10 minutes):
+    - Discuss the advantages and disadvantages of using design frameworks.
+    - Ask students to share their thoughts and ideas about design frameworks.
+    - مناقشة مزايا وعيوب استخدام إطارات التصميم.
+    - اطلب من الطلاب مشاركة أفكارهم وآرائهم حول إطارات التصميم.
+
+Evaluation (التقييم):
+- Observe students' participation in the discussion.
+- Ask students questions about design frameworks and their applications.
+- مراقبة مشاركة الطلاب في المناقشة.
+- سؤال الطلاب عن إطارات التصميم وتطبيقاتها.
+
+Homework (الواجب المنزلي):
+- Research and write about different design frameworks and their features.
+- البحث عن وكتابة حول إطارات التصميم المختلفة وميزاتها.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+
+
