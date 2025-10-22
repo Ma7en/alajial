@@ -1,0 +1,81 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Introduction to Web (مقدمة إلى الويب)
+
+Class (الفصل):
+Sixth Grade (الصف السادس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the basic concepts of the web.
+2. Identify different components of the web.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Discussion, Demonstration (مناقشة، عرض توضيحي)
+
+New Vocabularies (المفردات الجديدة):
+1. Web (الويب)
+2. Internet (الإنترنت)
+3. Website (موقع ويب)
+4. Browser (المتصفح)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computer with internet access (جهاز كمبيوتر مع إمكانية الوصول إلى الإنترنت)
+2. Whiteboard (السبورة)
+3. Markers (علامات)
+4. Examples of websites (أمثلة على مواقع الويب)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what the web is.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هو الويب.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of the web and its importance.
+    - Explain the difference between the web and the internet.
+    - تقديم مفهوم الويب وأهميته.
+    - شرح الفرق بين الويب والإنترنت.
+2. Demonstration (15 minutes):
+    - Demonstrate how to access and navigate a website using a browser.
+    - Show examples of different types of websites (educational, entertainment, etc.).
+    - عرض توضيحي لكيفية الوصول إلى موقع ويب والتنقل فيه باستخدام المتصفح.
+    - عرض أمثلة على أنواع مختلفة من مواقع الويب (تعليمية، ترفيهية، إلخ).
+3. Discussion (10 minutes):
+    - Discuss the importance of the web in everyday life.
+    - Ask students to share their experiences and what they learned.
+    - مناقشة أهمية الويب في الحياة اليومية.
+    - اطلب من الطلاب مشاركة تجاربهم وما تعلموه.
+
+Evaluation (التقييم):
+- Observe students' participation in the discussion.
+- Ask students questions about the web and its components.
+- مراقبة مشاركة الطلاب في المناقشة.
+- سؤال الطلاب عن الويب ومكوناته.
+
+Homework (الواجب المنزلي):
+- Research and list 5 different types of websites and their purposes.
+- البحث عن 5 أنواع مختلفة من مواقع الويب وأغراضها وتدوينها.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
+
