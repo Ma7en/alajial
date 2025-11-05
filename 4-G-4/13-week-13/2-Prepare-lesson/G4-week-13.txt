@@ -1,0 +1,76 @@
+Lesson Plan (خطة الدرس)
+Lesson Title (عنوان الدرس):
+Operators (المشغلات)
+
+Class (الفصل):
+Fourth Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand what operators are in programming.
+2. Use operators to perform calculations and comparisons.
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Hands-on Activity, Guided Practice (نشاط عملي، ممارسة موجهة)
+
+New Vocabularies (المفردات الجديدة):
+1. Operator (المشغل)
+2. Arithmetic (الحساب)
+3. Comparison (المقارنة)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers (أجهزة الحاسب الآلي)
+2. Scratch software (برنامج سكراتش)
+3. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Greet the students and ask if they know what operators are.
+- تحية الطلاب وسؤالهم إذا كانوا يعرفون ما هي المشغلات.
+
+Procedures (الإجراءات):
+1. Introduction (5 minutes):
+    - Introduce the concept of operators and their importance in programming.
+    - Explain the different types of operators (arithmetic, comparison, etc.).
+    - تقديم مفهوم المشغلات وأهميتها في البرمجة.
+    - شرح أنواع المشغلات المختلفة (الحساب، المقارنة، إلخ).
+2. Guided Practice (15 minutes):
+    - Guide the students to use operators in Scratch.
+    - Ask students to practice using arithmetic and comparison operators.
+    - توجيه الطلاب لاستخدام المشغلات في سكراتش.
+    - دع الطلاب يمارسون استخدام مشغلات الحساب والمقارنة.
+3. Hands-on Activity (10 minutes):
+    - Let students work on their own to create a project that uses operators.
+    - دع الطلاب يعملون بمفردهم لإنشاء مشروع يستخدم المشغلات.
+
+Evaluation (التقييم):
+- Observe students' projects and provide feedback.
+- Ask students questions about their use of operators.
+- مراقبة مشاريع الطلاب وتقديم التغذية الراجعة.
+- سؤال الطلاب عن استخدامهم للمشغلات.
+
+Homework (الواجب المنزلي):
+- Create a new project that uses operators to perform calculations and comparisons.
+- إنشاء مشروع جديد يستخدم المشغلات لإجراء الحسابات والمقارنات.
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
