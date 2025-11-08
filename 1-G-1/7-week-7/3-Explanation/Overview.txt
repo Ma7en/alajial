@@ -1,0 +1,10 @@
+Problem Statement
+Hannah sat in front of the computer and wondered how she could make things work on the computer. She asked her mother how to move things on the computer and her mother began helping her. Can we also help her move things on the computer
+
+Description:
+The goal of this project is to learn about computer and laptop mice and touchpads, which are used for various functions that operate on the device.
+
+Additional Requirement
+PC or Laptop
+
+

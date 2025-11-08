@@ -1,0 +1,10 @@
+Problem Statement
+Sofia wants to learn more about computers. Can we identify to learn about the parts of it ?
+
+Description:
+The project focusses on exploring different types of computer devices and how to operate a computer. It also emphasises on the healthy practices one should follow while using a computer.
+
+Additional Requirement
+PC or Laptop
+
+

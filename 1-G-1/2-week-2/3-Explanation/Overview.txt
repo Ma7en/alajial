@@ -1,0 +1,12 @@
+Problem Statement
+Amelia is having a drawing competition at school. She needed a sketchbook to see some examples of drawings. She went to buy it but the store owner said they currently don't have the drawing books in the stock. She was worried and told her father. Her father said even if you don't have a sketchbook you can get some examples and ideas for drawing from another source. She wonders How she asked. Can we help her to get the examples to win the competition
+
+Description:
+This project emphasizes the learning of computers and other smart devices that are used to help our lives develop faster and grow more efficiently.
+
+Additional Requirement
+PC or Laptop
+
+
+
+
