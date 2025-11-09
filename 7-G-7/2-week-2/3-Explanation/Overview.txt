@@ -1,0 +1,8 @@
+Problem Statement
+Create a 3D toddler stacking toy using shapes like cylindrical rods and spherical rings using Blender application.
+
+Description:
+Understand the fundamental concepts of basic shapes geometry and create a 3D model using the 3D modelling Software Blender.
+
+Additional Requirement
+PC or Laptop

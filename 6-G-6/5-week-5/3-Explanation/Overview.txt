@@ -1,0 +1,8 @@
+Problem Statement
+Sarahs mother is busy with her work and often forgets to drink water, leading to dehydration. Help Sarah design a solution for her mother.
+
+Description:
+In this lesson, we will learn about the importance of design thinking and steps involved in it. The main focus of Design Thinking is the users and their problems. Learning more about the user helps us create a better solution for them.
+
+Additional Requirement
+PC or Laptop

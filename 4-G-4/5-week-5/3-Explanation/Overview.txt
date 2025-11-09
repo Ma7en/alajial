@@ -1,0 +1,8 @@
+Problem Statement
+There are so many books about space, stars and astronauts which helps us learn about planets and beyond. How can we design an engaging educational resource that captivates students by bringing space, stars, and astronauts to life, offering an enjoyable and informative experience beyond traditional textbooks?
+
+Description:
+In this project, we are going to explore Scratch and utilize it to create an animations.
+
+Additional Requirement
+PC or Laptop

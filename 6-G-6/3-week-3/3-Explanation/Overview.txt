@@ -1,0 +1,8 @@
+Problem Statement
+You are excited to share your love for flying paper planes with your classmates. You wish to explain various kinds of paper aircraft. How can you encourage others to make their own paper planes?
+
+Description:
+This project emphasises creating a poster to inform students about a study tour to Vikram Sarabhai Space Centre in the Vectr application .
+
+Additional Requirement
+PC or Laptop

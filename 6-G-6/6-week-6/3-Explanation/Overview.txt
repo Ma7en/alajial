@@ -1,0 +1,8 @@
+Problem Statement
+Dezain wants to create a Doddle Cam app but doesn't know how to make it. Let us help him explore the tool 'MIT App Inventor' and create the app.
+
+Description:
+This project emphasizes on understanding and exploring the tool
+
+Additional Requirement
+PC or Laptop

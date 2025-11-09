@@ -1,0 +1,8 @@
+Problem Statement
+Mia loved playing games on her tablet. She had lots of fun games and drawings saved on it. One day, Mia's little brother, Max, wanted to play on her tablet too. Mia didn't mind sharing, but she didn't want Max to mess up her games or drawings. What solution do you suggest to Mia?
+
+Description:
+In this lesson, we will learn the importance of passwords. We will set the password for our device and will also learn how to change it.
+
+Additional Requirement
+PC or Laptop

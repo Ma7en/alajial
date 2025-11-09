@@ -1,0 +1,8 @@
+Problem Statement
+Many people use websites to share information and promote their businesses. However, with so many simple web templates available today, what should we do when pre-designed templates don’t match our specific style and purpose?
+
+Description:
+This project aims on creating a customized self introduction webpage and design it using HTML and CSS.
+
+Additional Requirement
+PC or Laptop

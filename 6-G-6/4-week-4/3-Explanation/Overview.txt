@@ -1,0 +1,8 @@
+Problem Statement
+As technology advances, we notice that many applications play a vital role. We often identify these applications by their icons, which provide visual cues about the genre or purpose of the app. How can we design something ideal to represent an application?
+
+Description:
+In this session, we are going to learn about various types of icon and create one using vector application.
+
+Additional Requirement
+PC or Laptop

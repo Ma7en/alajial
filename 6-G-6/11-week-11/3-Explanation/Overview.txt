@@ -1,0 +1,8 @@
+Problem Statement
+Hannah is taking part in an exhibition at her school. She must gather data regarding the Internet of Things in order to participate. She next proceeded to her library, but she was unable to find sufficient information there. She told her mother, "I don't have enough information for my project," out of concern. For my project, I need to gather more information. Her mother began assisting her in gathering data from the internet. Can we assist
+
+Description:
+This project emphasizes the learning of the Internet and its applications, as well as how to access the internet and comprehend how the Web functions.
+
+Additional Requirement
+PC or Laptop

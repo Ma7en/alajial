@@ -1,0 +1,8 @@
+Problem Statement
+Joanna and her mom went shopping and made bill payments using a cell phone. Joanna asked her mom how she paid her bills without giving cash. Her mom helped her understand this method. Can we also assist her?
+
+Description:
+The project emphasizes the learning of wireless communication using technologies such as Bluetooth devices, NFC, Infrared and Wi-Fi hotspots for transferring data from one device to another.
+
+Additional Requirement
+PC or Laptop

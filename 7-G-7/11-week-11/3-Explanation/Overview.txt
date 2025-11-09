@@ -1,0 +1,8 @@
+Problem Statement
+Uma has a website with a traditional design that lacks a modern approach. She wants to upgrade its appearance to make it more contemporary and user friendly. Let us help her accomplish this.
+
+Description:
+This project focuses on creating a static website and enhancing its looks and appearance using the Bootstrap design framework
+
+Additional Requirement
+PC or Laptop

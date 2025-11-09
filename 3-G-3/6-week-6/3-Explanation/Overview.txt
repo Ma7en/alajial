@@ -1,0 +1,8 @@
+Problem Statement
+The group of three friends was fascinated by the world of technology and wished to create their own interactive stories and games. How will they achieve this
+
+Description:
+This project focuses on creating a simple code that adds movement to a sprite (Tom). Further, the sprite will be able to reach at the desired location.
+
+Additional Requirement
+PC or Laptop

@@ -1,0 +1,8 @@
+Problem Statement
+We often get to see various websites while searching for information. For instance, Wikipedia provides details when we seek specific information. How can we create something that presents information about us on the internet?
+
+Description:
+This project aims to explore code editor and create a webpage that will contain personal information, hobbies, idols, and some of our art and projects.
+
+Additional Requirement
+PC or Laptop

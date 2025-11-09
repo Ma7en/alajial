@@ -1,0 +1,8 @@
+Problem Statement
+You come across a new technology you have never seen before and want to learn more about it. What steps can you take to understand and get familiar with this new technology?
+
+Description:
+This project emphasises exploring new age technologies and gain deeper understanding about them like smart watches, fitness bands, GPS trackers, etc.
+
+Additional Requirement
+PC or Laptop

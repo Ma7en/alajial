@@ -1,0 +1,8 @@
+Problem Statement
+Adil and Sonia enjoy stargazing and exchanging information about it. They thought of sharing information on constellations with other friends, where they could actually present it on a computer. Assist them in accomplishing this.
+
+Description:
+This project aims to visualize 2D animation and create an animation of star constellation pattern using new techniques in Scratch.
+
+Additional Requirement
+PC or Laptop

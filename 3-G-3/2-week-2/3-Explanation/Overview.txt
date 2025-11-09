@@ -1,0 +1,8 @@
+Problem Statement
+Diya provided some fascinating information on the functional unit of the body that she learned in school. Her father was on the internet and was listening to her. Suddenly, her father inquired, "Diya, you're doing well in science; now tell me what the functional unit of the computer is?" She wondered and asked, "Dad, can you explain it to me?" Can we help her understand it as well?
+
+Description:
+This project emphasises the learning of computers' Central Processing Unit (CPU) and the many sections of the CPU that are used to run the computer.
+
+Additional Requirement
+PC or Laptop

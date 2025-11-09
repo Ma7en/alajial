@@ -1,0 +1,8 @@
+Problem Statement
+Time holds significant importance in our daily lives, with constant glances at the clock. For specific activities and games, we rely on clocks or stopwatches to measure time. How can we design a practical tool for tracking time?
+
+Description:
+In this project, we are going to learn different elements and techniques available in Scratch application and create our own timer in Scratch.
+
+Additional Requirement
+PC or Laptop

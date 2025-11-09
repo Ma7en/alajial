@@ -1,0 +1,8 @@
+Problem Statement
+Numerous apps are designed to boost task efficiency. For example, through voice-activated internet searches, we can swiftly find information. How can we go about creating an app that saves our time by instantly converting spoken words into text?
+
+Description:
+This project aims to explore MIT App Inventor and create an app that converts speech to text.
+
+Additional Requirement
+PC or Laptop

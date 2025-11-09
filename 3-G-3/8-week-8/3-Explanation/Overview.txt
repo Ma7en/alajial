@@ -1,0 +1,8 @@
+Problem Statement
+Karan's robot is able to do different tasks like walking running etc. repeatedly by giving commands. He is curious about achieving thesame for computer games. Help Karan in achieving this goal.
+
+Description:
+This project focuses on creating a simple code that allows the sprite to climb up stairs and reach the top. Further, the sprite expresses happiness upon reaching the top.
+
+Additional Requirement
+PC or Laptop

@@ -1,0 +1,8 @@
+Problem Statement
+With numerous thrilling computer games available that we enjoyplaying how can we craft something that is equally exciting.
+
+Description:
+In this project we are going to learn different tools and techniques as we craft a maze game using Scratch.
+
+Additional Requirement
+PC or Laptop

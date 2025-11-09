@@ -1,0 +1,8 @@
+Problem Statement
+We enjoy playing variety of exciting games with our friends and family. Some of these games, such as ludo, monopoly, and snakes and ladders, necessitate the use of dice. How can we develop an equipment that can be use for playing these board games?
+
+Description:
+In this project, we are going to explore Scratch and utilize it to create a dice that will show random number when clicked.
+
+Additional Requirement
+PC or Laptop

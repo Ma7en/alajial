@@ -1,0 +1,8 @@
+Problem Statement
+Riya goes to the book fair and collects some books from the book fair. While organising the books in the cabinet where her previous collection was stored, she suddenly asked her mother, "How is the work you do on the computer stored on the computer?" Her mother began explaining her how the data she worked on all day was stored on her computer. Can we help her understand it better?
+
+Description:
+This project focuses on learning about computer memory and the hardware memory devices on the computer that help the computer store all the data permanently and temporarily.
+
+Additional Requirement
+PC or Laptop

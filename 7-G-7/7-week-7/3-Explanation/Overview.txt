@@ -1,0 +1,8 @@
+Problem Statement
+In the early days of the internet websites often seemed cluttered and unattractive making it difficult for users to find what they needed. What improvements have been made over time to deal with these issues
+
+Description:
+This project aims on designing a website layout to provide services for people
+
+Additional Requirement
+PC or Laptop

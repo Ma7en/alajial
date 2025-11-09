@@ -1,0 +1,8 @@
+Problem Statement
+Arranging furniture at home can be tough. We are not always sure if things will fit and match nicely. Can you suggest new ways to visualize how different pieces fit and work in a room so they serve their purpose well
+
+Description:
+This project aims to demonstrate how measurement can be used to create a 3D furniture.
+
+Additional Requirement
+PC or Laptop

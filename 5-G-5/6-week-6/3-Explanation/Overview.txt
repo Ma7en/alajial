@@ -1,0 +1,8 @@
+Problem Statement
+While you are working a project, you encounter a challenge in creating accurate images for different vector quantities. The shapes you draw do not seem to represent vectors clearly. What techniques can you use to ensure your images effectively illustrate the concept of vectors?
+
+Description:
+This project emphasizes creating vector images to make appealing illustrations using Vector.
+
+Additional Requirement
+PC or Laptop
