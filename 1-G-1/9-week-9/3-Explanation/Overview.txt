@@ -1,0 +1,8 @@
+Problem Statement
+You are exploring your new keyboard and its various keys. You can identify letters and numbers but you see some keys with unusual symbols like arrows. What do these special keys on the keyboard do and how can you learn to use them effectively
+
+Description:
+The project focusses on introducing the different keys in the keyboard and its functions. It also shows the correct ways of using a keyboard.
+
+Additional Requirement
+Laptop or PC, Keyboard
