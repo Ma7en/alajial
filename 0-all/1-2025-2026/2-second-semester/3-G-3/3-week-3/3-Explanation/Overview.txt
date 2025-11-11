@@ -1,0 +1,8 @@
+Problem Statement
+While waiting for the school bus, Sarah notices a stray dog chasing butterflies. Enchanted by the playful scene, she imagines a risky mission carried out by a superhero dog. Inspired Sarah decides to turn this moment into her very own comic book adventure sparking her curiosity to explore the art of storytelling through vibrant illustrations. She then turned to her brother for assistance. Her brother began assisting her. Can we help her too?
+
+Description:
+This project focuses on learning about comic books and storybooks as well as using various features in Microsoft Word to create comics.
+
+Additional Requirement
+PC or Laptop

@@ -1,0 +1,8 @@
+Problem Statement
+Olivia is participating in an essay competition at her school. Following her teacher's instructions, she must complete an essay and send it to the competition organizing team. She has finished writing her essay, but she doesn't know how to send it. So she asked her mother for help. Can we also help her to send it and win the essay competition?
+
+Description:
+This project emphasizes the learning of how to use email to send and receive information and messages professionally.
+
+Additional Requirement
+PC or Laptop

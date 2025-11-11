@@ -1,0 +1,8 @@
+Problem Statement
+You have collected data of your classmates' birth months for your math project. How can you present it on your project?
+
+Description:
+This project focusses on how to use graphs using data in Microsoft Excel.
+
+Additional Requirement
+PC or Laptop

@@ -1,0 +1,8 @@
+Problem Statement
+You have tried to record a song that you were singing. However, your dog barked in the middle. How will you avoid the repetitive recording of your song?
+
+Description:
+The project focusses on how to setup the audio channel in Audacity audio editor.
+
+Additional Requirement
+PC or Laptop

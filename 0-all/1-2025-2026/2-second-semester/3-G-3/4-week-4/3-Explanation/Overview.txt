@@ -1,0 +1,8 @@
+Problem Statement
+Lila is planning a picnic with her friends. She repeated everything she needed for the picnic over and over again so she wouldn't forget anything. Her mother noticed this and suggested a new computer tool that could neatly arrange and organize her data. Can we also learn about it
+
+Description:
+This project emphasizes learning about data, information, tables, format, and Excel spreadsheets, as well as creating a spreadsheet of vegetable lists using the Excel software.
+
+Additional Requirement
+PC or Laptop
