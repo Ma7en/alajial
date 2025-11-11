@@ -1,0 +1,8 @@
+Problem Statement
+Ethan has a deep love for photography and has captured some stunning moments with his camera. He wants to create a dynamic website to showcase his work to a wider audience. However, he is unsure how to build such a website.
+
+Description:
+In this lesson, we will create a dynamic photography website. We will use HTML, CSS and
+
+Additional Requirement
+PC or Laptop

@@ -1,0 +1,8 @@
+Problem Statement
+Emily has always been fascinated by the ocean and its diverse ecosystems. Recently, during a school trip to the coast, she saw how human activities harm marine life. Determined to make a difference, Emily decided to start a petition. How can she reach a larger audience to push for stricter rules on pollution and overfishing and support efforts to protect endangered marine species?
+
+Description:
+In this lesson, we will implement a website featuring a simple design and a dynamic counter functionality to keep track of how many users have signed the
+
+Additional Requirement
+PC or Laptop

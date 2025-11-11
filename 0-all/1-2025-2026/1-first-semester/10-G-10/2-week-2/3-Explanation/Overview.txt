@@ -1,0 +1,8 @@
+Problem Statement
+Alex received a large wholesale order from a new client, but he struggled to quickly locate specific product details and pricing. Additionally, he spent too much time manually updating inventory and couldnt easily identify which products were running low. Can we find him a solution to streamline his inventory management and improve efficiency?
+
+Description:
+In this session, we are going to get familiar with databases, specifically MongoDB. We will understand what databases are, how to store data, and other related functionalities.
+
+Additional Requirement
+PC or Laptop

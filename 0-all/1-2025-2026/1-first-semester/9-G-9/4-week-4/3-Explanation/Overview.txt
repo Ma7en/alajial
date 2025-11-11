@@ -1,0 +1,8 @@
+Problem Statement
+Emily watched the weather forecast on TV and the next day it rained just as predicted. This sparked her fascination with meteorology.Inspired she set out to create her own weather forecasting app to provide accurate weather information to her community.
+
+Description:
+The goal of the project is to develop a simple weather forecasting web application that displays weather forecast information, fetched from an API.
+
+Additional Requirement
+PC or Laptop

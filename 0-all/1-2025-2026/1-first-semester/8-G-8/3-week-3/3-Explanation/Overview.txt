@@ -1,0 +1,8 @@
+Problem Statement
+Samuel has participated in a science project exhibition. He needs to show a physical as well as a digital model of his exhibit. He has created a 3D model of his project; however, he is unsure how he can show a working model of the project. Can you help him to animate his project so he can showcase it digitally as well?
+
+Description:
+This project aims to visualize 3D shapes and create a 3D model of a pendulum and animate it using the animation techniques in Blender.
+
+Additional Requirement
+PC or Laptop

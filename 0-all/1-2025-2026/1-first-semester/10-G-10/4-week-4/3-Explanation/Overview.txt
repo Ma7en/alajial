@@ -1,0 +1,8 @@
+Problem Statement
+Pedro is a skilled web developer, but he is finding it difficult to maintain a record of the various updates or changes that he makes throughout the development process. How can he solve this problem?
+
+Description:
+This project focusses on getting familiar with ‘Git’ and its application as a ‘Version Control System’. ​
+
+Additional Requirement
+PC or Laptop

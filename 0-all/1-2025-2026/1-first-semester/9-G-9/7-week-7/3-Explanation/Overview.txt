@@ -1,0 +1,8 @@
+Problem Statement
+Flying a plane is both challenging and exciting but it's often impractical in real life. However advanced computer systems have made it possible to experience flight through simulators and related games. Let's try to create a similar experience.
+
+Description:
+This project emphasizes the learning of simulation and simulator as well as developing a simple simulation of a flying plane in the sky using the concept of class in Object Oriented Programming.
+
+Additional Requirement
+PC or Laptop

@@ -1,0 +1,8 @@
+Problem Statement
+Pedro an animal lover noticed many stray dogs in his community. Concerned about their well-being he decided to create a website to connect with people. Driven by his passion for animal welfare Pedro started learning web development. Can we assist Pedro in creating an effective website to promote animal welfare.
+
+Description:
+This project aims to develop a dynamic and user-friendly animal welfare website using Node.js, a popular runtime environment for building server-side applications. This website will serve as a comprehensive platform dedicated to improving the lives of animals by addressing various challenges related to their well-being, care, and protection.
+
+Additional Requirement
+PC or Laptop

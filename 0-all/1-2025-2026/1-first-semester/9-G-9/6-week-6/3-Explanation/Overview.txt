@@ -1,0 +1,8 @@
+Problem Statement
+Ishan, interested in planetary science, sought help from his father to visually represent his ideas about the solar system. His father helped him visualise his ideas. Can we also assist him?
+
+Description:
+This project emphasizes the learning of Object Oriented Programming and p5js in which we will build a web that showcases the planets in our solar system.
+
+Additional Requirement
+PC or Laptop

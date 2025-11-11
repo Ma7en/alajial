@@ -1,0 +1,8 @@
+Problem Statement
+In our lives, animated movies and video games have been a source of joy. How can we create a captivating visual content that is equally enjoyable using variables and conditions?
+
+Description:
+This project aims to explore different concepts of variables and conditions to create a code for movement and learn about flowcharts, that is used to create a logical sequence for a program.
+
+Additional Requirement
+PC or Laptop

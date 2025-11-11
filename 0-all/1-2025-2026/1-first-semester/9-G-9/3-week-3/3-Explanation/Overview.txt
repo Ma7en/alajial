@@ -1,0 +1,8 @@
+Problem Statement
+Riya is in-charge of organizing a talent show at her school. She wants to make sure she records the information of the participants in a systematic manner while saving time and avoiding manual error. Help Riya find an effective solution.
+
+Description:
+In this lesson we are going to create an HTML Form and style it using CSS and Bootstrap.
+
+Additional Requirement
+PC or Laptop

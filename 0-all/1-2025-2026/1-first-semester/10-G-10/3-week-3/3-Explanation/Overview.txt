@@ -1,0 +1,8 @@
+Problem Statement
+People are becoming increasingly aware of the significance of yoga following the pandemic, why don’t we create a website and educate them more?
+
+Description:
+In this lesson, we are going to get familiar with the React library by creating a simple website on Yoga.
+
+Additional Requirement
+PC or Laptop

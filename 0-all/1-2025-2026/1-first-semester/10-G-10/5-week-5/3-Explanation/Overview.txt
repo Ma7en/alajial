@@ -1,0 +1,8 @@
+Problem Statement
+Lilly has a huge interest in audio recording and music production She wants to create her own studio in the future Currently she is learning coding and wants to implement learnings from her coding class into an application in the field of her interest like an audio recorder Can we help her with it
+
+Description:
+This project emphasizes creating a web-based application and its user interface design for
+
+Additional Requirement
+PC or Laptop
