@@ -1,0 +1,8 @@
+Problem Statement
+Dani was so curious about the documentary he watched about the forest. He asked his mom whether he could create one similar to that. His mom helped him create it. Can we also assist him?
+
+Description:
+This project emphasizes the learning of Movie making and creating a movie on the topic of “Every Drop Counts” by using the video editing software 'Openshot'.
+
+Additional Requirement
+PC or Laptop

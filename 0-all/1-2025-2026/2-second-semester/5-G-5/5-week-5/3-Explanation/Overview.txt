@@ -1,0 +1,8 @@
+Problem Statement
+Sanya was developing a PowerPoint presentation for her group project, but she appeared unhappy since all the slides she develops do not look similar and took a long time to do so. Can we find a solution for her?
+
+Description:
+This project emphasizes the learning of the Slide Master tool and its importance in creating customised theme designs for all the slides in a presentation.
+
+Additional Requirement
+PC or Laptop

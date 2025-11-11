@@ -1,0 +1,8 @@
+Problem Statement
+You have programmed your object to move, but it is not going in the right direction. How can you adjust the code to make sure the object moves the way you want it to?
+
+Description:
+This project emphasises how to add movement to an object in G Develop. The object should move when a key is pressed on the keyboard.
+
+Additional Requirement
+PC or Laptop

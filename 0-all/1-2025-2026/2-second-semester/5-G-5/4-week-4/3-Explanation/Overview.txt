@@ -1,0 +1,8 @@
+Problem Statement
+You are creating a presentation about your summer vacation trip. There is too much text on the slides, and it looks very messy. How can you fix it?
+
+Description:
+This project emphasizes learning to use SmartArt and Hyperlink to make an effective presentation in MS PowerPoint. These features make a presentation attractive and easy to read. Information can be presented with fewer words and some images.
+
+Additional Requirement
+PC or Laptop

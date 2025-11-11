@@ -1,0 +1,8 @@
+Problem Statement
+Sara was watching some kids play with a paper plane. She saw it fly for a bit, but then it quickly fell to the ground. Suddenly, an idea popped into her head: what if the paper plane could be controlled so it could fly longer and have an amazing adventure? Do you have any ideas on how we could make that happen?​
+
+Description:
+This project emphasises discovering real-life phenomena involved in flying a paper plane. Further, creating a paper plane game incorporating concepts of force and gravity.​
+
+Additional Requirement
+PC or Laptop
