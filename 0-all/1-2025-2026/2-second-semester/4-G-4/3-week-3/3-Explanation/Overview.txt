@@ -1,0 +1,8 @@
+Problem Statement
+You are creating an image by combining multiple pictures. You have added a few images, but you are not sure how to bring it into perfection. What techniques can you apply to make it look more cohesive and natural?
+
+Description:
+This project emphasizes layering multiple images to create a layered landscape image using various tools in Pixlr X.
+
+Additional Requirement
+PC or Laptop

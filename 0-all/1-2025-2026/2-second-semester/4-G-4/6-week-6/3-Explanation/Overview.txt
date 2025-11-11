@@ -1,0 +1,8 @@
+Problem Statement
+Julee is the team leader for her hockey team. Her teacher asked her to hand over the details of the team members. She knows all the details, but she is struggling to find a way to arrange them in an organized format. She sought assistance from her brother. Can we assist her as well?
+
+Description:
+This project emphasizes the learning of formulas and functions in Excel that helps to calculate and analyse large sets of data.
+
+Additional Requirement
+PC or Laptop

@@ -1,0 +1,8 @@
+Problem Statement
+Riya observes garbage in a lake and decides to raise awareness about water pollution. She seeks help from her father to find an interesting way to share her thoughts. Can we also help her?
+
+Description:
+This project emphasizes the learning of Microsoft PowerPoint and its various functions, as well as creating a PowerPoint presentation on Water Pollution.
+
+Additional Requirement
+PC or Laptop

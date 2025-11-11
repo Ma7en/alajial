@@ -1,0 +1,8 @@
+Problem Statement
+Your teacher made a really cool presentation, and the title and images popped up from the side and moved around. You wish to create a similar one. How will you create such a presentation?
+
+Description:
+This project focusses on Theme, Transition, and Animation and its applications in MS Powerpoint.
+
+Additional Requirement
+PC or Laptop

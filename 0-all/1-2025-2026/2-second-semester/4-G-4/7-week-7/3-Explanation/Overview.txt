@@ -1,0 +1,8 @@
+Problem Statement
+Rohan's parents asked him to provide the specifics of the data he gathered on the costs of his upcoming birthday celebration. Even though he is fully aware of the information, he fails to organize and present it. Can we assist him?
+
+Description:
+This project emphasizes the learning of conditional formatting and other different features of a Spreadsheet such as sort and filter, that help to calculate a large set of data.
+
+Additional Requirement
+PC or Laptop

@@ -1,0 +1,8 @@
+Problem Statement
+Jonath shows his father a photo of himself and his friends that he took on a school trip. While showing him his photo, he worried that it was a group photo of just him and his friends. But, all the photos have people around. Jonath’s father taught him a solution to removing unnecessary things from photos. Can we try that too?
+
+Description:
+This project emphasizes the learning of photo retouching in the image editor pixlr which will remove image defects or unwanted elements from the photograph to make it clear.
+
+Additional Requirement
+PC or Laptop

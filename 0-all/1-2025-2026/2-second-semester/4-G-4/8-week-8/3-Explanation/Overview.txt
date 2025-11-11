@@ -1,0 +1,9 @@
+Problem Statement
+Lyka is interested in keeping track of her weekly allowance. She must learn more about spreadsheets to stay organized in the Spreadsheet. Can we clarify the topic of spreadsheets for her?
+
+Description:
+This project emphasizes the learning of applications of a Spreadsheet and highlighting the value of spreadsheets in daily life.
+
+Additional Requirement
+PC or Laptop
+
