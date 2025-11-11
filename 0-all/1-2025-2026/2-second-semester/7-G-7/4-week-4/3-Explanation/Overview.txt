@@ -1,0 +1,8 @@
+Problem Statement
+Diya is wearing a fitness band. The feature in the fitness band indicates her body temperature when she presses it. Diya's sister enquired wondering how it was happening. Can we give her an explanation
+
+Description:
+This project emphasizes the learning of Sensors and their applications and to create an automatic light control circuit to understand the workings of a sensor.
+
+Additional Requirement
+Broadband. LDR SENSOR Light Dependent Sensor. LED. Resistor 10 k ohms. 9V Battery. Jumber Wires

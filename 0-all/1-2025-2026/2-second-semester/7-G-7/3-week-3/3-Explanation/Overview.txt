@@ -1,0 +1,8 @@
+Problem Statement
+In a world where information security is essential, Diya wondered how hard it is to make sure that no one secretly accesses our personal information online. To help her understand it, she sought her father’s assistance. Can we assist her as well?
+
+Description:
+This project emphasizes the learning of the fundamental principles of cryptography learning about cryptographic algorithms and exploring cryptographic techniques through practical exercises.
+
+Additional Requirement
+PC or Laptop

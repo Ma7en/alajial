@@ -1,0 +1,8 @@
+Problem Statement
+When Dia sent a photo to her cousin who lived miles away she wondered how the picture reached him so quickly. This curiosity prompted Dia to understand the magic of data transfer and the Internet. Can we help her understand it better
+
+Description:
+This project emphasizes the learning of data transfer over the Internet through various processes such as converting pixels to code, encoding data to binary, converting decimal to binary, and converting binary to decimal.
+
+Additional Requirement
+PC or Laptop
