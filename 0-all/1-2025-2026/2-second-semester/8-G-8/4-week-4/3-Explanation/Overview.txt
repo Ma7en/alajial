@@ -1,0 +1,8 @@
+Problem Statement
+Johan was excited while watching his brother play a 3D video game with his friends. He became curious about how the characters and objects in the game moved so smoothly. He wants to learn more. Can we explore how movement works in 3D games as well?
+
+Description:
+This project focuses on learning Unity, a cross-platform game engine used to create both 3D and 2D games and involves creating a part of the Litmus game.
+
+Additional Requirement
+PC or Laptop

@@ -1,0 +1,8 @@
+Problem Statement
+Vihaan was feeling bored during a vacation. To help, his father suggested creating a fun and exciting online game. Can we help Vihaan design a game that others would enjoy playing too?
+
+Description:
+This project emphasizes learning about video games and their influence on humans, both positive and negative. It covers the steps of the game design process such as Design, Develop, Build, and Test, and includes learning about various game engines used to build games.
+
+Additional Requirement
+PC or Laptop

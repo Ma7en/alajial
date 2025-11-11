@@ -1,0 +1,8 @@
+Problem Statement
+Sophie frequently faces confusion over temperature differences when she travels across countries. She wants to create a tool to ease the conversion between Celsius and Fahrenheit. How can she achieve this?
+
+Description:
+This project emphasizes the learning of Data analysis, the programming language Python, and how to program in VS Code by using Python.
+
+Additional Requirement
+PC or Laptop

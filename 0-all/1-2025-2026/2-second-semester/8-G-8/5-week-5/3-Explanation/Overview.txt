@@ -1,0 +1,8 @@
+Problem Statement
+Adlin is good at story creation. While imagining a world filled with 3D objects, she wants to make her story more exciting by adding visuals and movements to the objects. Can we help her bring her story to life?
+
+Description:
+This project focuses on learning the fundamentals of game development using the Unity game engine. It explores how to create and animate game objects using various tools within Unity to build an engaging game.​
+
+Additional Requirement
+PC or Laptop

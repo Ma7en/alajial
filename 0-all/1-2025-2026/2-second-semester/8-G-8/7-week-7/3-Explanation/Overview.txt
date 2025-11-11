@@ -1,0 +1,8 @@
+Problem Statement
+Joe is good at story creation. While imagining a story of 3d Objects she wants to express her story more impressively by visualizing and adding movements to her story objects. Can we help her?
+
+Description:
+This project emphasizes the learning of control flow statements, comparison operators and how to control the execution flow of a program in Python.
+
+Additional Requirement
+PC or Laptop

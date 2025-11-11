@@ -1,0 +1,8 @@
+Problem Statement
+Handling a complex code is challenging. We need a technique that breaks large code into smaller sections based on their functionality. How will you simplify this?
+
+Description:
+This project emphasizes learning how to create functions for each section of code and fill the columns with a gradient according to their order.
+
+Additional Requirement
+PC or Laptop

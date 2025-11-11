@@ -1,0 +1,8 @@
+Problem Statement
+Diya was asked to organize a large collection of nature photographs. She becomes frustrated as she tries to sort manually. She requested help from her brother. Can we also help her?
+
+Description:
+This project emphasizes the learning of Data management, about variables and lists in Python and how to collect and store data so that it can be reused later.
+
+Additional Requirement
+PC or Laptop
