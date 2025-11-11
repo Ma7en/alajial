@@ -1,0 +1,8 @@
+Problem Statement
+Dani questioned his brother about the safety of posting the tour photos on Instagram as he was witnessing him post them. Is it anything we can explain to him?
+
+Description:
+This project covers cybersecurity threats, generates random passwords, and checks network protection status.
+
+Additional Requirement
+PC or Laptop

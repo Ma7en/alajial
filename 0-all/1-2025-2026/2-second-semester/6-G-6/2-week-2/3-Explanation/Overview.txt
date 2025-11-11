@@ -1,0 +1,8 @@
+Problem Statement
+While watching the fun adventurous subway surf game. Dani intended to create a game similar to that. He asked for help from his father. Can we help him as well?
+
+Description:
+This project emphasises the learning of video games and game design and creating a platformer game using GDevelop software.
+
+Additional Requirement
+PC/Laptop
