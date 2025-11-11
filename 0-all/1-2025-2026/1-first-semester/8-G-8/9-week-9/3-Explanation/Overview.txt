@@ -1,0 +1,8 @@
+Problem Statement
+Jiya organized her bookshelf by genre and size, feeling overwhelmed. Her sister noticed her efforts and questioned about sorting in computers. Diya was wondered in learning more about sorting. Can we help her?
+
+Description:
+This project emphasizes the learning of sorting and sorting algorithms, creating several columns with random heights and sorting them in an ascending order using an array and functions.
+
+Additional Requirement
+PC or Laptop
