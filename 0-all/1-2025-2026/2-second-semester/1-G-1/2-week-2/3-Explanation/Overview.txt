@@ -1,0 +1,8 @@
+Problem Statement
+You have a few files related to your schoolwork but they are scattered all over your computer. How can you keep these files organised to help find your schoolwork easily
+
+Description:
+This project focusses on the basics of creating and saving files and folders in your PC.
+
+Additional Requirement
+PC or Laptop

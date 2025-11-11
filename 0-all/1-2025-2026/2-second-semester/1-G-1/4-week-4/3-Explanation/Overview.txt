@@ -1,0 +1,8 @@
+Problem Statement
+Have you ever watched a video or listened to a song on a mobile phone?
+
+Description:
+This project focusses on introducing different kinds of multimedia which we use in our daily lives.
+
+Additional Requirement
+PC or Laptop

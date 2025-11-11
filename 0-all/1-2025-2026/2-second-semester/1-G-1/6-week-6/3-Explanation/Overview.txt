@@ -1,0 +1,8 @@
+Problem Statement
+Anvi is about to participate in a speech competition at her school. She needs a collection of information for her speech. So she went to the school library but couldn't find enough information. She asked her mother for help. Can we also help her get information to win the speech contest
+
+Description:
+This project emphasizes learning about the internet the Kiddle website and how to search and get information from the website Kiddle.
+
+Additional Requirement
+PC or Laptop

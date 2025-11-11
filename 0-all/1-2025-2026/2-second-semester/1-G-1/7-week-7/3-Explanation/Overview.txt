@@ -1,0 +1,8 @@
+Problem Statement
+Sarah loves drawing on her laptop but she is stuck. She finds it difficult to show the Sun hiding behind mountains. That's when her mother tells her about 'layers' - a cool trick in drawing. Sarah is excited to try. Let us help Sarah in creating this digital drawing.
+
+Description:
+This project aims to familiarise you with the concept of layers in digital drawing. We will draw different objects on different layers and form one picture.
+
+Additional Requirement
+PC or Laptop

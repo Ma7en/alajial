@@ -1,0 +1,8 @@
+Problem Statement
+While visiting an LED showroom Vihaan is captivated by screens changing automatically displaying vibrant visuals. Curious he asks his brother if they can do the same on their computer. His brother begins teaching him about customizing desktop images. Can we also help him to understand it?
+
+Description:
+This project emphasizes the learning of a desktop and its various components as well as how to change the desktop wallpaper.
+
+Additional Requirement
+PC or Laptop

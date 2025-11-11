@@ -1,0 +1,8 @@
+Problem Statement
+It is difficult to correct mistakes on paper especially when we write with ink. What will you use where you will be able to correct mistakes easily?
+
+Description:
+This project focusses on the basics of Notepad and its application.
+
+Additional Requirement
+PC or Laptop
