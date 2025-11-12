@@ -1,0 +1,8 @@
+Problem Statement
+When Diya started playing Temple Run she was excited about the game's features since they made her feel like she was in real life. She wondered how these assets are looking so real as well as sharing them with his brother. Her brother began assisting her in understanding it. Can we help her too
+
+Description:
+This project emphasizes the learning of 3D Design and Modelling and learning of some new concepts of modelling in Blender and applying them to create the basic structure of a table lamp.
+
+Additional Requirement
+PC or Laptop
