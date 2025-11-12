@@ -1,0 +1,8 @@
+Problem Statement
+You are trying to create Virtual World but how will you simulate virtual objects and entities similar to those in the real world.
+
+Description:
+This project emphasis creating a class for the moving object/agent that can exhibit all the necessary properties and methods in the VS Code Editor. We will also be creating the activity using an offline code editor VS Code similar to the earlier lessons.
+
+Additional Requirement
+PC or Laptop

@@ -1,0 +1,8 @@
+Problem Statement
+Ishan was searching for a book on the internet and noticed that suggestions for books similar to the one he was searching for continued to pop up. He enquired to his dad about how it was made. His father began helping him understand how the internet knows his choices. Can we also learn about it?
+
+Description:
+The lesson explores machine learning algorithms, categorizing them into Supervised, Unsupervised, Semi-Supervised, and Reinforcement Learning. It also provides a practical activity on creating a machine learning program using Python libraries.
+
+Additional Requirement
+PC or Laptop

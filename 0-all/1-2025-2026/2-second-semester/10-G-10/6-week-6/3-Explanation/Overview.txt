@@ -1,0 +1,8 @@
+Problem Statement
+While watching television Dani was impressed by the miniature characters in the advertisement. He pictured the scene if the tiny characters danced and jumped around. His curiosity led him to desire to make one. He approached his father for help. Can we also assist him?
+
+Description:
+This project focuses on learning the fundamentals of 3D animation and storyboarding. Students will animate the 3D Pokémon character they previously created by using rigging and keyframing techniques in Blender. The project emphasizes how to bring characters to life through movement and storytelling.​
+
+Additional Requirement
+PC or Laptop

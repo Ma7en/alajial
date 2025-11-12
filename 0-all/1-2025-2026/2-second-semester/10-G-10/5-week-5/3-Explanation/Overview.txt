@@ -1,0 +1,8 @@
+Problem Statement
+While strolling down the street with her father, Yashvi saw a digital banner promoting a cartoon exhibition where cartoon characters were dancing and being funny. Yashvi asked her father, how these characters were looking so real. Her father began assisting her in learning how the characters looked so real. Can we help her too?
+
+Description:
+This project focuses on learning how to model a 3D character from scratch. It introduces essential tools and techniques such as the Spin tool, UV layout basics, and UV unwrapping. Students will also learn how to apply materials and textures to give the character a realistic appearance.​
+
+Additional Requirement
+PC or Laptop

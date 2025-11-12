@@ -1,0 +1,9 @@
+Problem Statement
+All of us have visited supermarkets However have you ever wondered how these supermarkets track the records of thousands of products How do they determine the remaining stock at the end of every month.
+
+Description:
+In this session, we will learn how to create a database. We will add a table to our database and will modify its contents. Through this project, we will have a deeper insight into the significance of databases.
+
+Additional Requirement
+PC or Laptop
+
