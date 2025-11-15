@@ -1,0 +1,8 @@
+Problem Statement
+Aarav was fascinated by the colourful artwork he saw online and wondered how it was created. Curious, he approached his mother and enquired about digital drawings. Together, they began the journey of digital painting.
+
+Description:
+This project aims to familarise you with the digital painting tool-Krita. In this project, we will explore brush palette, fill tool, colour selector, and much more.
+
+Additional Requirement
+PC or Laptop
