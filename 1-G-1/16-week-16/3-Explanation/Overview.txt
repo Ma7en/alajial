@@ -1,0 +1,8 @@
+Problem Statement
+As Aarav looked around he noticed that everything seemed to be made up of basic shapes. The table was a rectangle, the clock a circle, and even the windows were squares. Aarav was curious why are things made of shapes .Let us help Aarav understand drawing with shapes.
+
+Description:
+This project aims to familiarise you to the concept of drawing with shapes. We will use various shapes to create an interesting sketch and fill colours in it.
+
+Additional Requirement
+PC or Laptop
