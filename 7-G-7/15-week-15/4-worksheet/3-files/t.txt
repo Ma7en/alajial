@@ -1,0 +1,6 @@
+Computers can only understand the language of Os and 1s.
+
+A compiler converts written code into a language that a computer understands.
+
+
+

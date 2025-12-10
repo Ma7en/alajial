@@ -1,0 +1,7 @@
+A table is made up of Rows and Columns
+
+The two tools to make different types of lists are Bullets and numbering
+
+
+
+

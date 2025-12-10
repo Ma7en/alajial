@@ -1,0 +1,5 @@
+HTML creates the  Structure of a website
+
+
+Every HTML code starts with <!DOCTYPE html> tag
+
