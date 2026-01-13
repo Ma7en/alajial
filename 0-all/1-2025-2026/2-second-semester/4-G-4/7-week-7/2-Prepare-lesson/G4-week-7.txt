@@ -1,0 +1,87 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Analyse Data (تحليل البيانات في الجداول الحسابية)
+
+Class (الفصل):
+Fourth Elementary Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Sort data in alphabetical or numerical order.
+2. Use basic functions like SUM and AVERAGE to analyze a set of numbers.
+3. Create a simple chart (Bar or Pie chart) to visualize data.
+(1. فرز البيانات بترتيب أبجدي أو عددي.
+2. استخدام الدوال الأساسية مثل SUM و AVERAGE لتحليل مجموعة من الأرقام.
+3. إنشاء مخطط بسيط (أعمدة أو دائري) لتمثيل البيانات بصرياً.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Data Exploration, Visual Learning, Hands-on Analysis (استكشاف البيانات، تعلم بصري، تحليل عملي)
+
+New Vocabularies (المفردات الجديدة):
+1. Sort (فرز/ترتيب)
+2. Function (دالة)
+3. Average (المتوسط)
+4. Chart/Graph (مخطط/رسم بياني)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Excel or Google Sheets (أجهزة كمبيوتر مع برنامج جداول بيانات)
+2. Projector (جهاز عرض)
+3. A dataset of students' favorite fruits or colors (مجموعة بيانات عن الفواكه أو الألوان المفضلة للطلاب)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a messy list of names and ages. Ask: "Who is the oldest? Who is the youngest? Is it easy to find out from this list?"
+- Introduce "Sorting" and "Analysis."
+(عرض قائمة غير مرتبة لأسماء وأعمار. اسأل: "من هو الأكبر سناً؟ من هو الأصغر؟ هل من السهل معرفة ذلك من هذه القائمة؟"
+تقديم "الفرز" و "التحليل".)
+
+Procedures (الإجراءات):
+1. Sorting Data (10 minutes):
+    - Show how to select a column and use the "Sort A to Z" or "Sort Z to A" tool.
+    - Demonstrate sorting numbers from smallest to largest.
+    (توضيح كيفية تحديد عمود واستخدام أداة "الفرز من أ إلى ي".
+    توضيح فرز الأرقام من الأصغر إلى الأكبر.)
+2. Using Functions (10 minutes):
+    - Introduce the `SUM` function to add a whole column: `=SUM(B1:B10)`.
+    - Introduce the `AVERAGE` function to find the middle value.
+    - Activity: Students find the total and average of a list of test scores.
+    (تقديم دالة `SUM` لجمع عمود كامل.
+    تقديم دالة `AVERAGE` لإيجاد القيمة المتوسطة.
+    نشاط: يجد الطلاب المجموع والمتوسط لقائمة درجات اختبار.)
+3. Visualizing with Charts (10 minutes):
+    - Show how to select data and click "Insert Chart."
+    - Explain when to use a Bar chart (comparing things) vs. a Pie chart (parts of a whole).
+    (توضيح كيفية تحديد البيانات والنقر على "إدراج مخطط".
+    شرح متى نستخدم مخطط الأعمدة (للمقارنة) مقابل المخطط الدائري (لأجزاء من الكل).)
+
+Evaluation (التقييم):
+- Ask students: "What is the benefit of using a chart instead of just looking at numbers?"
+- Check students' charts: Do they have labels and a title?
+(اسأل الطلاب: "ما هي فائدة استخدام المخطط بدلاً من مجرد النظر إلى الأرقام؟"
+التحقق من مخططات الطلاب: هل تحتوي على تسميات وعنوان؟)
+
+Homework (الواجب المنزلي):
+- Collect data from 5 family members about their favorite color and draw a simple bar chart on paper.
+(اجمع بيانات من 5 من أفراد عائلتك عن لونهم المفضل وارسم مخطط أعمدة بسيطاً على الورق.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Spreadsheet Formulas (صيغ الجداول الحسابية)
+
+Class (الفصل):
+Fourth Elementary Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of a cell and its address (e.g., A1, B2).
+2. Use basic formulas for addition and subtraction.
+3. Understand that formulas always start with an equals sign (=).
+(1. فهم مفهوم الخلية وعنوانها (مثل A1، B2).
+2. استخدام الصيغ الأساسية للجمع والطرح.
+3. فهم أن الصيغ تبدأ دائماً بعلامة يساوي (=).)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Guided Practice, Mathematical Application (عرض توضيحي، ممارسة موجهة، تطبيق رياضي)
+
+New Vocabularies (المفردات الجديدة):
+1. Spreadsheet (جدول بيانات)
+2. Cell (خلية)
+3. Formula (صيغة/معادلة)
+4. Equals Sign (علامة يساوي)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Microsoft Excel or Google Sheets (أجهزة كمبيوتر مع برنامج إكسل أو جوجل شيتس)
+2. Projector (جهاز عرض)
+3. A simple shopping list example (نموذج لقائمة تسوق بسيطة)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "If you have a long list of numbers to add, is it faster to do it by hand or let a computer do it for you?"
+- Introduce the Spreadsheet as a "Super Calculator."
+(اسأل الطلاب: "إذا كان لديك قائمة طويلة من الأرقام لجمعها، فهل من الأسرع القيام بذلك يدوياً أم ترك الكمبيوتر يفعل ذلك نيابة عنك؟"
+تقديم جدول البيانات كـ "آلة حاسبة خارقة".)
+
+Procedures (الإجراءات):
+1. Cells and Addresses (10 minutes):
+    - Explain that a spreadsheet is made of Columns (A, B, C) and Rows (1, 2, 3).
+    - Show how to find a cell address (e.g., where Column B meets Row 3 is B3).
+    - Activity: Ask students to click on specific cells like C5 or A2.
+    (شرح أن جدول البيانات يتكون من أعمدة (A, B, C) وصفوف (1, 2, 3).
+    توضيح كيفية إيجاد عنوان الخلية (مثلاً: التقاء العمود B مع الصف 3 هو B3).
+    نشاط: اطلب من الطلاب النقر على خلايا محددة مثل C5 أو A2.)
+2. Basic Formulas (15 minutes):
+    - Explain the golden rule: **Every formula starts with =**.
+    - Show how to add two cells: `=A1+B1`.
+    - Show how to subtract: `=A1-B1`.
+    - Activity: Create a simple table with two numbers and use a formula to find the total.
+    (شرح القاعدة الذهبية: **كل صيغة تبدأ بـ =**.
+    توضيح كيفية جمع خليتين: `=A1+B1`.
+    توضيح كيفية الطرح: `=A1-B1`.
+    نشاط: إنشاء جدول بسيط به رقمان واستخدام صيغة لإيجاد المجموع.)
+3. Auto-update (5 minutes):
+    - Change one of the numbers and show how the total updates automatically.
+    (تغيير أحد الأرقام وإظهار كيف يتحدث المجموع تلقائياً.)
+
+Evaluation (التقييم):
+- Ask students: "What symbol must we type first to start a formula?"
+- Check students' spreadsheets: Did they use a formula (like =A1+B1) or just type the answer?
+(اسأل الطلاب: "ما هو الرمز الذي يجب كتابته أولاً لبدء الصيغة؟"
+التحقق من جداول الطلاب: هل استخدموا صيغة (مثل =A1+B1) أم كتبوا الإجابة فقط؟)
+
+Homework (الواجب المنزلي):
+- Create a list of 5 items and their prices on paper, and write down the formula you would use to add them all up.
+(أنشئ قائمة بـ 5 أصناف وأسعارها على الورق، واكتب الصيغة التي ستستخدمها لجمعها جميعاً.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

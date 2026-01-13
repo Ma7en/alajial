@@ -1,0 +1,91 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Animation and Transition (الحركات والانتقالات في العروض التقديمية)
+
+Class (الفصل):
+Fourth Elementary Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Differentiate between animations and transitions.
+2. Apply transitions between slides to make the presentation flow smoothly.
+3. Add animations to text and images to make them move.
+(1. التفريق بين الحركات (Animations) والانتقالات (Transitions).
+2. تطبيق الانتقالات بين الشرائح لجعل العرض يتدفق بسلاسة.
+3. إضافة حركات للنصوص والصور لجعلها تتحرك.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Hands-on Practice, Creative Exploration (عرض توضيحي، ممارسة عملية، استكشاف إبداعي)
+
+New Vocabularies (المفردات الجديدة):
+1. Transition (انتقال - بين الشرائح)
+2. Animation (حركة - للعناصر)
+3. Entrance (دخول)
+4. Emphasis (توكيد)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with PowerPoint or Google Slides (أجهزة كمبيوتر مع برنامج عروض تقديمية)
+2. Projector (جهاز عرض)
+3. A presentation with and without animations (to show the difference) (عرض تقديمي مع وبدون حركات لتوضيح الفرق)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a presentation where slides just "snap" to the next one. Then show one with a "Fade" or "Push" transition. Ask: "Which one looks more professional and exciting?"
+- Introduce Transitions and Animations.
+(عرض عرض تقديمي حيث "تنتقل" الشرائح فجأة. ثم عرض آخر مع انتقال "تلاشي" أو "دفع". اسأل: "أيهما يبدو أكثر احترافية وإثارة؟"
+تقديم الانتقالات والحركات.)
+
+Procedures (الإجراءات):
+1. Slide Transitions (10 minutes):
+    - Explain that transitions happen **between** slides.
+    - Show the "Transitions" tab.
+    - Demonstrate common transitions: Fade, Push, Wipe.
+    - Show how to "Apply to All" slides.
+    (شرح أن الانتقالات تحدث **بين** الشرائح.
+    عرض تبويب "انتقالات".
+    توضيح الانتقالات الشائعة: تلاشي، دفع، مسح.
+    توضيح كيفية "التطبيق على الكل".)
+2. Object Animations (15 minutes):
+    - Explain that animations happen **to objects** (text, images) on a slide.
+    - Show the "Animations" tab.
+    - Demonstrate "Entrance" effects (how things appear).
+    - Activity: Students add a transition to their presentation and animate the title of their first slide.
+    (شرح أن الحركات تحدث **للعناصر** (نصوص، صور) داخل الشريحة.
+    عرض تبويب "حركات".
+    توضيح تأثيرات "الدخول" (كيف تظهر الأشياء).
+    نشاط: يضيف الطلاب انتقالاً لعرضهم ويحركون عنوان شريحتهم الأولى.)
+3. Previewing (5 minutes):
+    - Show how to use the "Slide Show" button to see the final result.
+    (توضيح كيفية استخدام زر "عرض الشرائح" لرؤية النتيجة النهائية.)
+
+Evaluation (التقييم):
+- Ask students: "What is the difference between a transition and an animation?"
+- Check students' work: Does the presentation have smooth transitions and at least one animated object?
+(اسأل الطلاب: "ما الفرق بين الانتقال والحركة؟"
+التحقق من عمل الطلاب: هل يحتوي العرض على انتقالات سلسة وعنصر متحرك واحد على الأقل؟)
+
+Homework (الواجب المنزلي):
+- Practice adding different animations to a picture in a PowerPoint file at home.
+(تدرب على إضافة حركات مختلفة لصورة في ملف بوربوينت في المنزل.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

@@ -1,0 +1,90 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Arduino Programming (برمجة الأردوينو)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand what Arduino is and its components.
+2. Learn the basics of the Arduino IDE (Integrated Development Environment).
+3. Write and upload a simple code to blink an LED.
+(1. فهم ماهية الأردوينو ومكوناته.
+2. تعلم أساسيات بيئة تطوير الأردوينو (Arduino IDE).
+3. كتابة ورفع كود بسيط لجعل مصباح LED يومض.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Hands-on Activity, Demonstration, Collaborative Learning (نشاط عملي، عرض توضيحي، تعلم تعاوني)
+
+New Vocabularies (المفردات الجديدة):
+1. Microcontroller (المتحكم الدقيق)
+2. IDE (بيئة التطوير المتكاملة)
+3. Sketch (سكيتش/كود برمجي)
+4. Pin (منفذ/دبوس)
+
+Teaching Aids (الوسائل التعليمية):
+1. Arduino Uno Board (لوحة أردوينو أونو)
+2. USB Cable (كابل USB)
+3. LED and Resistor (مصباح LED ومقاومة)
+4. Computer with Arduino IDE installed (كمبيوتر مثبت عليه برنامج الأردوينو)
+5. Projector (جهاز عرض)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show the students an Arduino board and ask if they know what it is.
+- Explain that this small board can control robots, lights, and many other things.
+(عرض لوحة الأردوينو على الطلاب وسؤالهم عما إذا كانوا يعرفون ما هي.
+شرح أن هذه اللوحة الصغيرة يمكنها التحكم في الروبوتات والأضواء وأشياء أخرى كثيرة.)
+
+Procedures (الإجراءات):
+1. Introduction to Arduino (10 minutes):
+    - Define Arduino as an open-source electronics platform.
+    - Identify the main parts: Microcontroller, Digital/Analog Pins, Power Port.
+    (تعريف الأردوينو كمنصة إلكترونية مفتوحة المصدر.
+    تحديد الأجزاء الرئيسية: المتحكم الدقيق، المنافذ الرقمية/التماثلية، منفذ الطاقة.)
+2. Exploring the IDE (10 minutes):
+    - Open the Arduino IDE on the projector.
+    - Explain the basic structure of a sketch: `void setup()` and `void loop()`.
+    (فتح برنامج الأردوينو (IDE) عبر جهاز العرض.
+    شرح الهيكل الأساسي للكود: `void setup()` و `void loop()`.)
+3. Hands-on Activity: Blink LED (10 minutes):
+    - Guide students to connect an LED to Pin 13.
+    - Write the "Blink" code together.
+    - Demonstrate how to "Verify" and "Upload" the code.
+    (توجيه الطلاب لتوصيل مصباح LED بالمنفذ 13.
+    كتابة كود "الوميض" (Blink) معًا.
+    توضيح كيفية "التحقق" (Verify) و "رفع" (Upload) الكود.)
+
+Evaluation (التقييم):
+- Ask students: "What is the function of `void loop()` in Arduino code?"
+- Observe if the students' LEDs are blinking successfully.
+(اسأل الطلاب: "ما هي وظيفة `void loop()` في كود الأردوينو؟"
+ملاحظة ما إذا كانت مصابيح الـ LED الخاصة بالطلاب تومض بنجاح.)
+
+Homework (الواجب المنزلي):
+- Research and find one creative project that can be built using Arduino.
+(ابحث واكتشف مشروعًا إبداعيًا واحدًا يمكن بناؤه باستخدام الأردوينو.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!

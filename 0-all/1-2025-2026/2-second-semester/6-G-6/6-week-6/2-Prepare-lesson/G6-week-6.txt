@@ -1,0 +1,85 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Basic Electronics (أساسيات الإلكترونيات)
+
+Class (الفصل):
+Sixth Elementary Grade (الصف السادس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the basic components of an electronic circuit.
+2. Differentiate between conductors and insulators.
+3. Identify the symbols used in circuit diagrams.
+(1. فهم المكونات الأساسية للدائرة الإلكترونية.
+2. التفريق بين الموصلات والعوازل.
+3. تحديد الرموز المستخدمة في مخططات الدوائر.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Hands-on Exploration, Visual Learning (عرض توضيحي، استكشاف عملي، تعلم بصري)
+
+New Vocabularies (المفردات الجديدة):
+1. Circuit (دائرة كهربائية)
+2. Battery (بطارية)
+3. Conductor (موصل)
+4. Insulator (عازل)
+
+Teaching Aids (الوسائل التعليمية):
+1. Basic circuit kit (Battery, LED, Wires, Switch) (مجموعة دوائر أساسية)
+2. Various materials (Metal spoon, Plastic ruler, Wood, Eraser) (مواد متنوعة)
+3. Projector and circuit symbols chart (جهاز عرض ومخطط رموز الدوائر)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a small LED and a battery. Ask: "How can we make this light turn on?"
+- Introduce the concept of a "Closed Circuit."
+(عرض مصباح LED صغير وبطارية. اسأل: "كيف يمكننا جعل هذا الضوء يضيء؟"
+تقديم مفهوم "الدائرة المغلقة".)
+
+Procedures (الإجراءات):
+1. Components of a Circuit (10 minutes):
+    - Explain the 4 main parts: Power source (Battery), Path (Wires), Load (LED/Bulb), and Control (Switch).
+    - Show the symbols for each component on the board.
+    (شرح الأجزاء الأربعة الرئيسية: مصدر الطاقة (البطارية)، المسار (الأسلاك)، الحمل (LED/مصباح)، والتحكم (المفتاح).
+    عرض رموز كل مكون على السبورة.)
+2. Conductors vs. Insulators (15 minutes):
+    - Activity: Use a simple circuit to test different materials.
+    - If the LED lights up, the material is a **Conductor** (e.g., metal).
+    - If it doesn't, it's an **Insulator** (e.g., plastic, wood).
+    (نشاط: استخدام دائرة بسيطة لاختبار مواد مختلفة.
+    إذا أضاء الـ LED، فإن المادة **موصلة** (مثل المعدن).
+    إذا لم يضئ، فهي **عازلة** (مثل البلاستيك، الخشب).)
+3. Circuit Diagrams (5 minutes):
+    - Draw a simple circuit diagram and ask students to identify the components.
+    (رسم مخطط دائرة بسيطة وطلب من الطلاب تحديد المكونات.)
+
+Evaluation (التقييم):
+- Ask students: "What is the difference between a conductor and an insulator?"
+- Ask: "What happens to the circuit if we open the switch?"
+(اسأل الطلاب: "ما الفرق بين الموصل والعازل؟"
+اسأل: "ماذا يحدث للدائرة إذا فتحنا المفتاح؟")
+
+Homework (الواجب المنزلي):
+- Draw a circuit diagram that includes a battery, two wires, a switch, and a bulb.
+(ارسم مخطط دائرة يتضمن بطارية، سلكين، مفتاحاً، ومصباحاً.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

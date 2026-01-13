@@ -1,0 +1,85 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Tinkercad Circuits (دوائر تينكركاد)
+
+Class (الفصل):
+Sixth Elementary Grade (الصف السادس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Navigate the Tinkercad Circuits interface.
+2. Build and simulate a virtual electronic circuit.
+3. Use virtual components like breadboards, LEDs, and resistors.
+(1. التنقل في واجهة دوائر تينكركاد.
+2. بناء ومحاكاة دائرة إلكترونية افتراضية.
+3. استخدام المكونات الافتراضية مثل لوحة التجارب (Breadboard)، ومصابيح LED، والمقاومات.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Hands-on Virtual Simulation, Demonstration, Guided Practice (محاكاة افتراضية عملية، عرض توضيحي، ممارسة موجهة)
+
+New Vocabularies (المفردات الجديدة):
+1. Simulation (محاكاة)
+2. Breadboard (لوحة تجارب)
+3. Resistor (مقاومة)
+4. Virtual Prototype (نموذج أولي افتراضي)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with internet access and Tinkercad accounts (أجهزة كمبيوتر متصلة بالإنترنت وحسابات تينكركاد)
+2. Projector (جهاز عرض)
+3. Step-by-step guide for the first circuit (دليل خطوة بخطوة للدائرة الأولى)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "What if we want to build a circuit but don't have the physical parts, or we are afraid of breaking them? How can we test it safely?"
+- Introduce Tinkercad as a virtual lab.
+(اسأل الطلاب: "ماذا لو أردنا بناء دائرة ولكن ليس لدينا الأجزاء المادية، أو نخشى كسرها؟ كيف يمكننا اختبارها بأمان؟"
+تقديم تينكركاد كمختبر افتراضي.)
+
+Procedures (الإجراءات):
+1. Interface Overview (10 minutes):
+    - Show how to create a new circuit project.
+    - Explore the components library (search for Battery, LED, Resistor).
+    (توضيح كيفية إنشاء مشروع دائرة جديد.
+    استكشاف مكتبة المكونات (البحث عن بطارية، LED، مقاومة).)
+2. Building the First Circuit (15 minutes):
+    - Guide students to drag a 9V battery and an LED.
+    - Explain why we need a **Resistor** (to protect the LED from burning).
+    - Connect the wires and click "Start Simulation."
+    (توجيه الطلاب لسحب بطارية 9 فولت ومصباح LED.
+    شرح لماذا نحتاج إلى **مقاومة** (لحماية الـ LED من الاحتراق).
+    توصيل الأسلاك والنقر على "بدء المحاكاة".)
+3. Experimenting (5 minutes):
+    - Change the color of the LED or the value of the resistor and see what happens.
+    (تغيير لون الـ LED أو قيمة المقاومة ورؤية ما يحدث.)
+
+Evaluation (التقييم):
+- Check students' screens: Is the virtual LED glowing?
+- Ask: "What button do we click to see if our circuit works?"
+(التحقق من شاشات الطلاب: هل يضيء الـ LED الافتراضي؟
+اسأل: "أي زر ننقر عليه لنرى ما إذا كانت دائرتنا تعمل؟")
+
+Homework (الواجب المنزلي):
+- Log into Tinkercad at home and try to add a "Push Button" to your circuit to turn the LED on and off.
+(سجل الدخول إلى تينكركاد في المنزل وحاول إضافة "زر ضغط" لدائرتك لتشغيل وإطفاء الـ LED.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

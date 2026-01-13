@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Data Transfer (نقل البيانات)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Define data transfer and its importance in daily life.
+2. Identify the main methods of data transfer (wired and wireless).
+3. Understand the concept of bandwidth.
+(1. تعريف نقل البيانات وأهميته في الحياة اليومية.
+2. تحديد الطرق الرئيسية لنقل البيانات (سلكية ولاسلكية).
+3. فهم مفهوم عرض النطاق.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Interactive Lecture, Brainstorming, Group Work (محاضرة تفاعلية، عصف ذهني، عمل جماعي)
+
+New Vocabularies (المفردات الجديدة):
+1. Data Transfer (نقل البيانات)
+2. Wired (سلكي)
+3. Wireless (لاسلكي)
+4. Bandwidth (عرض النطاق)
+
+Teaching Aids (الوسائل التعليمية):
+1. Projector and Computer (جهاز عرض وكمبيوتر)
+2. Network Cables (كابلات شبكة)
+3. Smartphone (هاتف ذكي)
+4. Diagram of a network (رسم تخطيطي لشبكة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students how they share photos or files with friends (e.g., Bluetooth, Wi-Fi, cable).
+- Introduce the concept that this sharing is "Data Transfer."
+(اسأل الطلاب كيف يشاركون الصور أو الملفات مع الأصدقاء (مثل البلوتوث، الواي فاي، الكابل).
+قدم مفهوم أن هذه المشاركة هي "نقل البيانات".)
+
+Procedures (الإجراءات):
+1. Introduction and Definition (10 minutes):
+    - Define data transfer and its importance (e.g., internet, communication).
+    - Explain the difference between wired and wireless transfer methods.
+    (تعريف نقل البيانات وأهميته (مثل الإنترنت، الاتصال).
+    شرح الفرق بين طرق النقل السلكية واللاسلكية.)
+2. Methods and Bandwidth (15 minutes):
+    - Show examples of wired (Ethernet) and wireless (Wi-Fi) methods using the teaching aids.
+    - Introduce the concept of Bandwidth as the speed of data transfer.
+    - Group activity: Ask students to list devices that use each method.
+    (عرض أمثلة للطرق السلكية (إيثرنت) واللاسلكية (واي فاي) باستخدام الوسائل التعليمية.
+    تقديم مفهوم عرض النطاق كسرعة نقل البيانات.
+    نشاط جماعي: اطلب من الطلاب إدراج الأجهزة التي تستخدم كل طريقة.)
+3. Summary (5 minutes):
+    - Review the key vocabulary and concepts.
+    - Answer students' questions.
+    (مراجعة المفردات والمفاهيم الرئيسية.
+    الإجابة على أسئلة الطلاب.)
+
+Evaluation (التقييم):
+- Ask students to define the four new vocabularies.
+- Ask a question: "Which method is generally faster, wired or wireless, and why?"
+(اطلب من الطلاب تعريف المفردات الأربعة الجديدة.
+اطرح سؤالاً: "ما هي الطريقة الأسرع عمومًا، السلكية أم اللاسلكية، ولماذا؟")
+
+Homework (الواجب المنزلي):
+- Research and write a short paragraph about a real-life example of data transfer (e.g., streaming a video, making a phone call).
+(البحث وكتابة فقرة قصيرة عن مثال واقعي لنقل البيانات (مثل مشاهدة فيديو عبر الإنترنت، إجراء مكالمة هاتفية).)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!

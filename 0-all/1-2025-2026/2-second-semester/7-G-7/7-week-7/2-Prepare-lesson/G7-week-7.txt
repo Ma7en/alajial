@@ -1,0 +1,91 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Internet of Things - IoT (إنترنت الأشياء)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Define the concept of the Internet of Things (IoT).
+2. Identify examples of IoT devices in daily life (Smart Home, Healthcare, etc.).
+3. Understand how IoT devices communicate and share data.
+(1. تعريف مفهوم إنترنت الأشياء (IoT).
+2. تحديد أمثلة لأجهزة إنترنت الأشياء في الحياة اليومية (المنزل الذكي، الرعاية الصحية، إلخ).
+3. فهم كيفية تواصل أجهزة إنترنت الأشياء ومشاركة البيانات.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Brainstorming, Visual Presentation, Group Discussion (عصف ذهني، عرض مرئي، مناقشة جماعية)
+
+New Vocabularies (المفردات الجديدة):
+1. Internet of Things - IoT (إنترنت الأشياء)
+2. Smart Devices (الأجهزة الذكية)
+3. Connectivity (الاتصال)
+4. Automation (الأتمتة)
+
+Teaching Aids (الوسائل التعليمية):
+1. Projector and Presentation (جهاز عرض وعرض تقديمي)
+2. Videos showing Smart Home examples (فيديوهات توضح أمثلة للمنزل الذكي)
+3. Pictures of IoT devices (Smartwatch, Smart Fridge) (صور لأجهزة إنترنت الأشياء)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "Imagine if your fridge could tell you when the milk is finished, or if you could turn on the AC before reaching home. How is that possible?"
+- Introduce the term "Internet of Things."
+(اسأل الطلاب: "تخيل لو أن ثلاجتك تخبرك عند نفاد الحليب، أو إذا كان بإمكانك تشغيل المكيف قبل وصولك للمنزل. كيف يكون ذلك ممكناً؟"
+تقديم مصطلح "إنترنت الأشياء".)
+
+Procedures (الإجراءات):
+1. Introduction to IoT (10 minutes):
+    - Define IoT as a network of physical objects connected to the internet that can collect and share data.
+    - Explain the basic components: Device + Sensor + Internet Connection.
+    (تعريف إنترنت الأشياء كشبكة من الأشياء المادية المتصلة بالإنترنت والتي يمكنها جمع البيانات ومشاركتها.
+    شرح المكونات الأساسية: جهاز + مستشعر + اتصال بالإنترنت.)
+2. IoT Applications (15 minutes):
+    - Show examples of IoT in different fields:
+        - Smart Home (Smart lights, security cameras).
+        - Healthcare (Wearable fitness trackers).
+        - Transportation (Smart cars, traffic management).
+    - Group Activity: Ask students to brainstorm a new IoT device that could help in their school.
+    (عرض أمثلة لإنترنت الأشياء في مجالات مختلفة:
+    - المنزل الذكي (أضواء ذكية، كاميرات مراقبة).
+    - الرعاية الصحية (أجهزة تتبع اللياقة البدنية القابلة للارتداء).
+    - النقل (السيارات الذكية، إدارة المرور).
+    نشاط جماعي: اطلب من الطلاب التفكير في جهاز إنترنت أشياء جديد يمكن أن يساعد في مدرستهم.)
+3. Benefits and Challenges (5 minutes):
+    - Briefly discuss benefits (convenience, efficiency) and challenges (privacy, security).
+    (مناقشة الفوائد (الراحة، الكفاءة) والتحديات (الخصوصية، الأمان) باختصار.)
+
+Evaluation (التقييم):
+- Ask students: "What are the three main components of an IoT system?"
+- Ask: "Give an example of how IoT can save energy in a home."
+(اسأل الطلاب: "ما هي المكونات الثلاثة الرئيسية لنظام إنترنت الأشياء؟"
+اسأل: "أعطِ مثالاً على كيفية توفير إنترنت الأشياء للطاقة في المنزل.")
+
+Homework (الواجب المنزلي):
+- Write a short paragraph about an IoT device you would like to have in the future and why.
+(اكتب فقرة قصيرة عن جهاز إنترنت أشياء تود امتلاكه في المستقبل ولماذا.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!

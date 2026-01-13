@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Application of Spreadsheets (تطبيقات الجداول الحسابية في الحياة الواقعية)
+
+Class (الفصل):
+Fourth Elementary Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Apply spreadsheet skills to solve a real-world problem (e.g., planning a budget).
+2. Format a spreadsheet to make it look professional (colors, borders, fonts).
+3. Print or share a spreadsheet correctly.
+(1. تطبيق مهارات الجداول الحسابية لحل مشكلة واقعية (مثل تخطيط ميزانية).
+2. تنسيق جدول البيانات لجعله يبدو احترافياً (ألوان، حدود، خطوط).
+3. طباعة أو مشاركة جدول البيانات بشكل صحيح.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Project-Based Learning, Real-world Simulation, Creative Formatting (التعلم القائم على المشاريع، محاكاة الواقع، التنسيق الإبداعي)
+
+New Vocabularies (المفردات الجديدة):
+1. Budget (ميزانية)
+2. Formatting (تنسيق)
+3. Borders (الحدود)
+4. Alignment (المحاذاة)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Excel or Google Sheets (أجهزة كمبيوتر مع برنامج جداول بيانات)
+2. Projector (جهاز عرض)
+3. A "Party Planning" scenario with items and prices (سيناريو "تخطيط حفلة" مع أصناف وأسعار)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "If you have 100 Riyals to plan a birthday party, how can you make sure you don't spend too much?"
+- Introduce the concept of a "Budget" using a spreadsheet.
+(اسأل الطلاب: "إذا كان لديك 100 ريال لتخطيط حفلة عيد ميلاد، كيف يمكنك التأكد من أنك لن تنفق الكثير؟"
+تقديم مفهوم "الميزانية" باستخدام جدول البيانات.)
+
+Procedures (الإجراءات):
+1. The Party Budget Project (15 minutes):
+    - Give students a list of items (Cake, Balloons, Juice, Gifts) and their prices.
+    - Students enter the data into a spreadsheet.
+    - Use the `SUM` function to calculate the total cost.
+    - Challenge: If the total is over 100, they must change the quantities or remove items.
+    (إعطاء الطلاب قائمة بالأصناف (كيك، بالونات، عصير، هدايا) وأسعارها.
+    يدخل الطلاب البيانات في جدول البيانات.
+    استخدام دالة `SUM` لحساب التكلفة الإجمالية.
+    تحدي: إذا كان المجموع أكثر من 100، يجب عليهم تغيير الكميات أو إزالة أصناف.)
+2. Formatting for Clarity (10 minutes):
+    - Show how to add **Borders** to the table.
+    - Demonstrate how to change **Cell Colors** (e.g., make the header blue).
+    - Show how to change **Currency** format (adding the SR or $ symbol).
+    (توضيح كيفية إضافة **حدود** للجدول.
+    توضيح كيفية تغيير **ألوان الخلايا** (مثلاً: جعل العنوان باللون الأزرق).
+    توضيح كيفية تغيير تنسيق **العملة** (إضافة رمز ريال أو $).)
+3. Final Review (5 minutes):
+    - Show how to use "Print Preview" to see how the table fits on a page.
+    (توضيح كيفية استخدام "معاينة قبل الطباعة" لرؤية كيف يظهر الجدول في الصفحة.)
+
+Evaluation (التقييم):
+- Observe students' budgets: Did they stay under the 100 Riyal limit?
+- Ask: "Why is formatting (like colors and borders) important in a spreadsheet?"
+(ملاحظة ميزانيات الطلاب: هل بقوا تحت حد الـ 100 ريال؟
+اسأل: "لماذا يعد التنسيق (مثل الألوان والحدود) مهماً في جدول البيانات؟")
+
+Homework (الواجب المنزلي):
+- Create a simple "Weekly Chores" or "Study Schedule" table at home and format it with your favorite colors.
+(أنشئ جدولاً بسيطاً لـ "المهام الأسبوعية" أو "جدول المذاكرة" في المنزل ونسقه بألوانك المفضلة.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

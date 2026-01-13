@@ -1,0 +1,87 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Make a Movie (صناعة الأفلام والتحريك)
+
+Class (الفصل):
+Fifth Elementary Grade (الصف الخامس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the basics of storytelling and storyboarding.
+2. Use animation software or tools to create a short animated scene.
+3. Add sound effects and transitions to enhance the movie.
+(1. فهم أساسيات سرد القصص ورسم السيناريو (Storyboarding).
+2. استخدام برامج أو أدوات التحريك لإنشاء مشهد متحرك قصير.
+3. إضافة تأثيرات صوتية وانتقالات لتحسين الفيلم.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Creative Project, Storytelling, Hands-on Production (مشروع إبداعي، سرد القصص، إنتاج عملي)
+
+New Vocabularies (المفردات الجديدة):
+1. Storyboard (مخطط القصة/السيناريو)
+2. Animation (التحريك)
+3. Transition (انتقال)
+4. Frame (إطار)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with animation software (Scratch, PowerPoint, or simple movie maker) (أجهزة كمبيوتر مع برامج تحريك)
+2. Projector (جهاز عرض)
+3. Storyboard templates (نماذج مخطط القصة)
+4. Examples of short animated clips (أمثلة لمقاطع متحركة قصيرة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a 30-second animation. Ask: "How many pictures do you think are in this clip? How do they make it look like it's moving?"
+- Introduce the concept of "Frames" and "Animation."
+(عرض رسوم متحركة لمدة 30 ثانية. اسأل: "كم عدد الصور التي تعتقد أنها موجودة في هذا المقطع؟ كيف يجعله يبدو وكأنه يتحرك؟"
+تقديم مفهوم "الإطارات" و "التحريك".)
+
+Procedures (الإجراءات):
+1. Storyboarding (10 minutes):
+    - Explain that every movie starts with a plan.
+    - Activity: Draw 3 boxes (Beginning, Middle, End) to plan a simple story (e.g., a ball bouncing or a cat walking).
+    (شرح أن كل فيلم يبدأ بخطة.
+    نشاط: رسم 3 مربعات (بداية، منتصف، نهاية) للتخطيط لقصة بسيطة (مثل كرة تقفز أو قطة تمشي).)
+2. Creating the Animation (15 minutes):
+    - Guide students to use a tool (like Scratch or PPT transitions) to animate their story.
+    - If using PPT: Use "Morph" transition or "Animations" tab.
+    - If using Scratch: Use "Next Costume" and "Move" blocks.
+    (توجيه الطلاب لاستخدام أداة لتحريك قصتهم.
+    في حال استخدام بوربوينت: استخدام انتقال "تحول تدريجي" أو تبويب "حركات".
+    في حال استخدام سكراتش: استخدام لبنات "المظهر التالي" و "تحرك".)
+3. Adding Sound and Polish (5 minutes):
+    - Show how to add a sound effect or background music.
+    - Add a transition between scenes.
+    (توضيح كيفية إضافة تأثير صوتي أو موسيقى خلفية.
+    إضافة انتقال بين المشاهد.)
+
+Evaluation (التقييم):
+- Let students present their "Mini Movie" to the class.
+- Ask: "What was the hardest part of making your characters move?"
+(دع الطلاب يعرضون "فيلمهم الصغير" للفصل.
+اسأل: "ما هو أصعب جزء في جعل شخصياتك تتحرك؟")
+
+Homework (الواجب المنزلي):
+- Think of a 1-minute story idea and draw a 6-frame storyboard for it.
+(فكر في فكرة قصة لمدة دقيقة واحدة وارسم لها مخطط قصة من 6 إطارات.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

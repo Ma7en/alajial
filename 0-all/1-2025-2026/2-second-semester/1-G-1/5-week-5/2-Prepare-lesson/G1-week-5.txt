@@ -1,0 +1,85 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+A Digital Notepad (المفكرة الرقمية - الكتابة بالكمبيوتر)
+
+Class (الفصل):
+First Elementary Grade (الصف الأول الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Open a simple text app (Notepad or similar).
+2. Find and press letters on the keyboard.
+3. Type their name and use the "Spacebar" and "Backspace" keys.
+(1. فتح تطبيق نصي بسيط (المفكرة أو ما شابه).
+2. إيجاد والضغط على الحروف في لوحة المفاتيح.
+3. كتابة أسمائهم واستخدام مفتاحي "المسافة" و "المسح" (Backspace).)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Hands-on Typing, Visual Recognition of Keys, Interactive Practice (كتابة عملية، تعرف بصري على المفاتيح، ممارسة تفاعلية)
+
+New Vocabularies (المفردات الجديدة):
+1. Keyboard (لوحة المفاتيح)
+2. Type (كتابة/طباعة)
+3. Spacebar (مسافة)
+4. Backspace (مسح)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Notepad or a simple typing app (أجهزة كمبيوتر مع تطبيق المفكرة)
+2. Large picture of a keyboard on the board (صورة كبيرة للوحة المفاتيح على السبورة)
+3. Projector (جهاز عرض)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a pencil and a piece of paper. Ask: "We use these to write. How do we write on a computer? We use our fingers and the keyboard!"
+- Introduce the "Keyboard."
+(عرض قلم رصاص وورقة. اسأل: "نستخدم هذه للكتابة. كيف نكتب على الكمبيوتر؟ نستخدم أصابعنا ولوحة المفاتيح!"
+تقديم "لوحة المفاتيح".)
+
+Procedures (الإجراءات):
+1. Finding the Letters (10 minutes):
+    - Show how to open **Notepad**.
+    - Activity: "The Letter Hunt" - Ask students to find the first letter of their name on the keyboard and press it.
+    (توضيح كيفية فتح **المفكرة**.
+    نشاط: "البحث عن الحرف" - اطلب من الطلاب إيجاد الحرف الأول من أسمائهم على لوحة المفاتيح والضغط عليه.)
+2. Typing Names (10 minutes):
+    - Guide students to type their full name.
+    - Show the **Spacebar** (the long button) to put a space between names.
+    (توجيه الطلاب لكتابة أسمائهم كاملة.
+    عرض **مفتاح المسافة** (الزر الطويل) لوضع مسافة بين الأسماء.)
+3. Fixing Mistakes (10 minutes):
+    - Show the **Backspace** key. Explain it's like an "Eraser."
+    - Activity: Type a wrong letter on purpose and use Backspace to erase it.
+    (عرض مفتاح **المسح** (Backspace). شرح أنه يشبه "الممحاة".
+    نشاط: كتابة حرف خاطئ عن قصد واستخدام مفتاح المسح لمسحه.)
+
+Evaluation (التقييم):
+- Ask students: "Which button is the longest on the keyboard? (Spacebar)."
+- Check students' screens: Did they successfully type their name?
+(اسأل الطلاب: "أي زر هو الأطول في لوحة المفاتيح؟ (المسافة)".
+التحقق من شاشات الطلاب: هل نجحوا في كتابة أسمائهم؟)
+
+Homework (الواجب المنزلي):
+- Draw a long rectangle and write "SPACE" inside it to remember the Spacebar.
+(ارسم مستطيلاً طويلاً واكتب "SPACE" بداخله لتتذكر مفتاح المسافة.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

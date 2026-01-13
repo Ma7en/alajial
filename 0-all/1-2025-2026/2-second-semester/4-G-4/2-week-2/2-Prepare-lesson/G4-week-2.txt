@@ -1,0 +1,85 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Retouch Images (تحسين ومعالجة الصور)
+
+Class (الفصل):
+Fourth Elementary Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the basic tools for image retouching.
+2. Adjust brightness, contrast, and saturation of an image.
+3. Use the crop and rotate tools to improve image composition.
+(1. فهم الأدوات الأساسية لتحسين الصور.
+2. ضبط السطوع والتباين وتشبع الألوان في الصورة.
+3. استخدام أدوات القص والتدوير لتحسين تكوين الصورة.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Hands-on Practice, Visual Comparison (عرض توضيحي، ممارسة عملية، مقارنة بصرية)
+
+New Vocabularies (المفردات الجديدة):
+1. Retouch (تحسين/معالجة)
+2. Brightness (السطوع)
+3. Contrast (التباين)
+4. Saturation (التشبع)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with image editing software (e.g., Photos app, GIMP, or online editor) (أجهزة كمبيوتر مع برنامج تحرير صور)
+2. Projector (جهاز عرض)
+3. Sample "Before and After" images (أمثلة لصور قبل وبعد التعديل)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a dark, blurry photo and a bright, clear version of the same photo. Ask: "Which one looks better? Can we fix the dark one?"
+- Introduce the concept of "Retouching."
+(عرض صورة مظلمة وغير واضحة ونسخة مشرقة وواضحة من نفس الصورة. اسأل: "أيهما تبدو أفضل؟ هل يمكننا إصلاح الصورة المظلمة؟"
+تقديم مفهوم "تحسين الصور".)
+
+Procedures (الإجراءات):
+1. Basic Adjustments (10 minutes):
+    - Show how to open an image.
+    - Demonstrate Brightness (making it lighter/darker) and Contrast (making colors pop).
+    - Explain Saturation (making colors more vivid or black and white).
+    (توضيح كيفية فتح صورة.
+    عرض السطوع (جعلها أفتح/أغمق) والتباين (جعل الألوان تبرز).
+    شرح التشبع (جعل الألوان أكثر حيوية أو تحويلها للأبيض والأسود).)
+2. Composition Tools (10 minutes):
+    - Show how to use the **Crop** tool to remove unwanted parts.
+    - Show how to **Rotate** or flip an image.
+    (توضيح كيفية استخدام أداة **القص** لإزالة الأجزاء غير المرغوب فيها.
+    توضيح كيفية **تدوير** أو قلب الصورة.)
+3. Hands-on Activity (10 minutes):
+    - Give students a sample "bad" photo and ask them to fix it using the tools learned.
+    (إعطاء الطلاب صورة "سيئة" وطلب منهم إصلاحها باستخدام الأدوات التي تعلموها.)
+
+Evaluation (التقييم):
+- Ask students: "What tool do we use if we want to remove a person from the edge of a photo?"
+- Observe students' edited images: Are they clearer and better composed?
+(اسأل الطلاب: "ما هي الأداة التي نستخدمها إذا أردنا إزالة شخص من حافة الصورة؟"
+ملاحظة الصور التي عدلها الطلاب: هل هي أوضح وأفضل تكويناً؟)
+
+Homework (الواجب المنزلي):
+- Take a photo at home (with permission) and try to adjust its brightness and contrast to make it look professional.
+(التقط صورة في المنزل (بعد الاستئذان) وحاول ضبط سطوعها وتباينها لتبدو احترافية.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

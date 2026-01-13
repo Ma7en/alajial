@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Page Design (تصميم الصفحة في معالج النصوص)
+
+Class (الفصل):
+Third Elementary Grade (الصف الثالث الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Change the page orientation (Portrait vs. Landscape).
+2. Add page borders and change the page color.
+3. Insert and format a title to make it stand out.
+(1. تغيير اتجاه الصفحة (رأسي مقابل أفقي).
+2. إضافة حدود للصفحة وتغيير لون الصفحة.
+3. إدراج عنوان وتنسيقه لجعله بارزاً.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Creative Practice, Visual Learning (عرض توضيحي، ممارسة إبداعية، تعلم بصري)
+
+New Vocabularies (المفردات الجديدة):
+1. Orientation (الاتجاه)
+2. Portrait (رأسي)
+3. Landscape (أفقي)
+4. Borders (الحدود)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Microsoft Word or Google Docs (أجهزة كمبيوتر مع برنامج معالج نصوص)
+2. Projector (جهاز عرض)
+3. Examples of a poster and a letter (to show different designs) (أمثلة لملصق ورسالة لتوضيح التصاميم المختلفة)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a plain white paper and a colorful poster with borders. Ask: "Which one catches your eye? How can we make our document look like a poster?"
+- Introduce "Page Design."
+(عرض ورقة بيضاء سادة وملصق ملون بحدود. اسأل: "أيهما يجذب انتباهك؟ كيف يمكننا جعل مستندنا يبدو كملصق؟"
+تقديم "تصميم الصفحة".)
+
+Procedures (الإجراءات):
+1. Page Setup (10 minutes):
+    - Show how to change **Orientation**:
+        - **Portrait**: Like a tall building (for letters).
+        - **Landscape**: Like a wide window (for posters).
+    - Demonstrate how to change the **Page Color** (Design > Page Color).
+    (توضيح كيفية تغيير **الاتجاه**:
+    - **رأسي**: مثل مبنى طويل (للرسائل).
+    - **أفقي**: مثل نافذة واسعة (للملصقات).
+    توضيح كيفية تغيير **لون الصفحة**.)
+2. Adding Borders (10 minutes):
+    - Show how to add **Page Borders** (Design > Page Borders).
+    - Let students explore different styles (lines, dots, or "Art" borders like apples or stars).
+    (توضيح كيفية إضافة **حدود الصفحة**.
+    دع الطلاب يستكشفون أنماطاً مختلفة (خطوط، نقاط، أو حدود "فنية" مثل التفاح أو النجوم).)
+3. Title Design (10 minutes):
+    - Activity: Students create a "Welcome to My Class" poster.
+    - Teach them to make the title **Bold**, **Larger**, and **Centered**.
+    (نشاط: ينشئ الطلاب ملصق "مرحباً بكم في فصلي".
+    تعليمهم جعل العنوان **عريضاً**، **أكبر حجماً**، و **في المنتصف**.)
+
+Evaluation (التقييم):
+- Ask students: "When should we use Landscape orientation?"
+- Check students' posters: Do they have a border and a colorful background?
+(اسأل الطلاب: "متى يجب أن نستخدم الاتجاه الأفقي؟"
+التحقق من ملصقات الطلاب: هل تحتوي على حدود وخلفية ملونة؟)
+
+Homework (الواجب المنزلي):
+- Design a "Thank You" card on paper, including a border and a large title.
+(صمم بطاقة "شكراً لك" على الورق، متضمنة حدوداً وعنواناً كبيراً.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

@@ -1,0 +1,93 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Spreadsheet (مقدمة في جداول البيانات)
+
+Class (الفصل):
+Third Elementary Grade (الصف الثالث الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand what a spreadsheet is and what it is used for.
+2. Identify Columns, Rows, and Cells.
+3. Enter simple data (text and numbers) into cells.
+(1. فهم ماهية جدول البيانات وفيما يستخدم.
+2. تحديد الأعمدة والصفوف والخلايا.
+3. إدخال بيانات بسيطة (نصوص وأرقام) في الخلايا.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Hands-on Exploration, Game-based Learning (عرض توضيحي، استكشاف عملي، تعلم قائم على اللعب)
+
+New Vocabularies (المفردات الجديدة):
+1. Spreadsheet (جدول بيانات)
+2. Column (عمود - حروف A, B, C)
+3. Row (صف - أرقام 1, 2, 3)
+4. Cell (خلية)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Microsoft Excel or Google Sheets (أجهزة كمبيوتر مع برنامج جداول بيانات)
+2. Projector (جهاز عرض)
+3. A large grid drawn on the whiteboard (شبكة كبيرة مرسومة على السبورة)
+4. Small stickers or magnets (ملصقات صغيرة أو مغناطيس)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a calendar. Ask: "How do we find a specific day? We look at the column for the day and the row for the week."
+- Introduce the Spreadsheet as a giant grid for organizing information.
+(عرض تقويم. اسأل: "كيف نجد يوماً محدداً؟ ننظر إلى عمود اليوم وصف الأسبوع."
+تقديم جدول البيانات كشبكة عملاقة لتنظيم المعلومات.)
+
+Procedures (الإجراءات):
+1. The Grid Game (10 minutes):
+    - Use the grid on the whiteboard. Label columns A, B, C and rows 1, 2, 3.
+    - Ask a student to place a magnet in "Cell B2."
+    - Explain that Columns go **Down** and Rows go **Across**.
+    (استخدام الشبكة على السبورة. تسمية الأعمدة A, B, C والصفوف 1, 2, 3.
+    اطلب من طالب وضع مغناطيس في "الخلية B2".
+    شرح أن الأعمدة تتجه **للأسفل** والصفوف تتجه **بالعرض**.)
+2. Entering Data (15 minutes):
+    - Open a spreadsheet on the projector.
+    - Show how to click a cell and type.
+    - Activity: Students create a "Fruit List":
+        - Cell A1: "Fruit Name" | Cell B1: "Quantity"
+        - Cell A2: "Apple" | Cell B2: "5"
+        - Cell A3: "Banana" | Cell B3: "3"
+    (فتح جدول بيانات على جهاز العرض.
+    توضيح كيفية النقر على خلية والكتابة.
+    نشاط: ينشئ الطلاب "قائمة فواكه":
+    - الخلية A1: "اسم الفاكهة" | الخلية B1: "الكمية"
+    - الخلية A2: "تفاح" | الخلية B2: "5"
+    - الخلية A3: "موز" | الخلية B3: "3")
+3. Formatting Basics (5 minutes):
+    - Show how to make the header (A1, B1) **Bold** to make it look like a title.
+    (توضيح كيفية جعل العناوين (A1, B1) **عريضة** لتبدو كعنوان.)
+
+Evaluation (التقييم):
+- Ask students: "Is Column A vertical or horizontal?"
+- Check students' screens: Did they put the fruit names in Column A and numbers in Column B?
+(اسأل الطلاب: "هل العمود A رأسي أم أفقي؟"
+التحقق من شاشات الطلاب: هل وضعوا أسماء الفواكه في العمود A والأرقام في العمود B؟)
+
+Homework (الواجب المنزلي):
+- Draw a 3x3 grid on paper and write your family members' names in the first column and their ages in the second column.
+(ارسم شبكة 3x3 على الورق واكتب أسماء أفراد عائلتك في العمود الأول وأعمارهم في العمود الثاني.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

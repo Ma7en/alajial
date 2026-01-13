@@ -1,0 +1,87 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Electronic Devices and Sensors (الأجهزة الإلكترونية والمستشعرات)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Identify common electronic devices and their functions.
+2. Understand the concept of sensors and how they interact with the environment.
+3. Recognize different types of sensors (e.g., light, motion, temperature).
+(1. تحديد الأجهزة الإلكترونية الشائعة ووظائفها.
+2. فهم مفهوم المستشعرات وكيفية تفاعلها مع البيئة.
+3. التعرف على أنواع مختلفة من المستشعرات (مثل الضوء، الحركة، درجة الحرارة).)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Observation, Demonstration, Group Discussion (الملاحظة، العرض التوضيحي، المناقشة الجماعية)
+
+New Vocabularies (المفردات الجديدة):
+1. Electronic Devices (الأجهزة الإلكترونية)
+2. Sensors (المستشعرات)
+3. Input (مدخلات)
+4. Output (مخرجات)
+
+Teaching Aids (الوسائل التعليمية):
+1. Examples of electronic devices (Smartphone, Tablet) (أمثلة على أجهزة إلكترونية)
+2. Simple sensors (Motion sensor, Light sensor) (مستشعرات بسيطة)
+3. Projector and Presentation (جهاز عرض وعرض تقديمي)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "How does a smartphone screen know when to rotate?" or "How does an automatic door open when you approach?"
+- Introduce the idea that devices "feel" the world through sensors.
+(اسأل الطلاب: "كيف تعرف شاشة الهاتف الذكي متى تدور؟" أو "كيف يفتح الباب التلقائي عند اقترابك؟"
+تقديم فكرة أن الأجهزة "تشعر" بالعالم من خلال المستشعرات.)
+
+Procedures (الإجراءات):
+1. Electronic Devices Overview (10 minutes):
+    - Discuss various electronic devices used in daily life.
+    - Explain that these devices process information to perform tasks.
+    (مناقشة الأجهزة الإلكترونية المختلفة المستخدمة في الحياة اليومية.
+    شرح أن هذه الأجهزة تعالج المعلومات لأداء المهام.)
+2. Understanding Sensors (15 minutes):
+    - Define a sensor as a device that detects changes in the environment (light, heat, motion).
+    - Show examples: Light sensors in street lamps, motion sensors in security cameras.
+    - Activity: Identify sensors in a smartphone (GPS, Camera, Microphone, Accelerometer).
+    (تعريف المستشعر كجهاز يكتشف التغيرات في البيئة (الضوء، الحرارة، الحركة).
+    عرض أمثلة: مستشعرات الضوء في مصابيح الشوارع، مستشعرات الحركة في كاميرات المراقبة.
+    نشاط: تحديد المستشعرات في الهاتف الذكي (GPS، الكاميرا، الميكروفون، مقياس التسارع).)
+3. Summary and Interaction (5 minutes):
+    - Summarize how sensors act as "input" for electronic devices.
+    (تلخيص كيف تعمل المستشعرات كـ "مدخلات" للأجهزة الإلكترونية.)
+
+Evaluation (التقييم):
+- Ask students to name three types of sensors and where they are used.
+- Ask: "What would happen if a robot had no sensors?"
+(اطلب من الطلاب تسمية ثلاثة أنواع من المستشعرات وأين تُستخدم.
+اسأل: "ماذا سيحدث إذا لم يكن لدى الروبوت مستشعرات؟")
+
+Homework (الواجب المنزلي):
+- Look around your home and list three devices that use sensors, and explain what each sensor detects.
+(ابحث في منزلك وقم بإدراج ثلاثة أجهزة تستخدم المستشعرات، واشرح ما يكتشفه كل مستشعر.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!

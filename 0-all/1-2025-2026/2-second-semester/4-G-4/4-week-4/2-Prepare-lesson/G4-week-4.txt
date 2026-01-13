@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Presentation (أساسيات العروض التقديمية)
+
+Class (الفصل):
+Fourth Elementary Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the purpose of a presentation and its main components.
+2. Create a new presentation and add slides with different layouts.
+3. Insert text, images, and shapes into a slide.
+(1. فهم الغرض من العرض التقديمي ومكوناته الرئيسية.
+2. إنشاء عرض تقديمي جديد وإضافة شرائح بتخطيطات مختلفة.
+3. إدراج النصوص والصور والأشكال في الشريحة.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Guided Practice, Creative Design (عرض توضيحي، ممارسة موجهة، تصميم إبداعي)
+
+New Vocabularies (المفردات الجديدة):
+1. Presentation (عرض تقديمي)
+2. Slide (شريحة)
+3. Layout (تخطيط)
+4. Placeholder (مربع نص/عنصر نائب)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Microsoft PowerPoint or Google Slides (أجهزة كمبيوتر مع برنامج بوربوينت أو جوجل سلايدز)
+2. Projector (جهاز عرض)
+3. Sample presentation about a simple topic (e.g., Animals) (نموذج عرض تقديمي عن موضوع بسيط)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "If you want to tell the whole class about your favorite animal, what is the best way to show them pictures and information at the same time?"
+- Introduce the concept of a "Presentation."
+(اسأل الطلاب: "إذا أردت إخبار الفصل بأكمله عن حيوانك المفضل، فما هي أفضل طريقة لعرض الصور والمعلومات لهم في نفس الوقت؟"
+تقديم مفهوم "العرض التقديمي".)
+
+Procedures (الإجراءات):
+1. Getting Started (10 minutes):
+    - Show how to open the software and create a "Blank Presentation."
+    - Explain the "Title Slide" and how to add a title and subtitle.
+    - Show how to add a "New Slide" and choose a layout (e.g., Title and Content).
+    (توضيح كيفية فتح البرنامج وإنشاء "عرض تقديمي فارغ".
+    شرح "شريحة العنوان" وكيفية إضافة عنوان وعنوان فرعي.
+    توضيح كيفية إضافة "شريحة جديدة" واختيار تخطيط (مثل عنوان ومحتوى).)
+2. Adding Content (15 minutes):
+    - Demonstrate how to type text into placeholders.
+    - Show how to insert an image (Insert > Pictures).
+    - Show how to add simple shapes (Insert > Shapes).
+    - Activity: Students create a 2-slide presentation about "My School."
+    (توضيح كيفية كتابة النص في المربعات المخصصة.
+    توضيح كيفية إدراج صورة.
+    توضيح كيفية إضافة أشكال بسيطة.
+    نشاط: ينشئ الطلاب عرضاً تقديمياً من شريحتين عن "مدرستي".)
+3. Saving the Work (5 minutes):
+    - Show how to save the file with a proper name.
+    (توضيح كيفية حفظ الملف باسم مناسب.)
+
+Evaluation (التقييم):
+- Ask students: "What is a 'Slide'?"
+- Check students' work: Do they have a title slide and a content slide with an image?
+(اسأل الطلاب: "ما هي 'الشريحة'؟"
+التحقق من عمل الطلاب: هل لديهم شريحة عنوان وشريحة محتوى تحتوي على صورة؟)
+
+Homework (الواجب المنزلي):
+- Think of a topic for a 3-slide presentation you would like to make next time.
+(فكر في موضوع لعرض تقديمي من 3 شرائح تود إنشاؤه في المرة القادمة.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

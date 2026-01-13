@@ -1,0 +1,91 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Layers (الطبقات في التصميم)
+
+Class (الفصل):
+Fourth Elementary Grade (الصف الرابع الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of layers in digital design.
+2. Arrange, hide, and lock layers to organize a project.
+3. Create a simple composite image using multiple layers.
+(1. فهم مفهوم الطبقات في التصميم الرقمي.
+2. ترتيب وإخفاء وقفل الطبقات لتنظيم المشروع.
+3. إنشاء صورة مركبة بسيطة باستخدام طبقات متعددة.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Analogy-based Learning, Demonstration, Creative Activity (التعلم بالمقارنة، عرض توضيحي، نشاط إبداعي)
+
+New Vocabularies (المفردات الجديدة):
+1. Layers (الطبقات)
+2. Background (الخلفية)
+3. Order/Arrange (الترتيب)
+4. Visibility (الرؤية/الإخفاء)
+
+Teaching Aids (الوسائل التعليمية):
+1. Transparent plastic sheets (to show physical layers) (شرائح بلاستيكية شفافة لتوضيح الطبقات مادياً)
+2. Computers with design software (Paint.net, Canva, or similar) (أجهزة كمبيوتر مع برنامج تصميم)
+3. Projector (جهاز عرض)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Use the transparent sheets: Draw a house on one, a tree on another, and a sun on the third. Stack them. Ask: "What happens if I put the sun behind the house? Can you see it?"
+- Introduce the concept of "Digital Layers."
+(استخدام الشرائح الشفافة: ارسم منزلاً على واحدة، وشجرة على أخرى، وشمساً على الثالثة. ضعها فوق بعضها. اسأل: "ماذا يحدث إذا وضعت الشمس خلف المنزل؟ هل يمكنك رؤيتها؟"
+تقديم مفهوم "الطبقات الرقمية".)
+
+Procedures (الإجراءات):
+1. Introduction to Layers (10 minutes):
+    - Explain that layers are like sheets of glass stacked on top of each other.
+    - Show the "Layers Panel" in the software.
+    - Demonstrate how to add a new layer and name it.
+    (شرح أن الطبقات تشبه ألواح الزجاج الموضوعة فوق بعضها البعض.
+    عرض "لوحة الطبقات" في البرنامج.
+    توضيح كيفية إضافة طبقة جديدة وتسميتها.)
+2. Managing Layers (10 minutes):
+    - Show how to change the order (Bring to Front / Send to Back).
+    - Demonstrate how to hide a layer (the "Eye" icon) and lock it.
+    (توضيح كيفية تغيير الترتيب (إحضار للأمام / إرسال للخلف).
+    توضيح كيفية إخفاء طبقة (أيقونة العين) وقفلها.)
+3. Creative Activity (10 minutes):
+    - Ask students to create a "Space Scene":
+        - Layer 1: Stars (Background).
+        - Layer 2: A Planet.
+        - Layer 3: An Astronaut.
+    (طلب من الطلاب إنشاء "مشهد فضاء":
+    - الطبقة 1: النجوم (الخلفية).
+    - الطبقة 2: كوكب.
+    - الطبقة 3: رائد فضاء.)
+
+Evaluation (التقييم):
+- Ask students: "If my character is hidden behind the background, what should I do to the layers?"
+- Check if students can successfully move the astronaut in front of the planet.
+(اسأل الطلاب: "إذا كانت شخصيتي مختفية خلف الخلفية، فماذا يجب أن أفعل بالطبقات؟"
+التحقق مما إذا كان الطلاب يستطيعون تحريك رائد الفضاء أمام الكوكب بنجاح.)
+
+Homework (الواجب المنزلي):
+- Draw a picture on paper and label what would be "Layer 1", "Layer 2", and "Layer 3" if you were making it on a computer.
+(ارسم صورة على الورق وحدد ما سيكون "الطبقة 1" و "الطبقة 2" و "الطبقة 3" إذا كنت تصممها على الكمبيوتر.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

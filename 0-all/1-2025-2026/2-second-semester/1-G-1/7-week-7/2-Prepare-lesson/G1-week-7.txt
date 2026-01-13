@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Power of Digital Arts (قوة الفنون الرقمية - الرسم بالكمبيوتر)
+
+Class (الفصل):
+First Elementary Grade (الصف الأول الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand that we can create art using a computer or tablet.
+2. Use a simple drawing tool (Paint or similar) to draw shapes.
+3. Use the "Fill" (Bucket) tool to add colors to their drawings.
+(1. فهم أننا نستطيع إنشاء فنون باستخدام الكمبيوتر أو الجهاز اللوحي.
+2. استخدام أداة رسم بسيطة (برنامج الرسام أو ما شابه) لرسم أشكال.
+3. استخدام أداة "التعبئة" (السطل) لإضافة الألوان لرسوماتهم.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Creative Expression, Demonstration, Hands-on Art (تعبير إبداعي، عرض توضيحي، فن عملي)
+
+New Vocabularies (المفردات الجديدة):
+1. Digital Art (فن رقمي)
+2. Brush (فرشاة)
+3. Fill/Bucket (تعبئة/سطل الألوان)
+4. Shapes (أشكال)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers or Tablets with a drawing app (Paint, Tux Paint, etc.) (أجهزة كمبيوتر أو أجهزة لوحية مع تطبيق رسم)
+2. Projector (جهاز عرض)
+3. Examples of digital art (colorful drawings) (أمثلة لفنون رقمية)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a box of crayons and then show a digital color palette on the screen. Ask: "Which one has more colors? We can use both to be artists!"
+- Introduce "Digital Art."
+(عرض علبة ألوان شمعية ثم عرض لوحة ألوان رقمية على الشاشة. اسأل: "أيهما يحتوي على ألوان أكثر؟ يمكننا استخدامهما معاً لنكون فنانين!"
+تقديم "الفن الرقمي".)
+
+Procedures (الإجراءات):
+1. The Digital Brush (10 minutes):
+    - Show how to open the drawing app.
+    - Demonstrate how to use the **Brush** or **Pencil** tool to draw a simple line.
+    - Activity: Students practice drawing their initials or a simple circle.
+    (توضيح كيفية فتح تطبيق الرسم.
+    عرض كيفية استخدام أداة **الفرشاة** أو **القلم** لرسم خط بسيط.
+    نشاط: يتدرب الطلاب على رسم الحروف الأولى من أسمائهم أو دائرة بسيطة.)
+2. Shapes and Colors (10 minutes):
+    - Show the **Shapes** tool (Square, Circle, Triangle).
+    - Demonstrate the **Fill** (Bucket) tool to change the color of a shape instantly.
+    - Activity: Students draw a "Digital House" using a square and a triangle.
+    (عرض أداة **الأشكال** (مربع، دائرة، مثلث).
+    عرض أداة **التعبئة** (السطل) لتغيير لون الشكل فوراً.
+    نشاط: يرسم الطلاب "بيتاً رقمياً" باستخدام مربع ومثلث.)
+3. Eraser Tool (10 minutes):
+    - Show the **Eraser** tool to fix mistakes.
+    - Let students decorate their house with different colors and brushes.
+    (عرض أداة **الممحاة** لإصلاح الأخطاء.
+    دع الطلاب يزينون بيتهم بألوان وفراشٍ مختلفة.)
+
+Evaluation (التقييم):
+- Ask students: "What tool do we use to color a whole shape at once? (The Bucket/Fill tool)."
+- Check students' art: Did they use different colors and shapes?
+(اسأل الطلاب: "ما هي الأداة التي نستخدمها لتلوين شكل كامل مرة واحدة؟ (أداة السطل/التعبئة)".
+التحقق من فنون الطلاب: هل استخدموا ألواناً وأشكالاً مختلفة؟)
+
+Homework (الواجب المنزلي):
+- Draw a picture of a robot on paper and think about what colors you would use if you drew it on a computer.
+(ارسم صورة لروبوت على الورق وفكر في الألوان التي ستستخدمها إذا رسمته على الكمبيوتر.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

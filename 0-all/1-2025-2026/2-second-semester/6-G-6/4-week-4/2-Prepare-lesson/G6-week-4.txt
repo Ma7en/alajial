@@ -1,0 +1,83 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Cyber Security (الأمن السيبراني)
+
+Class (الفصل):
+Sixth Elementary Grade (الصف السادس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the importance of staying safe online.
+2. Create strong passwords and recognize phishing attempts.
+3. Learn how to protect personal information on the internet.
+(1. فهم أهمية البقاء آمناً عبر الإنترنت.
+2. إنشاء كلمات مرور قوية والتعرف على محاولات التصيد الاحتيالي.
+3. تعلم كيفية حماية المعلومات الشخصية على الإنترنت.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Discussion, Role-Playing, Interactive Quiz (مناقشة، لعب الأدوار، اختبار تفاعلي)
+
+New Vocabularies (المفردات الجديدة):
+1. Cyber Security (الأمن السيبراني)
+2. Phishing (التصيد الاحتيالي)
+3. Malware (البرمجيات الخبيثة)
+4. Privacy (الخصوصية)
+
+Teaching Aids (الوسائل التعليمية):
+1. Projector and Presentation (جهاز عرض وعرض تقديمي)
+2. Examples of suspicious emails/messages (أمثلة على رسائل بريد إلكتروني/رسائل مشبوهة)
+3. Interactive online safety game (لعبة تفاعلية عن السلامة عبر الإنترنت)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "Do you lock your front door at home? Why? Do we need to lock our 'digital doors' too?"
+- Introduce the concept of Cyber Security.
+(اسأل الطلاب: "هل تقفل باب منزلك؟ لماذا؟ هل نحتاج لقفل 'أبوابنا الرقمية' أيضاً؟"
+تقديم مفهوم الأمن السيبراني.)
+
+Procedures (الإجراءات):
+1. Personal Information & Privacy (10 minutes):
+    - Discuss what information should never be shared online (Full name, address, school, passwords).
+    - Explain the concept of a "Digital Footprint."
+    (مناقشة المعلومات التي لا يجب مشاركتها أبداً عبر الإنترنت (الاسم الكامل، العنوان، المدرسة، كلمات المرور).
+    شرح مفهوم "البصمة الرقمية".)
+2. Strong Passwords & Phishing (15 minutes):
+    - Activity: How to create a strong password (using symbols, numbers, and mixed cases).
+    - Show examples of "Phishing" messages and ask students to spot the red flags (bad grammar, urgent tone, strange links).
+    (نشاط: كيفية إنشاء كلمة مرور قوية (استخدام الرموز والأرقام والحروف الكبيرة والصغيرة).
+    عرض أمثلة لرسائل "التصيد" واطلب من الطلاب تحديد علامات التحذير (قواعد سيئة، لهجة مستعجلة، روابط غريبة).)
+3. Staying Safe (5 minutes):
+    - Rules for the internet: "Think before you click" and "Tell a trusted adult."
+    (قواعد الإنترنت: "فكر قبل أن تنقر" و "أخبر شخصاً بالغاً تثق به".)
+
+Evaluation (التقييم):
+- Quiz: Show 3 passwords and ask which one is the strongest.
+- Ask: "What should you do if you receive a message from a stranger asking for your location?"
+(اختبار: عرض 3 كلمات مرور وسؤال أيهم الأقوى.
+اسأل: "ماذا يجب أن تفعل إذا تلقيت رسالة من غريب يطلب موقعك؟")
+
+Homework (الواجب المنزلي):
+- With your parents, check the privacy settings on one of your favorite apps or games.
+(مع والديك، تحقق من إعدادات الخصوصية في أحد تطبيقاتك أو ألعابك المفضلة.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

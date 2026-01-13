@@ -1,0 +1,85 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Platformer Game (لعبة المنصات المتكاملة)
+
+Class (الفصل):
+Sixth Elementary Grade (الصف السادس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Design a complete level for a platformer game.
+2. Add collectibles (coins/points) and obstacles (enemies/lava).
+3. Create a "Game Over" and "Win" screen.
+(1. تصميم مستوى كامل للعبة منصات.
+2. إضافة مقتنيات (عملات/نقاط) وعقبات (أعداء/حمم).
+3. إنشاء شاشة "خسارة" وشاشة "فوز".)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Project-Based Learning, Creative Design, Peer Review (التعلم القائم على المشاريع، التصميم الإبداعي، مراجعة الأقران)
+
+New Vocabularies (المفردات الجديدة):
+1. Level Design (تصميم المستويات)
+2. Collectibles (المقتنيات)
+3. Obstacles (العقبات)
+4. Variables (المتغيرات - للنقاط)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with coding software (أجهزة كمبيوتر مع برنامج برمجة)
+2. Projector (جهاز عرض)
+3. Level design templates (نماذج تصميم المستويات)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "What makes a game fun? Is it just moving, or are there challenges and rewards?"
+- Show a sample game with coins and an end goal.
+(اسأل الطلاب: "ما الذي يجعل اللعبة ممتعة؟ هل هو مجرد التحرك، أم وجود تحديات ومكافآت؟"
+عرض نموذج للعبة تحتوي على عملات وهدف نهائي.)
+
+Procedures (الإجراءات):
+1. Level Design (10 minutes):
+    - Explain how to create platforms and a background.
+    - Discuss the "Start" and "Finish" points.
+    (شرح كيفية إنشاء المنصات والخلفية.
+    مناقشة نقطتي "البداية" و "النهاية".)
+2. Adding Mechanics (15 minutes):
+    - Create a variable called "Score."
+    - Code the collectibles: "If touching player, change Score by 1 and hide."
+    - Code the obstacles: "If touching enemy, go to Start or show Game Over."
+    (إنشاء متغير يسمى "النقاط".
+    برمجة المقتنيات: "إذا لامس اللاعب، غير النقاط بمقدار 1 واختفِ".
+    برمجة العقبات: "إذا لامس العدو، اذهب إلى البداية أو اظهر شاشة الخسارة".)
+3. Winning Condition (5 minutes):
+    - Code the finish line: "If touching Flag, show You Win!"
+    (برمجة خط النهاية: "إذا لامس العلم، اظهر شاشة لقد فزت!".)
+
+Evaluation (التقييم):
+- Let students play each other's games and give feedback.
+- Ask: "How do we keep track of the player's score in the game?"
+(دع الطلاب يلعبون ألعاب بعضهم البعض ويقدمون ملاحظاتهم.
+اسأل: "كيف نتتبع نقاط اللاعب في اللعبة؟")
+
+Homework (الواجب المنزلي):
+- Add a second level to your game with increased difficulty.
+(أضف مستوى ثانٍ للعبتك مع زيادة الصعوبة.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

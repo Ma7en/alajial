@@ -1,0 +1,91 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+E-mail (البريد الإلكتروني)
+
+Class (الفصل):
+Third Elementary Grade (الصف الثالث الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand what an e-mail is and why we use it.
+2. Identify the main parts of an e-mail (To, Subject, Message).
+3. Learn how to write and send a simple e-mail safely.
+(1. فهم ماهية البريد الإلكتروني وسبب استخدامه.
+2. تحديد الأجزاء الرئيسية للبريد الإلكتروني (إلى، الموضوع، الرسالة).
+3. تعلم كيفية كتابة وإرسال بريد إلكتروني بسيط بأمان.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Analogy-based Learning, Demonstration, Guided Practice (التعلم بالمقارنة، عرض توضيحي، ممارسة موجهة)
+
+New Vocabularies (المفردات الجديدة):
+1. E-mail (البريد الإلكتروني)
+2. Inbox (صندوق الوارد)
+3. Subject (الموضوع)
+4. Send (إرسال)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with internet access (أجهزة كمبيوتر متصلة بالإنترنت)
+2. Projector (جهاز عرض)
+3. A physical envelope and letter (to show the analogy) (ظرف ورسالة ورقية للتوضيح)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a physical letter. Ask: "How long does it take for this to reach a friend in another city? Is there a faster way?"
+- Introduce E-mail as a "Digital Letter" that arrives instantly.
+(عرض رسالة ورقية. اسأل: "كم من الوقت تستغرق هذه لتصل إلى صديق في مدينة أخرى؟ هل هناك طريقة أسرع؟"
+تقديم البريد الإلكتروني كـ "رسالة رقمية" تصل فوراً.)
+
+Procedures (الإجراءات):
+1. Parts of an E-mail (10 minutes):
+    - Explain the address: `name@example.com`.
+    - Show the "Compose" window and explain:
+        - **To**: Who are you sending it to?
+        - **Subject**: What is the email about? (Keep it short).
+        - **Message**: The actual letter.
+    (شرح العنوان: `name@example.com`.
+    عرض نافذة "إنشاء" وشرح:
+    - **إلى**: لمن ترسلها؟
+    - **الموضوع**: عن ماذا تتحدث الرسالة؟ (اجعله قصيراً).
+    - **الرسالة**: نص الرسالة الفعلي.)
+2. Writing a Message (15 minutes):
+    - Activity: Guide students to write a practice e-mail to a teacher or a classmate.
+    - Remind them of "Netiquette": Start with a greeting (Hi/Hello) and end with their name.
+    - Safety Tip: Never share passwords or talk to strangers via e-mail.
+    (نشاط: توجيه الطلاب لكتابة بريد إلكتروني تجريبي للمعلم أو لزميل.
+    تذكيرهم بآداب الإنترنت: ابدأ بالتحية وانتهِ باسمك.
+    نصيحة أمان: لا تشارك كلمات المرور أبداً ولا تتحدث مع الغرباء عبر البريد الإلكتروني.)
+3. Sending and Receiving (5 minutes):
+    - Show how to click "Send" and where to find incoming messages in the "Inbox."
+    (توضيح كيفية النقر على "إرسال" وأين تجد الرسائل الواردة في "صندوق الوارد".)
+
+Evaluation (التقييم):
+- Ask students: "What should we write in the 'Subject' line?"
+- Check if students correctly filled in the 'To' and 'Message' fields.
+(اسأل الطلاب: "ماذا يجب أن نكتب في خانة 'الموضوع'؟"
+التحقق مما إذا كان الطلاب قد ملأوا خانتي 'إلى' و 'الرسالة' بشكل صحيح.)
+
+Homework (الواجب المنزلي):
+- Draw an e-mail screen on paper and fill in the 'To', 'Subject', and 'Message' for a birthday invitation.
+(ارسم شاشة بريد إلكتروني على الورق واملأ خانات 'إلى' و 'الموضوع' و 'الرسالة' لدعوة عيد ميلاد.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Files and Folders (الملفات والمجلدات - بيت المعلومات)
+
+Class (الفصل):
+First Elementary Grade (الصف الأول الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand that a "File" is a piece of information (like a drawing).
+2. Understand that a "Folder" is a place to keep files organized.
+3. Recognize the icons for files and folders.
+(1. فهم أن "الملف" هو قطعة من المعلومات (مثل الرسمة).
+2. فهم أن "المجلد" هو مكان لحفظ الملفات بشكل منظم.
+3. التعرف على أيقونات الملفات والمجلدات.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Analogy-based Learning, Visual Recognition, Hands-on Sorting (التعلم بالمقارنة، التعرف البصري، الفرز العملي)
+
+New Vocabularies (المفردات الجديدة):
+1. File (ملف)
+2. Folder (مجلد)
+3. Icon (أيقونة)
+4. Organize (تنظيم)
+
+Teaching Aids (الوسائل التعليمية):
+1. A physical yellow folder and some papers (drawings) (مجلد أصفر حقيقي وبعض الأوراق/الرسومات)
+2. Computers or Tablets (أجهزة كمبيوتر أو أجهزة لوحية)
+3. Projector (جهاز عرض)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a drawing. Ask: "Where should I keep this so it doesn't get lost? In my bag or a folder?"
+- Show a yellow folder. Ask: "What is inside? Many papers!"
+- Introduce "Digital Files and Folders."
+(عرض رسمة. اسأل: "أين يجب أن أحفظ هذه لكي لا تضيع؟ في حقيبتي أم في مجلد؟"
+عرض مجلد أصفر. اسأل: "ماذا يوجد بداخله؟ أوراق كثيرة!"
+تقديم "الملفات والمجلدات الرقمية".)
+
+Procedures (الإجراءات):
+1. What is a File? (10 minutes):
+    - Explain that every picture we draw or game we play is a **File**.
+    - Show different file icons (Picture file, Music file).
+    (شرح أن كل صورة نرسمها أو لعبة نلعبها هي **ملف**.
+    عرض أيقونات ملفات مختلفة (ملف صورة، ملف موسيقى).)
+2. What is a Folder? (10 minutes):
+    - Explain that a **Folder** is like a box or a bag for our files.
+    - Show the yellow folder icon on the computer.
+    - Activity: "The Folder House" - Draw a big yellow folder on the board and let students stick "File" pictures inside it.
+    (شرح أن **المجلد** يشبه الصندوق أو الحقيبة لملفاتنا.
+    عرض أيقونة المجلد الأصفر على الكمبيوتر.
+    نشاط: "بيت المجلد" - رسم مجلد أصفر كبير على السبورة ودع الطلاب يلصقون صور "ملفات" بداخله.)
+3. Finding Folders (10 minutes):
+    - Show students how to find the "Documents" or "Pictures" folder on their device.
+    - Let them practice clicking a folder to see what's inside.
+    (توضيح للطلاب كيفية إيجاد مجلد "المستندات" أو "الصور" على أجهزتهم.
+    دعهم يتدربون على النقر على المجلد لرؤية ما بداخله.)
+
+Evaluation (التقييم):
+- Ask students: "What color is the folder icon usually?"
+- Ask: "If I have 10 drawings, where should I put them to keep them safe?"
+(اسأل الطلاب: "ما هو لون أيقونة المجلد عادة؟"
+اسأل: "إذا كان لدي 10 رسومات، أين يجب أن أضعها لأحافظ عليها؟")
+
+Homework (الواجب المنزلي):
+- Draw a big yellow folder on a piece of paper and draw 3 small "files" (like a star, a heart, and a sun) inside it.
+(ارسم مجلداً أصفر كبيراً على ورقة وارسم 3 "ملفات" صغيرة (مثل نجمة، قلب، وشمس) بداخله.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

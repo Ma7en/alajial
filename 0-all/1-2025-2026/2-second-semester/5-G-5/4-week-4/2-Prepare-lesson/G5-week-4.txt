@@ -1,0 +1,91 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Smart Art and Hyperlinks in PPT (الرسوم الذكية والارتباطات التشعبية في بوربوينت)
+
+Class (الفصل):
+Fifth Elementary Grade (الصف الخامس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Use SmartArt to organize information visually.
+2. Create Hyperlinks to connect slides or external websites.
+3. Design an interactive presentation.
+(1. استخدام الرسوم الذكية (SmartArt) لتنظيم المعلومات بصرياً.
+2. إنشاء ارتباطات تشعبية (Hyperlinks) للربط بين الشرائح أو مواقع خارجية.
+3. تصميم عرض تقديمي تفاعلي.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Guided Practice, Creative Design (عرض توضيحي، ممارسة موجهة، تصميم إبداعي)
+
+New Vocabularies (المفردات الجديدة):
+1. SmartArt (الرسوم الذكية)
+2. Hyperlink (ارتباط تشعبي)
+3. Interactive (تفاعلي)
+4. Diagram (مخطط)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Microsoft PowerPoint (أجهزة كمبيوتر مع برنامج بوربوينت)
+2. Projector (جهاز عرض)
+3. Sample presentation with hyperlinks (نموذج عرض تقديمي يحتوي على ارتباطات)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a slide with a lot of text and another with a SmartArt diagram. Ask: "Which one is easier to understand?"
+- Introduce the concept of making presentations "Smart" and "Interactive."
+(عرض شريحة بها نص كثير وأخرى بها مخطط SmartArt. اسأل: "أيهما أسهل في الفهم؟"
+تقديم مفهوم جعل العروض التقديمية "ذكية" و "تفاعلية".)
+
+Procedures (الإجراءات):
+1. Working with SmartArt (10 minutes):
+    - Show how to insert SmartArt (Insert > SmartArt).
+    - Explain different types: List, Process, Cycle, Hierarchy.
+    - Activity: Create a "Life Cycle of a Butterfly" using a Cycle SmartArt.
+    (توضيح كيفية إدراج SmartArt.
+    شرح الأنواع المختلفة: قائمة، عملية، دورة، هيكلي.
+    نشاط: إنشاء "دورة حياة الفراشة" باستخدام SmartArt من نوع دورة.)
+2. Creating Hyperlinks (15 minutes):
+    - Explain that a hyperlink is a "shortcut" to another place.
+    - Show how to link text or an image to:
+        - Another slide in the same presentation.
+        - A website (e.g., Google).
+    - Activity: Create a "Main Menu" slide with links to other slides.
+    (شرح أن الارتباط التشعبي هو "اختصار" لمكان آخر.
+    توضيح كيفية ربط نص أو صورة بـ:
+    - شريحة أخرى في نفس العرض.
+    - موقع إلكتروني.
+    نشاط: إنشاء شريحة "القائمة الرئيسية" مع روابط للشرائح الأخرى.)
+3. Testing (5 minutes):
+    - Run the slideshow and let students click their links to see if they work.
+    (تشغيل العرض ودع الطلاب ينقرون على روابطهم للتأكد من عملها.)
+
+Evaluation (التقييم):
+- Check students' presentations: Do they have at least one SmartArt and one working hyperlink?
+- Ask: "Why do we use hyperlinks in a presentation?"
+(التحقق من عروض الطلاب: هل تحتوي على SmartArt واحد على الأقل وارتباط تشعبي يعمل؟
+اسأل: "لماذا نستخدم الارتباطات التشعبية في العرض التقديمي؟")
+
+Homework (الواجب المنزلي):
+- Create a 3-slide presentation about your favorite hobby using SmartArt and links between slides.
+(أنشئ عرضاً تقديمياً من 3 شرائح عن هوايتك المفضلة باستخدام SmartArt وروابط بين الشرائح.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

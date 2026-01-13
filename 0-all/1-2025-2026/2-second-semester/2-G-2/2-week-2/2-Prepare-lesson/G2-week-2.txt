@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Photo Gallery (معرض الصور - اكتشاف الصور)
+
+Class (الفصل):
+Second Elementary Grade (الصف الثاني الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Open the photo gallery and swipe to see different pictures.
+2. Use the "Zoom" gesture to look closely at details in a photo.
+3. Identify the "Delete" (Trash) and "Favorite" (Heart) icons.
+(1. فتح معرض الصور والتمرير لرؤية صور مختلفة.
+2. استخدام إيماءة "التقريب" للنظر بتركيز في تفاصيل الصورة.
+3. التعرف على أيقونات "الحذف" (سلة المهملات) و "التفضيل" (القلب).)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Visual Discovery, Hands-on Play, Guided Exploration (اكتشاف بصري، لعب عملي، استكشاف موجه)
+
+New Vocabularies (المفردات الجديدة):
+1. Photo (صورة)
+2. Swipe (تمرير)
+3. Zoom (تقريب)
+4. Trash (سلة المهملات)
+
+Teaching Aids (الوسائل教育ية):
+1. Tablets or Computers with a simple gallery app (أجهزة لوحية أو كمبيوتر مع تطبيق معرض بسيط)
+2. Projector (جهاز عرض)
+3. A collection of fun pictures (Animals, Toys, Nature) (مجموعة صور ممتعة: حيوانات، ألعاب، طبيعة)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a physical photo album. Ask: "How do we see the next picture? We turn the page! How do we do it on a tablet?"
+- Introduce the "Digital Gallery."
+(عرض ألبوم صور ورقي. اسأل: "كيف نرى الصورة التالية؟ نقلب الصفحة! كيف نفعل ذلك في الجهاز اللوحي؟"
+تقديم "المعرض الرقمي".)
+
+Procedures (الإجراءات):
+1. Swiping and Browsing (10 minutes):
+    - Show how to tap the Gallery icon.
+    - Demonstrate the **Swipe** gesture (Left and Right) to move between photos.
+    - Activity: Students swipe through 10 pictures of different animals.
+    (توضيح كيفية النقر على أيقونة المعرض.
+    عرض إيماءة **التمرير** (يسار ويمين) للتنقل بين الصور.
+    نشاط: يمرر الطلاب عبر 10 صور لحيوانات مختلفة.)
+2. Zooming In (10 minutes):
+    - Show how to use two fingers to **Zoom** in on a picture (e.g., to see a cat's whiskers).
+    - Activity: "The Detail Hunt" - Ask students to zoom in and find a hidden object in a busy picture.
+    (توضيح كيفية استخدام إصبعين لـ **تقريب** الصورة (مثلاً لرؤية شارب القطة).
+    نشاط: "البحث عن التفاصيل" - اطلب من الطلاب التقريب لإيجاد شيء مخفي في صورة مزدحمة.)
+3. Keeping and Cleaning (10 minutes):
+    - Show the **Heart** icon: "This is for photos we love!"
+    - Show the **Trash** icon: "This is for blurry photos we don't need."
+    - Activity: Students "Heart" their 3 favorite pictures.
+    (عرض أيقونة **القلب**: "هذه للصور التي نحبها!"
+    عرض أيقونة **سلة المهملات**: "هذه للصور غير الواضحة التي لا نحتاجها".
+    نشاط: يضع الطلاب "قلباً" على 3 صور مفضلة لديهم.)
+
+Evaluation (التقييم):
+- Ask students: "Which icon do we press to delete a photo?"
+- Observe: Can the students zoom in and out correctly?
+(اسأل الطلاب: "أي أيقونة نضغط لحذف صورة؟"
+ملاحظة: هل يستطيع الطلاب التقريب والابعاد بشكل صحيح؟)
+
+Homework (الواجب المنزلي):
+- Draw a picture of your favorite animal and draw a small heart next to it.
+(ارسم صورة لحيوانك المفضل وارسم قلباً صغيراً بجانبه.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

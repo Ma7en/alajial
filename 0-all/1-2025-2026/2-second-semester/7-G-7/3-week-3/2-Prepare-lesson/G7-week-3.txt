@@ -1,0 +1,87 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Cryptography (علم التشفير)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the basic concept of cryptography and its importance in data security.
+2. Differentiate between encryption and decryption.
+3. Apply a simple encryption method (like Caesar Cipher).
+(1. فهم المفهوم الأساسي لعلم التشفير وأهميته في أمن البيانات.
+2. التفريق بين التشفير وفك التشفير.
+3. تطبيق طريقة تشفير بسيطة (مثل شفرة قيصر).)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Problem Solving, Hands-on Activity, Discussion (حل المشكلات، نشاط عملي، مناقشة)
+
+New Vocabularies (المفردات الجديدة):
+1. Cryptography (علم التشفير)
+2. Encryption (التشفير)
+3. Decryption (فك التشفير)
+4. Cipher (الشفرة)
+
+Teaching Aids (الوسائل التعليمية):
+1. Whiteboard and Markers (السبورة وأقلام التحديد)
+2. Caesar Cipher wheel or paper strips (عجلة شفرة قيصر أو شرائح ورقية)
+3. Computer/Projector (كمبيوتر/جهاز عرض)
+4. Examples of encrypted messages (أمثلة على رسائل مشفرة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a "secret message" written in symbols on the board and ask students if they can read it.
+- Explain that people have used secret codes for thousands of years to protect information.
+(عرض "رسالة سرية" مكتوبة بالرموز على السبورة وسؤال الطلاب عما إذا كان بإمكانهم قراءتها.
+شرح أن الناس استخدموا الرموز السرية لآلاف السنين لحماية المعلومات.)
+
+Procedures (الإجراءات):
+1. Introduction to Cryptography (10 minutes):
+    - Define Cryptography as the art of protecting information by transforming it into an unreadable format.
+    - Explain the terms: Encryption (locking the message) and Decryption (unlocking the message).
+    (تعريف علم التشفير بأنه فن حماية المعلومات عن طريق تحويلها إلى تنسيق غير قابل للقراءة.
+    شرح المصطلحات: التشفير (قفل الرسالة) وفك التشفير (فتح الرسالة).)
+2. Hands-on Activity: Caesar Cipher (15 minutes):
+    - Introduce the Caesar Cipher (shifting letters).
+    - Give students a simple key (e.g., shift by 3) and ask them to encrypt their names.
+    - Let them swap names with a partner to decrypt them.
+    (تقديم شفرة قيصر (إزاحة الحروف).
+    إعطاء الطلاب مفتاحًا بسيطًا (مثل الإزاحة بمقدار 3) وطلب تشفير أسمائهم.
+    دعهم يتبادلون الأسماء مع زميل لفك تشفيرها.)
+3. Discussion (5 minutes):
+    - Discuss why we need cryptography today (online banking, passwords, private messages).
+    (مناقشة لماذا نحتاج إلى التشفير اليوم (الخدمات المصرفية عبر الإنترنت، كلمات المرور، الرسائل الخاصة).)
+
+Evaluation (التقييم):
+- Ask students: "What is the difference between encryption and decryption?"
+- Provide a short 3-letter word and a key, and ask students to encrypt it on the spot.
+(اسأل الطلاب: "ما الفرق بين التشفير وفك التشفير؟"
+تقديم كلمة قصيرة من 3 أحرف ومفتاح، وطلب من الطلاب تشفيرها في الحال.)
+
+Homework (الواجب المنزلي):
+- Write a short secret message to a friend using a shift cipher and provide the key for them to solve it.
+(كتابة رسالة سرية قصيرة لصديق باستخدام شفرة الإزاحة وتقديم المفتاح له ليقوم بحلها.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!

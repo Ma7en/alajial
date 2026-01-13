@@ -1,0 +1,85 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Edit Video (تغيير الفيديو البسيط)
+
+Class (الفصل):
+Second Elementary Grade (الصف الثاني الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand that we can cut parts of a video.
+2. Use a simple "Trim" tool to make a video shorter.
+3. Add a "Sticker" or "Emoji" to a video clip.
+(1. فهم أننا نستطيع قص أجزاء من الفيديو.
+2. استخدام أداة "قص" بسيطة لجعل الفيديو أقصر.
+3. إضافة "ملصق" أو "إيموجي" لمقطع فيديو.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Creative Play, Hands-on Practice (عرض توضيحي، لعب إبداعي، ممارسة عملية)
+
+New Vocabularies (المفردات الجديدة):
+1. Edit (تعديل)
+2. Trim (قص)
+3. Sticker (ملصق)
+4. Short/Long (قصير/طويل)
+
+Teaching Aids (الوسائل التعليمية):
+1. Tablets or Computers with a very simple video editor (أجهزة لوحية أو كمبيوتر مع محرر فيديو بسيط جداً)
+2. Projector (جهاز عرض)
+3. A 10-second video of a toy moving (مقطع فيديو مدته 10 ثوانٍ للعبة تتحرك)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Show a long piece of string. Cut it with scissors. Ask: "Now it's shorter! Can we do this to a video if it's too long?"
+- Introduce "Video Editing."
+(عرض قطعة طويلة من الخيط. قصها بالمقص. اسأل: "الآن أصبحت أقصر! هل يمكننا فعل ذلك للفيديو إذا كان طويلاً جداً؟"
+تقديم "تحرير الفيديو".)
+
+Procedures (الإجراءات):
+1. Making it Shorter (15 minutes):
+    - Show the video clip.
+    - Demonstrate how to drag the "handles" at the start and end to **Trim** it.
+    - Activity: Students take a video and "cut" the beginning where nothing is happening.
+    (عرض مقطع الفيديو.
+    توضيح كيفية سحب "المقابض" في البداية والنهاية لـ **قص** الفيديو.
+    نشاط: يأخذ الطلاب فيديو و "يقصون" البداية التي لا يحدث فيها شيء.)
+2. Adding Fun (10 minutes):
+    - Show how to find the **Stickers** or **Emoji** menu.
+    - Activity: Students add a "Smiling Face" or a "Star" sticker to their video.
+    (توضيح كيفية إيجاد قائمة **الملصقات** أو **الإيموجي**.
+    نشاط: يضيف الطلاب ملصق "وجه ضاحك" أو "نجمة" للفيديو الخاص بهم.)
+3. Watching the Result (5 minutes):
+    - Let students show their "Short and Fun" video to their neighbor.
+    (دع الطلاب يعرضون فيديوهاتهم "القصيرة والممتعة" لزملائهم.)
+
+Evaluation (التقييم):
+- Ask students: "What happens to the video when we use the Trim tool?"
+- Observe: Can students successfully add a sticker to the video?
+(اسأل الطلاب: "ماذا يحدث للفيديو عندما نستخدم أداة القص؟"
+ملاحظة: هل يستطيع الطلاب إضافة ملصق للفيديو بنجاح؟)
+
+Homework (الواجب المنزلي):
+- Draw a picture of a video screen and draw a sticker you would like to add to it.
+(ارسم صورة لشاشة فيديو وارسم ملصقاً تود إضافته إليها.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Introduction to Animation (الرسوم المتحركة البسيطة)
+
+Class (الفصل):
+Second Elementary Grade (الصف الثاني الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand that animation is "moving pictures."
+2. Create a simple 2-page "Wiggle" animation.
+3. Use a simple app to make a character jump or move.
+(1. فهم أن الرسوم المتحركة هي "صور تتحرك".
+2. إنشاء رسوم متحركة بسيطة من صفحتين (Wiggle).
+3. استخدام تطبيق بسيط لجعل شخصية تقفز أو تتحرك.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Visual Magic, Learning by Doing, Creative Play (سحر بصري، تعلم بالممارسة، لعب إبداعي)
+
+New Vocabularies (المفردات الجديدة):
+1. Animation (تحريك)
+2. Move (تحرك)
+3. Jump (قفز)
+4. Fast (سريع)
+
+Teaching Aids (الوسائل التعليمية):
+1. Two small pieces of paper for each student (ورقتان صغيرتان لكل طالب)
+2. Pencils and crayons (أقلام رصاص وألوان)
+3. Tablets with a simple animation app (like Scratch Jr) (أجهزة لوحية مع تطبيق تحريك بسيط)
+4. Projector (جهاز عرض)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Wiggle your fingers quickly. Ask: "Are my fingers moving? How can we make a drawing wiggle like this?"
+- Introduce "Animation."
+(حرك أصابعك بسرعة. اسأل: "هل أصابعي تتحرك؟ كيف يمكننا جعل الرسم يتحرك هكذا؟"
+تقديم "التحريك".)
+
+Procedures (الإجراءات):
+1. The 2-Page Wiggle (15 minutes):
+    - Give students two papers.
+    - On Paper 1: Draw a happy face with arms **down**.
+    - On Paper 2: Draw the same face with arms **up**.
+    - Show them how to lift the top paper quickly to see the character "dance."
+    (إعطاء الطلاب ورقتين.
+    الورقة 1: رسم وجه ضاحك ويداه **للأسفل**.
+    الورقة 2: رسم نفس الوجه ويداه **للأعلى**.
+    توضيح كيفية رفع الورقة العلوية بسرعة لرؤية الشخصية وهي "ترقص".)
+2. Making it Jump (10 minutes):
+    - Open the app on the projector.
+    - Show a character. Tap the "Jump" block.
+    - Activity: Students choose a character (like a cat or a frog) and make it jump 3 times.
+    (فتح التطبيق على جهاز العرض.
+    عرض شخصية. النقر على لبنة "القفز".
+    نشاط: يختار الطلاب شخصية (مثل قطة أو ضفدع) ويجعلونها تقفز 3 مرات.)
+3. Fast and Slow (5 minutes):
+    - Show how to make the character move **Fast** and then **Slow**.
+    (توضيح كيفية جعل الشخصية تتحرك **بسرعة** ثم **ببطء**.)
+
+Evaluation (التقييم):
+- Ask students: "What is animation?"
+- Observe: Can students make their character move in the app?
+(اسأل الطلاب: "ما هي الرسوم المتحركة؟"
+ملاحظة: هل يستطيع الطلاب جعل شخصيتهم تتحرك في التطبيق؟)
+
+Homework (الواجب المنزلي):
+- Draw a picture of a frog and draw an arrow pointing up to show it wants to jump.
+(ارسم صورة لضفدع وارسم سهماً يشير للأعلى لتوضح أنه يريد القفز.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

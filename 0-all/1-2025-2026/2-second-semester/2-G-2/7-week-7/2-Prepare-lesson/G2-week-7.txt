@@ -1,0 +1,91 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Basic Troubleshooting (إصلاح المشكلات البسيطة)
+
+Class (الفصل):
+Second Elementary Grade (الصف الثاني الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Recognize when a computer or tablet is not working correctly.
+2. Learn the "Stop and Think" rule before getting upset.
+3. Know when to ask a teacher or parent for help.
+(1. التعرف على متى لا يعمل الكمبيوتر أو الجهاز اللوحي بشكل صحيح.
+2. تعلم قاعدة "توقف وفكر" قبل الشعور بالانزعاج.
+3. معرفة متى يجب طلب المساعدة من المعلم أو الوالدين.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Role Play, Problem-Solving, Emotional Regulation (لعب الأدوار، حل المشكلات، التنظيم الانفعالي)
+
+New Vocabularies (المفردات الجديدة):
+1. Problem (مشكلة)
+2. Help (مساعدة)
+3. Volume (صوت)
+4. Screen (شاشة)
+
+Teaching Aids (الوسائل التعليمية):
+1. A tablet with the sound turned off (جهاز لوحي صوته مكتوم)
+2. A computer with the mouse unplugged (كمبيوتر الفأرة فيه مفصولة)
+3. "Help!" cards (بطاقات "مساعدة!")
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Act out a scenario: "Oh no! My screen is black! I'm so sad! Wait... maybe I should check if it's turned on?"
+- Introduce the idea of being a "Problem Solver."
+(تمثيل سيناريو: "أوه لا! شاشتي سوداء! أنا حزين جداً! انتظر... ربما يجب أن أتأكد إذا كانت تعمل؟"
+تقديم فكرة أن نكون "حلالي مشكلات".)
+
+Procedures (الإجراءات):
+1. The "Stop and Think" Rule (10 minutes):
+    - When something goes wrong:
+        1. **Stop**: Don't click everything!
+        2. **Think**: Is the sound off? Is the cable out?
+        3. **Ask**: If you can't fix it, ask for help.
+    (عندما يحدث خطأ ما:
+    1. **توقف**: لا تنقر على كل شيء!
+    2. **فكر**: هل الصوت مغلق؟ هل الكابل مفصول؟
+    3. **اسأل**: إذا لم تستطع إصلاحها، اطلب المساعدة.)
+2. Common Problems (15 minutes):
+    - **Problem 1**: No sound. (Fix: Check the volume button).
+    - **Problem 2**: Mouse doesn't move. (Fix: Check the cable).
+    - **Problem 3**: App is stuck. (Fix: Close the app and open it again).
+    - Activity: Role play these problems with the students.
+    (المشكلة 1: لا يوجد صوت. (الحل: فحص زر الصوت).
+    المشكلة 2: الفأرة لا تتحرك. (الحل: فحص الكابل).
+    المشكلة 3: التطبيق معلق. (الحل: إغلاق التطبيق وفتحه مرة أخرى).
+    نشاط: تمثيل هذه المشكلات مع الطلاب.)
+3. Asking for Help (5 minutes):
+    - Teach them how to ask politely: "Excuse me, my screen is frozen, can you help me please?"
+    (تعليمهم كيفية الطلب بأدب: "لو سمحت، شاشتي متوقفة، هل يمكنك مساعدتي من فضلك؟")
+
+Evaluation (التقييم):
+- Ask students: "What is the first thing you do when you have a problem?"
+- Ask: "Is it okay to ask for help?"
+(اسأل الطلاب: "ما هو أول شيء تفعله عندما تواجه مشكلة؟"
+اسأل: "هل من الجيد طلب المساعدة؟")
+
+Homework (الواجب المنزلي):
+- Practice the "Stop and Think" rule at home if you have a problem with a toy or a game.
+(تدرب على قاعدة "توقف وفكر" في المنزل إذا واجهت مشكلة في لعبة ما.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

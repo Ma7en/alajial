@@ -1,0 +1,91 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Introduction to Robotics (مقدمة في الروبوتات)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Define what a robot is and its main characteristics.
+2. Identify the basic components of a robot (Sensors, Actuators, Controller).
+3. Understand the importance of robots in various industries and daily life.
+(1. تعريف الروبوت وخصائصه الرئيسية.
+2. تحديد المكونات الأساسية للروبوت (المستشعرات، المحركات، المتحكم).
+3. فهم أهمية الروبوتات في مختلف الصناعات والحياة اليومية.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Visual Presentation, Discussion, Hands-on Observation (عرض مرئي، مناقشة، ملاحظة عملية)
+
+New Vocabularies (المفردات الجديدة):
+1. Robotics (علم الروبوتات)
+2. Actuators (المحركات)
+3. Controller (المتحكم)
+4. Autonomous (مستقل/ذاتي التحكم)
+
+Teaching Aids (الوسائل التعليمية):
+1. Projector and Presentation (جهاز عرض وعرض تقديمي)
+2. Videos of different types of robots (Industrial, Medical, Domestic) (فيديوهات لأنواع مختلفة من الروبوتات)
+3. A physical robot model (if available) or detailed pictures (نموذج روبوت حقيقي أو صور تفصيلية)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "What comes to your mind when you hear the word 'Robot'?"
+- Show a short clip of a famous robot (like a humanoid or a Mars rover) to spark interest.
+(اسأل الطلاب: "ماذا يخطر ببالك عندما تسمع كلمة 'روبوت'؟"
+عرض مقطع قصير لروبوت مشهور (مثل روبوت بشري أو مركبة مريخية) لإثارة الاهتمام.)
+
+Procedures (الإجراءات):
+1. What is a Robot? (10 minutes):
+    - Define a robot as a machine capable of carrying out a complex series of actions automatically.
+    - Discuss the difference between a simple machine and a robot (Sensing, Thinking, Acting).
+    (تعريف الروبوت كآلة قادرة على تنفيذ سلسلة معقدة من الإجراءات تلقائياً.
+    مناقشة الفرق بين الآلة البسيطة والروبوت (الاستشعار، التفكير، التنفيذ).)
+2. Components of a Robot (15 minutes):
+    - Explain the three main parts:
+        - Sensors (The "Eyes/Ears" - to perceive the environment).
+        - Controller (The "Brain" - to process information).
+        - Actuators (The "Muscles" - to move or perform tasks).
+    - Activity: Show pictures of a robot and ask students to point out where the sensors and actuators might be.
+    (شرح الأجزاء الثلاثة الرئيسية:
+    - المستشعرات ("العيون/الآذان" - لإدراك البيئة).
+    - المتحكم ("الدماغ" - لمعالجة المعلومات).
+    - المحركات ("العضلات" - للتحرك أو أداء المهام).
+    نشاط: عرض صور لروبوت واطلب من الطلاب تحديد أماكن المستشعرات والمحركات.)
+3. Robots in Our World (5 minutes):
+    - Briefly mention where robots are used: Factories, Hospitals, Space exploration, and Homes (Vacuum robots).
+    (ذكر أماكن استخدام الروبوتات باختصار: المصانع، المستشفيات، استكشاف الفضاء، والمنازل (روبوتات التنظيف).)
+
+Evaluation (التقييم):
+- Ask students: "Can a remote-controlled car be considered a fully autonomous robot? Why or why not?"
+- Ask: "Name the three main components of any robot."
+(اسأل الطلاب: "هل يمكن اعتبار السيارة التي يتم التحكم فيها عن بعد روبوتاً مستقلاً تماماً؟ لماذا أو لماذا لا؟"
+اسأل: "اذكر المكونات الثلاثة الرئيسية لأي روبوت.")
+
+Homework (الواجب المنزلي):
+- Draw a simple robot designed to solve a specific problem (e.g., cleaning your room or helping the elderly) and label its sensors and actuators.
+(ارسم روبوتاً بسيطاً مصمماً لحل مشكلة معينة (مثل تنظيف غرفتك أو مساعدة كبار السن) وحدد مستشعراته ومحركاته.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!

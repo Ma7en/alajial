@@ -1,0 +1,87 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Audio Editor (محرر الصوت)
+
+Class (الفصل):
+Third Elementary Grade (الصف الثالث الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand that sound can be recorded and edited on a computer.
+2. Use a simple audio tool to record their voice.
+3. Perform basic edits like "Trim" (cutting) and adjusting volume.
+(1. فهم أنه يمكن تسجيل الصوت وتحريره على الكمبيوتر.
+2. استخدام أداة صوتية بسيطة لتسجيل أصواتهم.
+3. إجراء تعديلات أساسية مثل "القص" (Trim) وضبط مستوى الصوت.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Hands-on Practice, Creative Expression (عرض توضيحي، ممارسة عملية، تعبير إبداعي)
+
+New Vocabularies (المفردات الجديدة):
+1. Audio (صوت/سمعي)
+2. Record (تسجيل)
+3. Trim/Cut (قص)
+4. Volume (مستوى الصوت)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with microphones and simple audio software (Audacity, Online Voice Recorder, or similar) (أجهزة كمبيوتر مع ميكروفونات وبرنامج صوتي بسيط)
+2. Headphones (سماعات رأس)
+3. Projector (جهاز عرض)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Play a funny sound effect or a recorded greeting. Ask: "How did this sound get into the computer? Can we change it?"
+- Introduce the "Audio Editor."
+(تشغيل تأثير صوتي مضحك أو تحية مسجلة. اسأل: "كيف وصل هذا الصوت إلى الكمبيوتر؟ هل يمكننا تغييره؟"
+تقديم "محرر الصوت".)
+
+Procedures (الإجراءات):
+1. Recording Voice (10 minutes):
+    - Show the "Record" button (usually a red circle).
+    - Activity: Each student records a short greeting: "Hello, my name is [Name] and I am learning about audio!"
+    - Show how to "Play" the recording back.
+    (توضيح زر "التسجيل" (عادة دائرة حمراء).
+    نشاط: يسجل كل طالب تحية قصيرة: "مرحباً، اسمي [الاسم] وأنا أتعلم عن الصوت!"
+    توضيح كيفية "تشغيل" التسجيل.)
+2. Basic Editing (15 minutes):
+    - Show the "Waveform" (the blue/green lines that represent sound).
+    - Demonstrate how to **Trim**: Select a silent part at the beginning or end and delete it.
+    - Show how to increase or decrease the **Volume**.
+    (عرض "الموجة الصوتية" (الخطوط الزرقاء/الخضراء التي تمثل الصوت).
+    توضيح كيفية **القص**: تحديد جزء صامت في البداية أو النهاية وحذفه.
+    توضيح كيفية زيادة أو خفض **مستوى الصوت**.)
+3. Adding Effects (5 minutes):
+    - If time permits, show a simple effect like "Echo" or changing the pitch to sound like a robot.
+    (إذا سمح الوقت، عرض تأثير بسيط مثل "الصدى" أو تغيير طبقة الصوت ليبدو مثل الروبوت.)
+
+Evaluation (التقييم):
+- Ask students: "What does the 'Trim' tool do?"
+- Listen to a few students' recordings: Is the sound clear and trimmed properly?
+(اسأل الطلاب: "ماذا تفعل أداة 'القص'؟"
+الاستماع لتسجيلات بعض الطلاب: هل الصوت واضح ومقصوص بشكل صحيح؟)
+
+Homework (الواجب المنزلي):
+- Think of three places where we hear recorded voices (e.g., GPS, elevator, toys) and write them down.
+(فكر في ثلاثة أماكن نسمع فيها أصواتاً مسجلة (مثل نظام الملاحة، المصعد، الألعاب) واكتبها.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Slide Master (الشريحة الرئيسية في بوربوينت)
+
+Class (الفصل):
+Fifth Elementary Grade (الصف الخامس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the purpose of the Slide Master.
+2. Customize the background, fonts, and logos for all slides at once.
+3. Create a consistent theme for a presentation.
+(1. فهم الغرض من الشريحة الرئيسية (Slide Master).
+2. تخصيص الخلفية والخطوط والشعارات لجميع الشرائح دفعة واحدة.
+3. إنشاء سمة (Theme) متسقة للعرض التقديمي.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Guided Practice, Efficiency-focused Learning (عرض توضيحي، ممارسة موجهة، تعلم يركز على الكفاءة)
+
+New Vocabularies (المفردات الجديدة):
+1. Slide Master (الشريحة الرئيسية)
+2. Consistency (الاتساق/التناسق)
+3. Layout (تخطيط)
+4. Theme (سمة/قالب)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Microsoft PowerPoint (أجهزة كمبيوتر مع برنامج بوربوينت)
+2. Projector (جهاز عرض)
+3. Presentation with 10 slides (to show the power of Slide Master) (عرض تقديمي من 10 شرائح لتوضيح قوة الشريحة الرئيسية)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "If you have 50 slides and you want to put the school logo on every single one, would you do it one by one? Is there a faster way?"
+- Introduce the "Slide Master" as the "Boss Slide."
+(اسأل الطلاب: "إذا كان لديك 50 شريحة وأردت وضع شعار المدرسة على كل واحدة منها، فهل ستفعل ذلك واحدة تلو الأخرى؟ هل هناك طريقة أسرع؟"
+تقديم "الشريحة الرئيسية" كـ "الشريحة القائدة".)
+
+Procedures (الإجراءات):
+1. Accessing Slide Master (10 minutes):
+    - Show how to enter Slide Master view (View > Slide Master).
+    - Explain that the top slide controls all other layouts.
+    (توضيح كيفية الدخول إلى عرض الشريحة الرئيسية.
+    شرح أن الشريحة العلوية تتحكم في جميع التخطيطات الأخرى.)
+2. Customizing the Master (15 minutes):
+    - Activity:
+        - Change the background color on the Master slide.
+        - Insert a small picture (logo) in the corner.
+        - Change the font style for titles.
+    - Close Slide Master view and show how all slides updated automatically.
+    (نشاط:
+    - تغيير لون الخلفية في الشريحة الرئيسية.
+    - إدراج صورة صغيرة (شعار) في الزاوية.
+    - تغيير نمط الخط للعناوين.
+    إغلاق عرض الشريحة الرئيسية وإظهار كيف تم تحديث جميع الشرائح تلقائياً.)
+3. Creating Layouts (5 minutes):
+    - Briefly show how to create a custom layout for specific needs.
+    (توضيح كيفية إنشاء تخطيط مخصص لاحتياجات محددة باختصار.)
+
+Evaluation (التقييم):
+- Ask students: "What happens to the other slides when we change the font on the Slide Master?"
+- Check if students can successfully add a logo to all slides using the Master.
+(اسأل الطلاب: "ماذا يحدث للشرائح الأخرى عندما نغير الخط في الشريحة الرئيسية؟"
+التحقق مما إذا كان الطلاب يستطيعون إضافة شعار لجميع الشرائح بنجاح باستخدام الشريحة الرئيسية.)
+
+Homework (الواجب المنزلي):
+- Open a new PowerPoint file and create a custom theme using Slide Master with your favorite colors and a specific font.
+(افتح ملف بوربوينت جديداً وأنشئ سمة مخصصة باستخدام الشريحة الرئيسية بألوانك المفضلة وخط محدد.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

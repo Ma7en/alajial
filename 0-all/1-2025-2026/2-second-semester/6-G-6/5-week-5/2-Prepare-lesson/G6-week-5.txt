@@ -1,0 +1,85 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Cloud Computing (الحوسبة السحابية)
+
+Class (الفصل):
+Sixth Elementary Grade (الصف السادس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of "The Cloud" and how it works.
+2. Identify the benefits of using cloud storage and applications.
+3. Use a cloud-based tool (like Google Drive or OneDrive) to save and share a file.
+(1. فهم مفهوم "السحابة" وكيفية عملها.
+2. تحديد فوائد استخدام التخزين والتطبيقات السحابية.
+3. استخدام أداة سحابية (مثل جوجل درايف أو ون درايف) لحفظ ومشاركة ملف.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Analogy-based Learning, Demonstration, Hands-on Practice (التعلم بالمقارنة، عرض توضيحي، ممارسة عملية)
+
+New Vocabularies (المفردات الجديدة):
+1. Cloud Computing (الحوسبة السحابية)
+2. Data Center (مركز البيانات)
+3. Cloud Storage (التخزين السحابي)
+4. Syncing (المزامنة)
+
+Teaching Aids (الوسائل التعليمية):
+1. Projector and Presentation (جهاز عرض وعرض تقديمي)
+2. Computers with internet access (أجهزة كمبيوتر متصلة بالإنترنت)
+3. Visual aids showing servers and data centers (وسائل بصرية توضح الخوادم ومراكز البيانات)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "If you save a photo on your computer at school, can you see it on your tablet at home? How?"
+- Introduce the concept of "The Cloud."
+(اسأل الطلاب: "إذا حفظت صورة على جهاز الكمبيوتر في المدرسة، هل يمكنك رؤيتها على جهازك اللوحي في المنزل؟ كيف؟"
+تقديم مفهوم "السحابة".)
+
+Procedures (الإجراءات):
+1. What is the Cloud? (10 minutes):
+    - Explain that the Cloud isn't in the sky; it's a network of powerful computers (servers) in data centers.
+    - Use the analogy of a "Digital Backpack" that follows you everywhere.
+    (شرح أن السحابة ليست في السماء؛ بل هي شبكة من أجهزة الكمبيوتر القوية (الخوادم) في مراكز البيانات.
+    استخدام تشبيه "حقيبة الظهر الرقمية" التي تتبعك في كل مكان.)
+2. Benefits of the Cloud (10 minutes):
+    - Discuss: Access from anywhere, easy sharing, and backup (data is safe if your device breaks).
+    - Examples: YouTube, Netflix, iCloud, Google Docs.
+    (مناقشة: الوصول من أي مكان، سهولة المشاركة، والنسخ الاحتياطي (البيانات آمنة إذا تعطل جهازك).
+    أمثلة: يوتيوب، نتفليكس، آيكلاود، مستندات جوجل.)
+3. Hands-on Activity (10 minutes):
+    - Guide students to log into a cloud account, create a simple document, and see how it saves automatically.
+    - Show how to "Share" the document with a teacher or classmate.
+    (توجيه الطلاب لتسجيل الدخول إلى حساب سحابي، إنشاء مستند بسيط، ورؤية كيف يتم حفظه تلقائياً.
+    توضيح كيفية "مشاركة" المستند مع المعلم أو زميل.)
+
+Evaluation (التقييم):
+- Ask students: "Where is the data actually stored when we save it to the cloud?"
+- Ask: "Name one advantage of using cloud storage over a USB flash drive."
+(اسأل الطلاب: "أين يتم تخزين البيانات فعلياً عندما نحفظها في السحابة؟"
+اسأل: "اذكر ميزة واحدة لاستخدام التخزين السحابي بدلاً من ذاكرة USB.")
+
+Homework (الواجب المنزلي):
+- List three apps you use every day that rely on cloud computing.
+(اذكر ثلاثة تطبيقات تستخدمها يومياً وتعتمد على الحوسبة السحابية.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

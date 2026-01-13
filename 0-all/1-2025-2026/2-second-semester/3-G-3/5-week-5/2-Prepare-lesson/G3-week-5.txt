@@ -1,0 +1,87 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Create Graphs (إنشاء الرسوم البيانية)
+
+Class (الفصل):
+Third Elementary Grade (الصف الثالث الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand that graphs help us see data clearly.
+2. Create a simple Bar Graph from a set of data.
+3. Interpret a graph to answer simple questions.
+(1. فهم أن الرسوم البيانية تساعدنا على رؤية البيانات بوضوح.
+2. إنشاء رسم بياني بالأعمدة (Bar Graph) من مجموعة بيانات.
+3. تفسير الرسم البياني للإجابة على أسئلة بسيطة.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Visual Learning, Hands-on Practice, Data Interpretation (تعلم بصري، ممارسة عملية، تفسير البيانات)
+
+New Vocabularies (المفردات الجديدة):
+1. Graph/Chart (رسم بياني/مخطط)
+2. Bar Graph (رسم بياني بالأعمدة)
+3. Data (بيانات/معلومات)
+4. Axis (محور)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Excel or Google Sheets (أجهزة كمبيوتر مع برنامج جداول بيانات)
+2. Projector (جهاز عرض)
+3. Colored blocks or LEGOs (to build a physical graph) (مكعبات ملونة أو ليجو لبناء رسم بياني مادي)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "If I tell you 10 people like blue, 5 like red, and 8 like green, is it easy to remember? What if I show you a picture of it?"
+- Introduce the Graph as a "Picture of Numbers."
+(اسأل الطلاب: "إذا أخبرتكم أن 10 أشخاص يحبون الأزرق، و5 يحبون الأحمر، و8 يحبون الأخضر، هل من السهل تذكر ذلك؟ ماذا لو عرضت لكم صورة لذلك؟"
+تقديم الرسم البياني كـ "صورة للأرقام".)
+
+Procedures (الإجراءات):
+1. Building a Physical Graph (10 minutes):
+    - Use colored blocks. Create a stack of 4 blue blocks and 2 red blocks.
+    - Ask: "Which stack is taller? Which color is more popular?"
+    - Explain that this is a "Bar Graph."
+    (استخدام المكعبات الملونة. إنشاء كومة من 4 مكعبات زرقاء وكومتين حمراء.
+    اسأل: "أي كومة هي الأطول؟ أي لون هو الأكثر شعبية؟"
+    شرح أن هذا هو "رسم بياني بالأعمدة".)
+2. Creating a Digital Graph (15 minutes):
+    - Guide students to enter simple data into a spreadsheet (e.g., Favorite Pets: Cat 4, Dog 6, Fish 2).
+    - Show how to select the data and click the "Insert Chart" button.
+    - Choose the "Bar Chart" option.
+    (توجيه الطلاب لإدخال بيانات بسيطة في جدول البيانات (مثلاً: الحيوانات الأليفة المفضلة: قطة 4، كلب 6، سمكة 2).
+    توضيح كيفية تحديد البيانات والنقر على زر "إدراج مخطط".
+    اختيار خيار "مخطط الأعمدة".)
+3. Reading the Graph (5 minutes):
+    - Ask students to look at their generated graph and tell you which pet is the least favorite.
+    (اطلب من الطلاب النظر إلى الرسم البياني الذي أنشأوه وإخبارك أي حيوان أليف هو الأقل تفضيلاً.)
+
+Evaluation (التقييم):
+- Ask students: "What does the height of the bar tell us?"
+- Check students' graphs: Do they have a title like "Favorite Pets"?
+(اسأل الطلاب: "ماذا يخبرنا ارتفاع العمود؟"
+التحقق من رسومات الطلاب: هل تحتوي على عنوان مثل "الحيوانات الأليفة المفضلة"؟)
+
+Homework (الواجب المنزلي):
+- Look at a weather graph on TV or online and draw a simple bar graph of the temperature for 3 days.
+(انظر إلى رسم بياني للطقس في التلفاز أو الإنترنت وارسم رسم بياني بالأعمدة لدرجة الحرارة لمدة 3 أيام.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

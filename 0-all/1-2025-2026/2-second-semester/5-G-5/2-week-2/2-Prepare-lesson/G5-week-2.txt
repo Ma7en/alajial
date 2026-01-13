@@ -1,0 +1,91 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Movement (الحركة في البرمجة)
+
+Class (الفصل):
+Fifth Elementary Grade (الصف الخامس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the concept of coordinates (X and Y) for positioning.
+2. Program a sprite to move in different directions using arrow keys.
+3. Use "Glide" and "Go to" blocks to control movement precisely.
+(1. فهم مفهوم الإحداثيات (X و Y) لتحديد المواقع.
+2. برمجة كائن للتحرك في اتجاهات مختلفة باستخدام مفاتيح الأسهم.
+3. استخدام لبنات "انزلق" و "اذهب إلى" للتحكم في الحركة بدقة.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Hands-on Coding, Visual Learning, Guided Practice (برمجة عملية، تعلم بصري، ممارسة موجهة)
+
+New Vocabularies (المفردات الجديدة):
+1. Coordinates (الإحداثيات)
+2. X-Axis (المحور السيني)
+3. Y-Axis (المحور الصادي)
+4. Sprite (كائن برمجي)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Scratch or similar software (أجهزة كمبيوتر مع برنامج سكراتش أو ما شابه)
+2. Projector (جهاز عرض)
+3. Coordinate plane poster (ملصق لمستوى الإحداثيات)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask a student to move 3 steps forward and 2 steps to the right.
+- Explain that computers need exact numbers (coordinates) to know where to move.
+(اطلب من أحد الطلاب التحرك 3 خطوات للأمام وخطوتين لليمين.
+شرح أن أجهزة الكمبيوتر تحتاج إلى أرقام دقيقة (إحداثيات) لتعرف أين تتحرك.)
+
+Procedures (الإجراءات):
+1. Introduction to X and Y (10 minutes):
+    - Show the stage grid. Explain that X is horizontal (Left/Right) and Y is vertical (Up/Down).
+    - Practice finding points like (0,0), (100,0), and (0,100).
+    (عرض شبكة المنصة. شرح أن X أفقي (يسار/يمين) و Y رأسي (أعلى/أسفل).
+    التدرب على إيجاد نقاط مثل (0,0) و (100,0) و (0,100).)
+2. Coding Basic Movement (15 minutes):
+    - Guide students to use "When key pressed" blocks:
+        - Up Arrow: Change Y by 10.
+        - Down Arrow: Change Y by -10.
+        - Right Arrow: Change X by 10.
+        - Left Arrow: Change X by -10.
+    - Introduce the "Glide" block for smooth movement to a specific spot.
+    (توجيه الطلاب لاستخدام لبنات "عند ضغط مفتاح":
+    - سهم للأعلى: غير Y بمقدار 10.
+    - سهم للأسفل: غير Y بمقدار -10.
+    - سهم لليمين: غير X بمقدار 10.
+    - سهم لليسار: غير X بمقدار -10.
+    تقديم لبنة "انزلق" للحركة السلسة إلى مكان محدد.)
+3. Mini Challenge (5 minutes):
+    - Ask students to make the sprite "Glide" to the four corners of the stage.
+    (اطلب من الطلاب جعل الكائن "ينزلق" إلى الزوايا الأربع للمنصة.)
+
+Evaluation (التقييم):
+- Observe students' projects: Does the sprite move correctly with the arrow keys?
+- Ask: "If I want to move my sprite to the top of the screen, which value should I increase?"
+(ملاحظة مشاريع الطلاب: هل يتحرك الكائن بشكل صحيح مع مفاتيح الأسهم؟
+اسأل: "إذا أردت تحريك كائني إلى أعلى الشاشة، أي قيمة يجب أن أزيدها؟")
+
+Homework (الواجب المنزلي):
+- Create a simple program where a sprite follows the mouse pointer.
+(أنشئ برنامجاً بسيطاً حيث يتبع الكائن مؤشر الفأرة.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

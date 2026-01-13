@@ -1,0 +1,89 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Platformer Movement (حركة ألعاب المنصات)
+
+Class (الفصل):
+Sixth Elementary Grade (الصف السادس الابتدائي)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Understand the basic mechanics of platformer games.
+2. Program a character to move left, right, and jump.
+3. Apply gravity and collision detection in a simple game environment.
+(1. فهم الميكانيكا الأساسية لألعاب المنصات.
+2. برمجة شخصية للتحرك يميناً ويساراً والقفز.
+3. تطبيق الجاذبية واكتشاف التصادم في بيئة لعبة بسيطة.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Hands-on Coding, Demonstration, Problem Solving (برمجة عملية، عرض توضيحي، حل المشكلات)
+
+New Vocabularies (المفردات الجديدة):
+1. Platformer (لعبة منصات)
+2. Gravity (الجاذبية)
+3. X-Axis & Y-Axis (المحور السيني والصادي)
+4. Collision (التصادم)
+
+Teaching Aids (الوسائل التعليمية):
+1. Computers with Scratch or similar coding software (أجهزة كمبيوتر مع برنامج سكراتش أو ما شابه)
+2. Projector (جهاز عرض)
+3. Examples of platformer games (Super Mario, etc.) (أمثلة لألعاب منصات)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "What happens when Mario jumps? Does he stay in the air or fall back down? Why?"
+- Introduce the concept of "Platformer Movement."
+(اسأل الطلاب: "ماذا يحدث عندما يقفز ماريو؟ هل يبقى في الهواء أم يسقط للأسفل؟ لماذا؟"
+تقديم مفهوم "حركة ألعاب المنصات".)
+
+Procedures (الإجراءات):
+1. Introduction to Coordinates (10 minutes):
+    - Explain how the X-axis controls horizontal movement (Left/Right) and the Y-axis controls vertical movement (Up/Down).
+    - Discuss how gravity pulls the character down (decreasing Y).
+    (شرح كيف يتحكم المحور X في الحركة الأفقية (يمين/يسار) والمحور Y في الحركة الرأسية (أعلى/أسفل).
+    مناقشة كيف تسحب الجاذبية الشخصية للأسفل (تقليل قيمة Y).)
+2. Coding the Movement (15 minutes):
+    - Guide students to code:
+        - "If right arrow pressed, change X by 10."
+        - "If left arrow pressed, change X by -10."
+        - "If space pressed, change Y by 50 (Jump)."
+    - Add a "forever" loop to simulate gravity: "Change Y by -5."
+    (توجيه الطلاب لبرمجة:
+    - "إذا ضُغط السهم الأيمن، غير X بمقدار 10."
+    - "إذا ضُغط السهم الأيسر، غير X بمقدار -10."
+    - "إذا ضُغطت المسافة، غير Y بمقدار 50 (قفز)."
+    إضافة حلقة "كرر باستمرار" لمحاكاة الجاذبية: "غير Y بمقدار -5".)
+3. Collision Detection (5 minutes):
+    - Add a condition: "If touching color (platform), stop falling."
+    (إضافة شرط: "إذا لامس اللون (المنصة)، توقف عن السقوط".)
+
+Evaluation (التقييم):
+- Observe students' characters: Can they move and jump without falling through the floor?
+- Ask: "Which axis do we change to make the character jump?"
+(ملاحظة شخصيات الطلاب: هل يمكنهم التحرك والقفز دون السقوط عبر الأرضية؟
+اسأل: "أي محور نغيره لنجعل الشخصية تقفز؟")
+
+Homework (الواجب المنزلي):
+- Try to add a "Double Jump" feature to your character at home.
+(حاول إضافة ميزة "القفزة المزدوجة" لشخصيتك في المنزل.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]

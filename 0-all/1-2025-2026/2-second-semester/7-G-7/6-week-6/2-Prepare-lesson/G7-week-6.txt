@@ -1,0 +1,87 @@
+Lesson Plan (خطة الدرس)
+
+Lesson Title (عنوان الدرس):
+Bluetooth Communication (اتصال البلوتوث)
+
+Class (الفصل):
+First Intermediate Grade (الصف الأول المتوسط)
+
+Day (اليوم):
+Monday (الاثنين)
+
+Lesson Objectives (أهداف الدرس):
+By the end of this lesson, students will be able to:
+1. Define Bluetooth technology and its primary uses.
+2. Understand the process of "Pairing" between devices.
+3. Identify the advantages and limitations of Bluetooth communication.
+(1. تعريف تقنية البلوتوث واستخداماتها الأساسية.
+2. فهم عملية "الاقتران" (Pairing) بين الأجهزة.
+3. تحديد مميزات وعيوب اتصال البلوتوث.)
+
+Period (الفترة الزمنية):
+45 minutes (45 دقيقة)
+
+Date (التاريخ):
+[Insert Date] (تاريخ اليوم)
+
+Strategy (الاستراتيجية):
+Demonstration, Discussion, Hands-on Activity (عرض توضيحي، مناقشة، نشاط عملي)
+
+New Vocabularies (المفردات الجديدة):
+1. Bluetooth (البلوتوث)
+2. Pairing (الاقتران)
+3. Short-range (قصير المدى)
+4. Wireless (لاسلكي)
+
+Teaching Aids (الوسائل التعليمية):
+1. Smartphones or Tablets (هواتف ذكية أو أجهزة لوحية)
+2. Bluetooth Speaker or Headphones (سماعة بلوتوث أو سماعات رأس)
+3. Projector (جهاز عرض)
+4. Whiteboard (السبورة)
+
+Time (الوقت):
+- Warm-up: 5 minutes (التهيئة: 5 دقائق)
+- Procedures: 30 minutes (الإجراءات: 30 دقيقة)
+- Evaluation: 5 minutes (التقييم: 5 دقائق)
+- Homework: 5 minutes (الواجب المنزلي: 5 دقائق)
+
+Warm-up (التهيئة):
+- Ask students: "How do you connect your phone to a wireless speaker or share a file without a cable?"
+- Introduce the Bluetooth icon and ask if they recognize it.
+(اسأل الطلاب: "كيف توصل هاتفك بسماعة لاسلكية أو تشارك ملفاً بدون كابل؟"
+عرض أيقونة البلوتوث وسؤالهم عما إذا كانوا يعرفونها.)
+
+Procedures (الإجراءات):
+1. Introduction to Bluetooth (10 minutes):
+    - Define Bluetooth as a short-range wireless communication technology.
+    - Discuss common uses: transferring files, connecting peripherals (mouse, keyboard), and audio devices.
+    (تعريف البلوتوث كتقنية اتصال لاسلكي قصير المدى.
+    مناقشة الاستخدامات الشائعة: نقل الملفات، توصيل الملحقات (ماوس، لوحة مفاتيح)، وأجهزة الصوت.)
+2. The Pairing Process (15 minutes):
+    - Explain the concept of "Pairing" as a security measure to connect two devices.
+    - Demonstration: Show how to pair a smartphone with a Bluetooth speaker.
+    - Activity: Let students (in pairs) practice pairing two devices or identifying the Bluetooth settings on their tablets.
+    (شرح مفهوم "الاقتران" كإجراء أمني لتوصيل جهازين.
+    عرض توضيحي: توضيح كيفية اقتران هاتف ذكي بسماعة بلوتوث.
+    نشاط: دع الطلاب (في أزواج) يتدربون على اقتران جهازين أو تحديد إعدادات البلوتوث في أجهزتهم اللوحية.)
+3. Advantages and Limitations (5 minutes):
+    - Discuss benefits (no cables, low power) and limits (short distance, potential interference).
+    (مناقشة المميزات (بدون كابلات، استهلاك منخفض للطاقة) والعيوب (مسافة قصيرة، تداخل محتمل).)
+
+Evaluation (التقييم):
+- Ask students: "What is the meaning of 'Pairing' in Bluetooth?"
+- Ask: "Why is Bluetooth considered a short-range technology?"
+(اسأل الطلاب: "ما معنى 'الاقتران' في البلوتوث؟"
+اسأل: "لماذا يعتبر البلوتوث تقنية قصيرة المدى؟")
+
+Homework (الواجب المنزلي):
+- List five devices in your home that use Bluetooth technology.
+(اذكر خمسة أجهزة في منزلك تستخدم تقنية البلوتوث.)
+
+المشرف:
+[اسم المشرف]
+
+مدير المدرسة:
+[اسم مدير المدرسة]
+
+أتمنى أن يكون هذا مفيدًا!
