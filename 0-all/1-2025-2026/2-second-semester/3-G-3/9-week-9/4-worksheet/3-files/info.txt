@@ -1,0 +1,7 @@
+Shape outline is used to apply borders to shapes.
+
+Layout option is used to align a picture with text.
+
+Change the colour of a speech bubble and rectangle with shape Fill
+
+

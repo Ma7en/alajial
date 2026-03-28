@@ -1,0 +1,8 @@
+The play button is used to run the animation.
+
+
+We can delete unwanted frames. There is no need to delete the entire animation.
+
+
+
+

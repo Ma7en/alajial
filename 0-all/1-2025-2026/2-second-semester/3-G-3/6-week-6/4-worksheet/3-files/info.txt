@@ -1,0 +1,10 @@
+Email is an electronic mail sent and received using internet in devices like
+computers, mobiles, laptops.
+
+The address of the sender and receiver is their Email ID
+
+In Instant Messaging the sender and receiver have to use the same service.
+
+
+
+

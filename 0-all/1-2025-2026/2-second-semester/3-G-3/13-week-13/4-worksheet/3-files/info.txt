@@ -1,0 +1,5 @@
+ A spreadsheet is a set of rows and columns that stores data.
+
+A list helps to arrange data in a sequence typically, one below another.
+
+

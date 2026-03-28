@@ -1,0 +1,5 @@
+"Add title card" is an option used to add a slide for introduction.
+
+Storyboard Panel is a collection of all the images and videos to be used in the video.
+
+

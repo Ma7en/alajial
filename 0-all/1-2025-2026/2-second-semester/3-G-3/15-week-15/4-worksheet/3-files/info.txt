@@ -1,0 +1,7 @@
+Graphs and Charts are used to visualise data.
+
+A pie chart is also known as Circle graph
+
+
+
+

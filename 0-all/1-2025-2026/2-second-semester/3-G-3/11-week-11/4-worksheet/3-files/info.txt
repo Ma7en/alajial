@@ -1,0 +1,5 @@
+Data analysis is the process of collecting the Data, and Organise it.
+
+
+A table represents data in cells that are arranged in Rows, and Columns.
+

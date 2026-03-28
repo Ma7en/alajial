@@ -1,0 +1,6 @@
+File type is also called as File format
+
+wav is a type of Audio format.
+
+
+
