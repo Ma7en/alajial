@@ -1,0 +1,5 @@
+Changes made to the font and colour of the master slide will appear in layout masters.
+
+We can edit layout masters individually for specific layout changes to appear in all slides of a
+master layout.
+

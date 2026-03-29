@@ -1,0 +1,6 @@
+SmartArt is used to present large information in a short and effective manner with various shapes.
+ 
+
+Once SmartArt is used, it can be edited and modified to a different layout in the design tab.
+
+
