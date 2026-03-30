@@ -1,0 +1,4 @@
+Animations are of four types.
+
+"Timing" is used to set the time for the animation to appear.
+

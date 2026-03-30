@@ -1,0 +1,12 @@
+Title Bar indicates the software, the name of the presentation that is open, and
+minimize, maximize, and close buttons.
+
+
+Slides tab displays the slides in a presentation as small images.
+
+The arrangement of placeholders on a slide is called a Layout
+
+
+
+
+
