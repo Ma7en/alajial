@@ -1,0 +1,10 @@
+Decode the following codes - Each has a different logic   Cipher: 
+
+
+CVVCEM CV FCYP (Key: Shifting letters by 2 spaces to the right for example C converts to A) 
+
+
+TAERGEHTREDNAXELA (Key: Reverse the letters)
+
+
+

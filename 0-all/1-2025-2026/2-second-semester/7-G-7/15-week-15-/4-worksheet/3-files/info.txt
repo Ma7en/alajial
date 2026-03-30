@@ -1,0 +1,15 @@
+Sensors are used to detect and collect information about the respective events or 
+changes in Environment
+
+An LDR sensor is used to indicate the presence or absence of Light
+
+If the LDR is in a dark area, then the LED will turn OFF
+
+The longer leg of an LED is Positive Pin
+
+
+The shorter leg of an LED is Negative Pin
+
+
+
+

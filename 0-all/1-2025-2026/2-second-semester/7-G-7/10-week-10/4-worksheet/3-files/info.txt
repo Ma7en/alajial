@@ -1,0 +1,6 @@
+Caesar Code is one of the oldest methods of creating a cipher.
+
+A mathematical process that uses an encryption key to produce a ciphertext from a given plaintext is known as an Encryption Algorithm.
+
+UPI app payment services also use Encryption  .
+

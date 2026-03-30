@@ -1,0 +1,15 @@
+Breadboard
+
+LDR SENSOR    1 (Light Dependent Resistor)
+
+LDR    
+
+Resistor 10 K ohms    
+
+
+9V Battery    
+
+
+Jumper Wires
+
+

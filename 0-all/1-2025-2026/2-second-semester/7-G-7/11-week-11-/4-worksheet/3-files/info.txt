@@ -1,0 +1,8 @@
+The system in which messages are encoded and decoded is the Cryptosystem
+
+Cryptography is widely and most commonly used in our daily lives in messaging applications. 
+
+
+
+
+
