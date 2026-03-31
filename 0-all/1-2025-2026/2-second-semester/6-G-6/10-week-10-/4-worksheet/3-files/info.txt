@@ -1,0 +1,14 @@
+The practice of protecting a network, system, or program from data leaks is called Cybersecurity
+
+
+
+Computer Virus corrupts or erases computer data in a system
+
+
+Malware, Spyware and Ransomware are types of computer viruses.
+
+
+
+
+
+

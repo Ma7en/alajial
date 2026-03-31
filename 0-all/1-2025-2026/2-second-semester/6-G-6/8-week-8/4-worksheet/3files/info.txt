@@ -1,0 +1,15 @@
+What is a Jumpthru platform?
+A Jumpthru platform is a type of Platform behavior that allows the player to jump onto from beneath it.
+
+
+Which feature allows us to repeat an animation? 
+Loop feature allows repeating the animation.
+
+
+How do we determine the location of an object? 
+Position of the object can be determined by the co-ordinates on X and Y axes.
+
+
+
+
+
