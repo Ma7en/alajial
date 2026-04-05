@@ -1,4 +1,8 @@
 Execute every frame :  When a condition is not specified, an action runs once in every single frame. 
+
+
 • Jumpthru platform :  A Jumpthru platform is a type of platform behaviour that allows the player to     jump onto the platform from beneath it.
+
+
 • Animation name :  Animation names are used to switch between multiple animations using events.
 
