@@ -1,5 +1,4 @@
-A collection of information, such as numbers, words, or descriptions of things is
-called Data 
+A collection of information, such as numbers, words, or descriptions of things is called Data 
 
 Data visualisation is a process in which we visualise the data in the form of a picture.
 
