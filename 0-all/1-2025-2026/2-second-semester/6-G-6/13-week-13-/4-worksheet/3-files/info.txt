@@ -1,6 +1,5 @@
 Anti Virus is a software developed to detect and destroy computer viruses.
 
-A Firewall  is a security system that keeps track and filters incoming or outgoing 
-data through the network
+A Firewall  is a security system that keeps track and filters incoming or outgoing data through the network
 
 

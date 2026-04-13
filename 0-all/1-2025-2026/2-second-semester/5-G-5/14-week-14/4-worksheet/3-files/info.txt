@@ -1,7 +1,16 @@
-. Slide Master : Slide Master is a feature to create customized theme designs for all slides in
-presentation.
+Slide Master : Slide Master is a feature to create customized theme designs for all slides in presentation.
 
-. Master Slide : The master slide is the top slide in the thumbnail pane on the left side of the
-window.
+
+
+
+Master Slide : The master slide is the top slide in the thumbnail pane on the left side of the window.
+
+
+
+
+
+
+
+
 
 

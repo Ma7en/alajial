@@ -1,7 +1,6 @@
 . Presentatlon : It is a way of communication to get a message across to an audience.
 
 
-· Hyperllnk : Hyperlink creates a link to directly take us to a specific place in the presentation,
-or to a webpage, graphics, files, sounds, e-mail, and other locations.
+· Hyperllnk : Hyperlink creates a link to directly take us to a specific place in the presentation, or to a webpage, graphics, files, sounds, e-mail, and other locations.
 
 
