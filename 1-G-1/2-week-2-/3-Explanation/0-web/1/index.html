@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مستكشف الحاسوب الذكي | Computer Explorer</title>
+    <style>
+        :root {
+            --primary-color: #4cc9f0;
+            --secondary-color: #4895ef;
+            --accent-color: #f72585;
+            --bg-color: #f0f8ff;
+            --card-bg: #ffffff;
+            --text-color: #2b2d42;
+        }
+
+        * {
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            transition: all 0.3s ease;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            overflow-x: hidden;
+        }
+
+        /* هيدر الموقع وأزرار اللغات */
+        header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            padding: 15px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            color: white;
+        }
+
+        .lang-btn {
+            background-color: var(--accent-color);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 25px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .lang-btn:hover {
+            transform: scale(1.1);
+        }
+
+        /* الحاوية الرئيسية للمحطات */
+        .container {
+            max-width: 1000px;
+            margin: 30px auto;
+            padding: 20px;
+        }
+
+        .screen {
+            background: var(--card-bg);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+            text-align: center;
+            display: none;
+        }
+
+        .screen.active {
+            display: block;
+            animation: fadeIn 0.5s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        h1 { color: var(--secondary-color); font-size: 2.5rem; margin-bottom: 10px; }
+        p { font-size: 1.2rem; line-height: 1.6; }
+
+        /* الأزرار التفاعلية */
+        .btn {
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 1.3rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin-top: 20px;
+            box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+        }
+
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 9px 18px rgba(0,0,0,0.15);
+        }
+
+        /* لعبة السحب والإفلات */
+        .drag-container {
+            display: flex;
+            justify-content: space-around;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+        .drag-item {
+            background: #ffb703;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 15px;
+            cursor: grab;
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin: 10px;
+        }
+
+        .drop-zone {
+            border: 3px dashed var(--secondary-color);
+            background: #f8f9fa;
+            border-radius: 15px;
+            min-width: 200px;
+            min-height: 120px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 15px;
+            margin: 10px;
+        }
+
+        .drop-zone.hovered {
+            background: #e2eafc;
+            border-color: var(--accent-color);
+        }
+
+        /* وحش البيانات */
+        #monster {
+            font-size: 5rem;
+            margin: 20px 0;
+            animation: bounce 2s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-15px); }
+        }
+
+        .data-btn {
+            background: #9d4edd;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin: 5px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.1rem;
+        }
+
+        /* كويز الأسئلة */
+        .quiz-option {
+            background: #e0f2fe;
+            border: 2px solid #bae6fd;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+
+        .quiz-option:hover {
+            background: #bae6fd;
+        }
+
+        /* صوت سارة التفاعلي الافتراضي */
+        .sara-bubble {
+            background: #fff0f3;
+            border: 2px solid #ffb3c1;
+            border-radius: 15px;
+            padding: 15px;
+            margin: 20px auto;
+            max-width: 600px;
+            font-style: italic;
+            position: relative;
+        }
+
+        /* التوافقية مع الاتجاهات لفت لرايت ورأيت للفت */
+        .ltr {
+            direction: ltr;
+        }
+        .rtl {
+            direction: rtl;
+        }
+    </style>
+</head>
+<body class="rtl">
+
+    <header>
+        <div id="site-title">🏆 مستكشف الحاسوب الذكي</div>
+        <button class="lang-btn" onclick="toggleLanguage()" id="langBtn">English</button>
+    </header>
+
+    <div class="container">
+
+        <div id="screen-welcome" class="screen active">
+            <h1 id="welcome-title">مرحباً بك في عالم الحاسوب! 🚀</h1>
+            <div class="sara-bubble" id="welcome-sara">
+                👩‍🦰 سارة: "مرحباً يا أصدقائي! لقد أهداني والدي حاسوباً جديداً، هل تساعدوني لنكتشف ماذا يمكننا أن نفعل به؟"
+            </div>
+            <div style="font-size: 6rem; margin: 20px;">🎁💻</div>
+            <button class="btn" onclick="nextScreen('screen-drag')" id="start-btn">ابدأ الرحلة التفاعلية!</button>
+        </div>
+
+        <div id="screen-drag" class="screen">
+            <h1 id="drag-title">المحطة 1: أين نضع هذه الحواسيب؟ 📍</h1>
+            <p id="drag-desc">قم بسحب اسم الحاسوب إلى المكان الصحيح المخصص له:</p>
+            
+            <div class="drag-container" id="drag-items-container">
+                <div class="drag-item" draggable="true" id="desktop">حاسوب مكتبي 🖥️</div>
+                <div class="drag-item" draggable="true" id="laptop">لابتوب محمول 💻</div>
+            </div>
+
+            <div class="drag-container">
+                <div class="drop-zone" id="zone-office" data-target="desktop">
+                    <span style="font-size: 2rem;">🏥✈️</span>
+                    <b id="zone-1-title">المستشفى والمطار (ثابت)</b>
+                </div>
+                <div class="drop-zone" id="zone-travel" data-target="laptop">
+                    <span style="font-size: 2rem;">🧳✈️</span>
+                    <b id="zone-2-title">حقيبة السفر (خفيف للتنقل)</b>
+                </div>
+            </div>
+            <div id="drag-feedback" style="font-weight: bold; color: green; font-size: 1.2rem; min-height: 30px;"></div>
+            <button class="btn" onclick="nextScreen('screen-monster')" id="drag-next-btn" style="display:none;">المحطة التالية ➡️</button>
+        </div>
+
+        <div id="screen-monster" class="screen">
+            <h1 id="monster-title">المحطة 2: إطعام وحش البيانات (Bytes) 👾</h1>
+            <p id="monster-desc">الحاسوب الذكي يحفظ أنواعاً مختلفة من البيانات. اضغط على الأزرار لإطعام الوحش وتعرف عليها:</p>
+            <div id="monster">😋👾</div>
+            <div>
+                <button class="data-btn" onclick="feedMonster('words')">ABC الكلمات 📝</button>
+                <button class="data-btn" onclick="feedMonster('numbers')">123 الأرقام 🔢</button>
+                <button class="data-btn" onclick="feedMonster('images')">الصور 🖼️</button>
+                <button class="data-btn" onclick="feedMonster('videos')">الفيديوهات 🎬</button>
+            </div>
+            <div id="monster-feedback" class="sara-bubble" style="margin-top:20px;">...</div>
+            <button class="btn" onclick="nextScreen('screen-quiz')" id="monster-next-btn" style="display:none;">الاختبار الذكي 🎯</button>
+        </div>
+
+        <div id="screen-quiz" class="screen">
+            <h1 id="quiz-title">المحطة 3: تحدي الأبطال الخارقين! ⚡</h1>
+            <p id="quiz-question">لماذا نستخدم الحاسوب؟ اختر الميزة الخاطئة عن الحاسوب:</p>
+            <div id="quiz-options">
+                <div class="quiz-option" onclick="checkQuiz(false)" id="opt1">يعمل بسرعة فائقة جداً (Faster than us) ⚡</div>
+                <div class="quiz-option" onclick="checkQuiz(false)" id="opt2">لا يرتكب أخطاء أبداً (No mistakes) 🤖</div>
+                <div class="quiz-option" onclick="checkQuiz(true)" id="opt3">يتعب ويحتاج للنوم بعد العمل (Gets tired) 💤</div>
+            </div>
+            <div id="quiz-feedback" style="font-weight: bold; font-size: 1.3rem; margin-top: 15px;"></div>
+            <button class="btn" onclick="nextScreen('screen-cert')" id="quiz-next-btn" style="display:none;">استلام الشهادة 🏆</button>
+        </div>
+
+        <div id="screen-cert" class="screen" style="border: 8px double #gold; background: #fffcf2;">
+            <h1 id="cert-title">🎉 مبارك يا بطل المستقبل! 🎉</h1>
+            <p id="cert-desc">لقد أكملت رحلة مستكشف الحاسوب بنجاح متميز.</p>
+            <div style="border: 4px solid #ffb703; padding: 30px; border-radius: 10px; margin: 20px auto; max-width: 500px; background: white;">
+                <h2 style="color: #d4af37;" id="cert-badge">🏅 شهادة مستكشف الحاسوب 🏅</h2>
+                <p id="cert-body">تمنح هذه الشهادة للبطل الذكي لتفوقه في فهم مكونات ووظائف الحواسب الذكية بكل جدارة.</p>
+                <div style="font-size: 4rem;">🌟👨‍ي🎓🌟</div>
+            </div>
+            <button class="btn" onclick="restartGame()" id="restart-btn">العب مرة أخرى 🔄</button>
+        </div>
+
+    </div>
+
+    <script>
+        // النصوص المترجمة بالكامل لضمان تشغيل اللغتين فوراً
+        const translations = {
+            ar: {
+                title: "🏆 مستكشف الحاسوب الذكي",
+                welcomeTitle: "مرحباً بك في عالم الحاسوب! 🚀",
+                welcomeSara: "👩‍🦰 سارة: 'مرحباً يا أصدقائي! لقد أهداني والدي حاسوباً جديداً، هل تساعدوني لنكتشف ماذا يمكننا أن نفعل به؟'",
+                startBtn: "ابدأ الرحلة التفاعلية!",
+                dragTitle: "المحطة 1: أين نضع هذه الحواسيب؟ 📍",
+                dragDesc: "قم بسحب اسم الحاسوب إلى المكان الصحيح المخصص له:",
+                desktop: "حاسوب مكتبي 🖥️",
+                laptop: "لابتوب محمول 💻",
+                zoneOffice: "المستشفى والمطار (ثابت) 🏥✈️",
+                zoneTravel: "حقيبة السفر (خفيف للتنقل) 🧳✈️",
+                dragSuccess: "رائع جداً! الإجابات صحيحة تماماً! 🎉",
+                dragNext: "المحطة التالية ➡️",
+                monsterTitle: "المحطة 2: إطعام وحش البيانات (Bytes) 👾",
+                monsterDesc: "الحاسوب الذكي يحفظ أنواعاً مختلفة من البيانات. اضغط على الأزرار لإطعام الوحش وتعرف عليها:",
+                feed_words: "👾 الوحش بايت: يممي! الكلمات هي نصوص أقرأها داخل الحاسوب! 📝",
+                feed_numbers: "👾 الوحش بايت: لذيذ! الأرقام تساعدني على الحساب بسرعة وبدون أخطاء! 🔢",
+                feed_images: "👾 الوحش بايت: مدهش! الصور هي ملفات لقطات رقمية جميلة! 🖼️",
+                feed_videos: "👾 الوحش بايت: رائع! الفيديو هو عرض مستمر لصور متحركة ممتعة! 🎬",
+                quizTitle: "المحطة 3: تحدي الأبطال الخارقين! ⚡",
+                quizQuestion: "لماذا نستخدم الحاسوب؟ اختر الميزة الخاطئة عن الحاسوب:",
+                opt1: "يعمل بسرعة فائقة جداً (Faster than us) ⚡",
+                opt2: "لا يرتكب أخطاء أبداً (No mistakes) 🤖",
+                opt3: "يتعب ويحتاج للنوم بعد العمل (Gets tired) 💤",
+                quizCorrect: "إجابة ذكية وصحيحة! الحاسوب جهاز لا يتعب ولا يمل أبداً! 🦾",
+                quizWrong: "حاول مرة أخرى! هذه من مميزات الحاسوب الرائعة.",
+                certTitle: "🎉 مبارك يا بطل المستقبل! 🎉",
+                certDesc: "لقد أكملت رحلة مستكشف الحاسوب بنجاح متميز.",
+                certBadge: "🏅 شهادة مستكشف الحاسوب 🏅",
+                certBody: "تمنح هذه الشهادة للبطل الذكي لتفوقه في فهم مكونات ووظائف الحواسب الذكية بكل جدارة.",
+                restart: "العب مرة أخرى 🔄"
+            },
+            en: {
+                title: "🏆 Smart Computer Explorer",
+                welcomeTitle: "Welcome to Computer World! 🚀",
+                welcomeSara: "👩‍🦰 Sara: 'Come here friends, look at what my Papa brought for me! Can you help me explore it?'",
+                startBtn: "Start Interactive Journey!",
+                dragTitle: "Station 1: Where do they belong? 📍",
+                dragDesc: "Drag and drop the computer type to its correct workspace:",
+                desktop: "Desktop Computer 🖥️",
+                laptop: "Laptop Computer 💻",
+                zoneOffice: "Hospitals & Airports (Fixed) 🏥✈️",
+                zoneTravel: "Travelling Bag (Easy to carry) 🧳✈️",
+                dragSuccess: "Awesome! You sorted them perfectly! 🎉",
+                dragNext: "Next Station ➡️",
+                monsterTitle: "Station 2: Feed the Data Monster (Bytes) 👾",
+                monsterDesc: "Computers store different types of data. Click the buttons to feed the monster:",
+                feed_words: "👾 Byte Monster: Yum! Words are texts that I read inside the computer! 📝",
+                feed_numbers: "👾 Byte Monster: Delicious! Numbers help me calculate fast with no mistakes! 🔢",
+                feed_images: "👾 Byte Monster: Amazing! Images are cool photo files on a computer! 🖼️",
+                feed_videos: "👾 Byte Monster: Spectacular! Video is a continuous display of moving images! 🎬",
+                quizTitle: "Station 3: Superhero Challenge! ⚡",
+                quizQuestion: "Why do we use computers? Choose the WRONG statement:",
+                opt1: "Computers can work faster than us ⚡",
+                opt2: "Computers do not make mistakes 🤖",
+                opt3: "Computers get tired after work 💤",
+                quizCorrect: "Brilliant! Computers NEVER get tired or need to sleep! 🦾",
+                quizWrong: "Try again! This is actually a real superpower of computers.",
+                certTitle: "🎉 Congratulations Future Hero! 🎉",
+                certDesc: "You have successfully completed the computer exploration journey.",
+                certBadge: "🏅 Computer Explorer Certificate 🏅",
+                certBody: "This certificate is proudly presented to our smart hero for mastering computer skills with excellence.",
+                restart: "Play Again 🔄"
+            }
+        };
+
+        let currentLang = 'ar';
+        let score = 0;
+
+        // دالة تبديل اللغة الفورية
+        function toggleLanguage() {
+            currentLang = currentLang === 'ar' ? 'en' : 'ar';
+            document.body.className = currentLang === 'ar' ? 'rtl' : 'ltr';
+            document.getElementById('langBtn').innerText = currentLang === 'ar' ? 'English' : 'العربية';
+            
+            // تحديث النصوص في كل مكان بالصفحة
+            document.getElementById('site-title').innerText = translations[currentLang].title;
+            document.getElementById('welcome-title').innerText = translations[currentLang].welcomeTitle;
+            document.getElementById('welcome-sara').innerText = translations[currentLang].welcomeSara;
+            document.getElementById('start-btn').innerText = translations[currentLang].startBtn;
+            document.getElementById('drag-title').innerText = translations[currentLang].dragTitle;
+            document.getElementById('drag-desc').innerText = translations[currentLang].dragDesc;
+            document.getElementById('desktop').innerText = translations[currentLang].desktop;
+            document.getElementById('laptop').innerText = translations[currentLang].laptop;
+            document.getElementById('zone-1-title').innerText = translations[currentLang].zoneOffice;
+            document.getElementById('zone-2-title').innerText = translations[currentLang].zoneTravel;
+            document.getElementById('drag-next-btn').innerText = translations[currentLang].dragNext;
+            document.getElementById('monster-title').innerText = translations[currentLang].monsterTitle;
+            document.getElementById('monster-desc').innerText = translations[currentLang].monsterDesc;
+            document.getElementById('monster-next-btn').innerText = currentLang === 'ar' ? "الاختبار الذكي 🎯" : "Take the Quiz 🎯";
+            document.getElementById('quiz-title').innerText = translations[currentLang].quizTitle;
+            document.getElementById('quiz-question').innerText = translations[currentLang].quizQuestion;
+            document.getElementById('opt1').innerText = translations[currentLang].opt1;
+            document.getElementById('opt2').innerText = translations[currentLang].opt2;
+            document.getElementById('opt3').innerText = translations[currentLang].opt3;
+            document.getElementById('quiz-next-btn').innerText = translations[currentLang].dragNext;
+            document.getElementById('cert-title').innerText = translations[currentLang].certTitle;
+            document.getElementById('cert-desc').innerText = translations[currentLang].certDesc;
+            document.getElementById('cert-badge').innerText = translations[currentLang].certBadge;
+            document.getElementById('cert-body').innerText = translations[currentLang].certBody;
+            document.getElementById('restart-btn').innerText = translations[currentLang].restart;
+        }
+
+        // الانتقال بين شاشات ومراحل الموقع
+        function nextScreen(screenId) {
+            document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+            document.getElementById(screenId).classList.add('active');
+        }
+
+        // منطق لعبة السحب والإفلات التفاعلية
+        const dragItems = document.querySelectorAll('.drag-item');
+        const dropZones = document.querySelectorAll('.drop-zone');
+        let matchedCount = 0;
+
+        dragItems.forEach(item => {
+            item.addEventListener('dragstart', () => item.classList.add('dragging'));
+            item.addEventListener('dragend', () => item.classList.remove('dragging'));
+        });
+
+        dropZones.forEach(zone => {
+            zone.addEventListener('dragover', (e) => {
+                e.preventDefault();
+                zone.classList.add('hovered');
+            });
+            zone.addEventListener('dragleave', () => zone.classList.remove('hovered'));
+            zone.addEventListener('drop', () => {
+                zone.classList.remove('hovered');
+                const draggedItem = document.querySelector('.dragging');
+                if (draggedItem && zone.getAttribute('data-target') === draggedItem.id) {
+                    zone.appendChild(draggedItem);
+                    draggedItem.setAttribute('draggable', 'false');
+                    draggedItem.style.background = '#4caf50';
+                    matchedCount++;
+                    if (matchedCount === 2) {
+                        document.getElementById('drag-feedback').innerText = translations[currentLang].dragSuccess;
+                        document.getElementById('drag-next-btn').style.display = 'inline-block';
+                    }
+                }
+            });
+        });
+
+        // إطعام وحش البيانات
+        let dataFed = 0;
+        function feedMonster(type) {
+            const monster = document.getElementById('monster');
+            monster.innerText = "😮😋";
+            setTimeout(() => monster.innerText = "🥰👾", 600);
+            
+            document.getElementById('monster-feedback').innerText = translations[currentLang]['feed_' + type];
+            dataFed++;
+            if (dataFed >= 3) {
+                document.getElementById('monster-next-btn').style.display = 'inline-block';
+            }
+        }
+
+        // فحص إجابة الكويز التقييمي
+        function checkQuiz(isCorrect) {
+            const feedback = document.getElementById('quiz-feedback');
+            if (isCorrect) {
+                feedback.innerText = translations[currentLang].quizCorrect;
+                feedback.style.color = 'green';
+                document.getElementById('quiz-next-btn').style.display = 'inline-block';
+            } else {
+                feedback.innerText = translations[currentLang].quizWrong;
+                feedback.style.color = 'red';
+            }
+        }
+
+        // إعادة تشغيل اللعبة من جديد
+        function restartGame() {
+            location.reload();
+        }
+    </script>
+</body>
+</html>
