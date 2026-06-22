@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقع مستكشف الحاسوب الصغير | Little Computer Explorer</title>
+    <style>
+        :root {
+            --primary: #4f46e5;
+            --primary-light: #e0e7ff;
+            --secondary: #0ea5e9;
+            --accent: #f59e0b;
+            --success: #10b981;
+            --danger: #ef4444;
+            --text-main: #1e293b;
+            --text-muted: #64748b;
+            --bg-site: #f8fafc;
+            --card-bg: #ffffff;
+        }
+
+        [data-lang="en"] {
+            direction: ltr;
+            text-align: left;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-site);
+            color: var(--text-main);
+            padding-bottom: 60px;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 20px 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+        }
+
+        .logo-area h1 {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .logo-area p {
+            font-size: 14px;
+            opacity: 0.9;
+        }
+
+        .nav-controls {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+
+        .btn-lang {
+            background-color: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: 2px solid white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .btn-lang:hover {
+            background-color: white;
+            color: var(--primary);
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+
+        .section-card {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 40px;
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.05);
+            border: 1px solid #e2e8f0;
+        }
+
+        h2 {
+            color: var(--primary);
+            margin-bottom: 20px;
+            font-size: 24px;
+            border-bottom: 3px solid var(--primary-light);
+            padding-bottom: 8px;
+            display: inline-block;
+        }
+
+        .story-box {
+            background-color: #f0fdf4;
+            border-right: 5px solid var(--success);
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        [data-lang="en"] .story-box {
+            border-right: none;
+            border-left: 5px solid var(--success);
+        }
+
+        .dialogue {
+            margin: 10px 0;
+            font-size: 18px;
+        }
+
+        .dialogue strong {
+            color: var(--primary);
+        }
+
+        .grid-4 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .device-card {
+            background: #fafafa;
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.2s;
+        }
+
+        .device-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        .device-icon {
+            font-size: 40px;
+            color: var(--secondary);
+            margin-bottom: 15px;
+        }
+
+        .device-title {
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 10px;
+            color: var(--primary);
+        }
+
+        .bytes-box {
+            background-color: #f0f9ff;
+            border: 1px dashed var(--secondary);
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+
+        .features-list {
+            list-style: none;
+        }
+
+        .features-list li {
+            font-size: 18px;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .features-list li::before {
+            content: "⚡";
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid #e2e8f0;
+            text-align: center;
+        }
+
+        th {
+            background-color: var(--primary-light);
+            color: var(--primary);
+            font-weight: bold;
+        }
+
+        /* Quiz Styles */
+        .quiz-option {
+            background: #f1f5f9;
+            padding: 12px 20px;
+            border-radius: 8px;
+            margin: 10px 0;
+            cursor: pointer;
+            transition: background 0.2s;
+            font-weight: 500;
+        }
+
+        .quiz-option:hover {
+            background: var(--primary-light);
+        }
+
+        .quiz-option.correct {
+            background-color: #d1fae5;
+            border: 1px solid var(--success);
+            color: #065f46;
+        }
+
+        .quiz-option.wrong {
+            background-color: #fee2e2;
+            border: 1px solid var(--danger);
+            color: #991b1b;
+        }
+
+        .feedback-msg {
+            font-weight: bold;
+            margin-top: 10px;
+            display: none;
+        }
+
+        .input-blank {
+            padding: 6px 12px;
+            border: 2px solid #cbd5e1;
+            border-radius: 6px;
+            font-size: 16px;
+            width: 150px;
+            text-align: center;
+        }
+
+        .btn-check {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            margin-right: 10px;
+            font-weight: bold;
+        }
+        
+        [data-lang="en"] .btn-check {
+            margin-right: 0;
+            margin-left: 10px;
+        }
+
+        .btn-check:hover {
+            background-color: #4338ca;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #1e293b;
+            color: white;
+            margin-top: 40px;
+        }
+
+        .lang-el {
+            display: none;
+        }
+
+        /* Active classes to toggle visibility */
+        .active-block {
+            display: block !important;
+        }
+        .active-inline {
+            display: inline-block !important;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-area">
+            <h1 class="lang-el ar active-block">💻 مستكشف الحاسوب الصغير</h1>
+            <h1 class="lang-el en">💻 Little Computer Explorer</h1>
+            <p class="lang-el ar active-block">درس تفاعلي نشط للصف الأول الابتدائي</p>
+            <p class="lang-el en">Active Interactive Lesson for Grade 1</p>
+        </div>
+        <div class="nav-controls">
+            <button class="btn-lang" onclick="toggleLanguage()">English</button>
+        </div>
+    </header>
+
+    <div class="container" id="main-container" dir="rtl" data-lang="ar">
+
+        <!-- Section 1: Introduction Story -->
+        <div class="section-card">
+            <h2 class="lang-el ar active-block">📖 قصة سارة والكمبيوتر</h2>
+            <h2 class="lang-el en">📖 Sara's Story</h2>
+            
+            <div class="story-box">
+                <div class="lang-el ar active-block">
+                    <div class="dialogue"><strong>الأب:</strong> "تعالي إلى هنا يا سارة، انظري ماذا أحضرت لكِ!"</div>
+                    <div class="dialogue"><strong>سارة:</strong> "واو، كمبيوتر محمول (Laptop)... في ماذا يمكننا استخدامه؟ هذا رائع جداً!"</div>
+                    <div class="dialogue"><strong>الأب:</strong> "يمكننا استخدام الحواسيب للدراسة، اللعب، البحث عن المعلومات، والكثير من الأشياء الأخرى."</div>
+                </div>
+                <div class="lang-el en">
+                    <div class="dialogue"><strong>Papa:</strong> "Come here Sara, look at what I have brought for you."</div>
+                    <div class="dialogue"><strong>Sara:</strong> "Wow, a Laptop... What can we use this for? That's so cool!"</div>
+                    <div class="dialogue"><strong>Papa:</strong> "We can use computers to study, play games, find information and so much more."</div>
+                </div>
+            </div>
+
+            <div class="bytes-box">
+                <strong class="lang-el ar active-inline">💡 معلومة سريعة:</strong>
+                <strong class="lang-el en">💡 Quick Byte:</strong>
+                <span class="lang-el ar active-inline">الحاسوب هو آلة يمكنها تخزين المعلومات واستخدامها للقيام بالمهام. والمعلومات تشمل: كلمات، أرقام، صور، وفيديوهات.</span>
+                <span class="lang-el en">A Computer is a machine that can store information. It uses this information to do tasks. This information can be words, numbers, images, and videos.</span>
+            </div>
+        </div>
+
+        <!-- Section 2: Types of Computers -->
+        <div class="section-card">
+            <h2 class="lang-el ar active-block">🔍 أنواع الحواسيب حولنا</h2>
+            <h2 class="lang-el en">🔍 Computers Around Us</h2>
+            
+            <div class="grid-4">
+                <div class="device-card">
+                    <div class="device-icon">🖥️</div>
+                    <div class="device-title lang-el ar active-block">حاسوب مكتبي</div>
+                    <div class="device-title lang-el en">Desktop Computer</div>
+                    <p class="lang-el ar active-block" style="font-size: 14px; color: var(--text-muted);">له أجزاء منفصلة ويوضع على المكتب. صعب النقل. يُستخدم في المستشفيات والمطارات.</p>
+                    <p class="lang-el en" style="font-size: 14px; color: var(--text-muted);">Has separate parts, kept on desks. Difficult to move. Used in hospitals & airports.</p>
+                </div>
+
+                <div class="device-card">
+                    <div class="device-icon">💻</div>
+                    <div class="device-title lang-el ar active-block">حاسوب محمول</div>
+                    <div class="device-title lang-el en">Laptop</div>
+                    <p class="lang-el ar active-block" style="font-size: 14px; color: var(--text-muted);">أصغر حجماً ويمكن حمله بسهولة لأي مكان. كل الأجزاء مدمجة معاً.</p>
+                    <p class="lang-el en" style="font-size: 14px; color: var(--text-muted);">Smaller, easily carried anywhere. All parts are put together.</p>
+                </div>
+
+                <div class="device-card">
+                    <div class="device-icon">📱</div>
+                    <div class="device-title lang-el ar active-block">جهاز لوحي</div>
+                    <div class="device-title lang-el en">Tablet</div>
+                    <p class="lang-el ar active-block" style="font-size: 14px; color: var(--text-muted);">أصغر من اللابتوب وخفيف جداً. ممتع لمشاهدة الفيديوهات واللعب.</p>
+                    <p class="lang-el en" style="font-size: 14px; color: var(--text-muted);">Smaller than laptop, very light. Fun for watching videos and games.</p>
+                </div>
+
+                <div class="device-card">
+                    <div class="device-icon">📲</div>
+                    <div class="device-title lang-el ar active-block">هاتف ذكي</div>
+                    <div class="device-title lang-el en">Smartphone</div>
+                    <p class="lang-el ar active-block" style="font-size: 14px; color: var(--text-muted);">هاتف يناسب حجم الجيب ويقوم بمهام الحاسوب مثل تصفح الإنترنت.</p>
+                    <p class="lang-el en" style="font-size: 14px; color: var(--text-muted);">Fits in your pocket. Does computer tasks and makes calls.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 3: Why we use computer -->
+        <div class="section-card">
+            <h2 class="lang-el ar active-block">🦸‍♂️ لماذا نستخدم الحاسوب الخارق؟</h2>
+            <h2 class="lang-el en">🦸‍♂️ Why do we use Computers?</h2>
+            
+            <ul class="features-list lang-el ar active-block">
+                <li><strong>السرعة:</strong> يعمل أسرع بكثير من البشر.</li>
+                <li><strong>الدقة:</strong> ذكي جداً ولا يرتكب الأخطاء أبداً.</li>
+                <li><strong>الطاقة:</strong> لا يشعر بالتعب أو الإرهاق بعد العمل.</li>
+                <li><strong>التخزين:</strong> يمكنه حفظ كميات هائلة من البيانات (كلمات، صور، فيديوهات).</li>
+            </ul>
+
+            <ul class="features-list lang-el en">
+                <li><strong>Speed:</strong> It works much faster than us.</li>
+                <li><strong>Accuracy:</strong> It never makes mistakes.</li>
+                <li><strong>High Energy:</strong> It does not get tired after work.</li>
+                <li><strong>Storage:</strong> It can save a lot of data like words, images, and videos.</li>
+            </ul>
+        </div>
+
+        <!-- Section 4: Tech Flash Glossary -->
+        <div class="section-card">
+            <h2 class="lang-el ar active-block">⚡ قاموس المصطلحات السريع</h2>
+            <h2 class="lang-el en">⚡ Tech Flash Glossary</h2>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th class="lang-el ar active-block">المصطلح / Term</th>
+                        <th class="lang-el en">Term</th>
+                        <th class="lang-el ar active-block">المعنى بالعربية</th>
+                        <th class="lang-el en">English Meaning</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Device</strong></td>
+                        <td class="lang-el ar active-block">آلة أو جهاز ينجز مهمة محددة</td>
+                        <td class="lang-el en">A machine that completes a given task</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Internet</strong></td>
+                        <td class="lang-el ar active-block">شبكة عالمية تربط الحواسيب لمشاركة المعلومات</td>
+                        <td class="lang-el en">A system of connected computers to share information</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Information</strong></td>
+                        <td class="lang-el ar active-block">أي شيء نراه أو نقرأه أو نسمعه على الحاسوب</td>
+                        <td class="lang-el en">Anything we see, read or listen to on a computer</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Section 5: Interactive Exercises / Games -->
+        <div class="section-card" style="border: 2px solid var(--accent);">
+            <h2 class="lang-el ar active-block" style="color: var(--accent); border-bottom-color: #fef3c7;">🎮 مركز التحديات والتدريبات التفاعلية</h2>
+            <h2 class="lang-el en" style="color: var(--accent); border-bottom-color: #fef3c7;">🎮 Interactive Challenges & Quiz</h2>
+            
+            <!-- Quiz 1 -->
+            <div style="margin-bottom: 30px;">
+                <p class="lang-el ar active-block"><strong>السؤال الأول:</strong> اختر الإجابة الصحيحة. أي جهاز يمكن حمله بسهولة ولا يحتاج لمكتب؟</p>
+                <p class="lang-el en"><strong>Question 1:</strong> Choose the correct answer. Which device can be easily carried anywhere and doesn't need a desk?</p>
+                
+                <div class="quiz-option" onclick="checkQ1(this, false)">
+                    <span class="lang-el ar active-inline">الحاسوب المكتبي (Desktop)</span>
+                    <span class="lang-el en">Desktop Computer</span>
+                </div>
+                <div class="quiz-option" onclick="checkQ1(this, true)">
+                    <span class="lang-el ar active-inline">الحاسوب المحمول (Laptop) ✅</span>
+                    <span class="lang-el en">Laptop Computer ✅</span>
+                </div>
+                
+                <div id="q1-feedback" class="feedback-msg"></div>
+            </div>
+
+            <!-- Quiz 2 -->
+            <div style="margin-bottom: 30px;">
+                <p class="lang-el ar active-block"><strong>السؤال الثاني:</strong> صح أم خطأ؟ الحاسوب يرتكب الأخطاء عندما يتعب.</p>
+                <p class="lang-el en"><strong>Question 2:</strong> True or False? A computer makes mistakes when it gets tired.</p>
+                
+                <div class="quiz-option" onclick="checkQ2(this, false)">
+                    <span class="lang-el ar active-inline">صح (True)</span>
+                    <span class="lang-el en">True</span>
+                </div>
+                <div class="quiz-option" onclick="checkQ2(this, true)">
+                    <span class="lang-el ar active-inline">خطأ! الحاسوب لا يخطئ ولا يتعب أبداً ❌</span>
+                    <span class="lang-el en">False! Computers don't make mistakes or get tired ❌</span>
+                </div>
+                
+                <div id="q2-feedback" class="feedback-msg"></div>
+            </div>
+
+            <!-- Quiz 3 -->
+            <div style="margin-bottom: 20px;">
+                <p class="lang-el ar active-block"><strong>السؤال الثالث:</strong> أكمل الفراغ (اكتب الكلمة الصحيحة: Internet أو Computer)</p>
+                <p class="lang-el en"><strong>Question 3:</strong> Fill in the blank (Type the correct word: Internet or Computer)</p>
+                
+                <div style="margin-top: 10px;">
+                    <span class="lang-el ar active-inline">تتحدث الحواسيب مع بعضها عبر شبكة تسمى: </span>
+                    <span class="lang-el en">Computers talk to each other over a network called: </span>
+                    <input type="text" id="q3-input" class="input-blank" placeholder="...">
+                    <button class="btn-check" onclick="checkQ3()">
+                        <span class="lang-el ar active-inline">تحقق</span>
+                        <span class="lang-el en">Check</span>
+                    </button>
+                </div>
+                <div id="q3-feedback" class="feedback-msg"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <footer>
+        <p class="lang-el ar active-block">✨ موقع مستكشف الحاسوب الصغير التفاعلي - تم التحويل بنجاح ✨</p>
+        <p class="lang-el en">✨ Little Computer Explorer Interactive Website - Successfully Generated ✨</p>
+    </footer>
+
+    <script>
+        function toggleLanguage() {
+            const container = document.getElementById('main-container');
+            const btn = document.querySelector('.btn-lang');
+            const currentLang = container.getAttribute('data-lang');
+            
+            // Elements to toggle
+            const arElements = document.querySelectorAll('.lang-el.ar');
+            const enElements = document.querySelectorAll('.lang-el.en');
+
+            if (currentLang === 'ar') {
+                // Switch to English
+                container.setAttribute('data-lang', 'en');
+                container.setAttribute('dir', 'ltr');
+                btn.textContent = 'العربية';
+                
+                arElements.forEach(el => {
+                    el.classList.remove('active-block', 'active-inline');
+                });
+                enElements.forEach(el => {
+                    if (el.tagName === 'SPAN' || el.tagName === 'STRONG') {
+                        el.classList.add('active-inline');
+                    } else {
+                        el.classList.add('active-block');
+                    }
+                });
+            } else {
+                // Switch to Arabic
+                container.setAttribute('data-lang', 'ar');
+                container.setAttribute('dir', 'rtl');
+                btn.textContent = 'English';
+                
+                enElements.forEach(el => {
+                    el.classList.remove('active-block', 'active-inline');
+                });
+                arElements.forEach(el => {
+                    if (el.tagName === 'SPAN' || el.tagName === 'STRONG') {
+                        el.classList.add('active-inline');
+                    } else {
+                        el.classList.add('active-block');
+                    }
+                });
+            }
+        }
+
+        function checkQ1(element, isCorrect) {
+            const feedback = document.getElementById('q1-feedback');
+            const currentLang = document.getElementById('main-container').getAttribute('data-lang');
+            
+            // reset options
+            const options = element.parentElement.querySelectorAll('.quiz-option');
+            options.forEach(opt => opt.classList.remove('correct', 'wrong'));
+
+            if (isCorrect) {
+                element.classList.add('correct');
+                feedback.style.color = 'var(--success)';
+                feedback.textContent = currentLang === 'ar' ? 'ممتاز! إجابة صحيحة 🎉' : 'Excellent! Correct answer 🎉';
+            } else {
+                element.classList.add('wrong');
+                feedback.style.color = 'var(--danger)';
+                feedback.textContent = currentLang === 'ar' ? 'حاول مجدداً يا بطل! 🤔' : 'Try again, buddy! 🤔';
+            }
+            feedback.style.display = 'block';
+        }
+
+        function checkQ2(element, isCorrect) {
+            const feedback = document.getElementById('q2-feedback');
+            const currentLang = document.getElementById('main-container').getAttribute('data-lang');
+            
+            const options = element.parentElement.querySelectorAll('.quiz-option');
+            options.forEach(opt => opt.classList.remove('correct', 'wrong'));
+
+            if (isCorrect) {
+                element.classList.add('correct');
+                feedback.style.color = 'var(--success)';
+                feedback.textContent = currentLang === 'ar' ? 'رائع جداً! الحاسوب لا يرتكب أخطاء أبدًا دقة 100% 🎯' : 'Awesome! Computers never make mistakes, 100% accurate 🎯';
+            } else {
+                element.classList.add('wrong');
+                feedback.style.color = 'var(--danger)';
+                feedback.textContent = currentLang === 'ar' ? 'الإجابة غير صحيحة، فكر مرة أخرى!' : 'Incorrect answer, think again!';
+            }
+            feedback.style.display = 'block';
+        }
+
+        function checkQ3() {
+            const inputVal = document.getElementById('q3-input').value.trim().toLowerCase();
+            const feedback = document.getElementById('q3-feedback');
+            const currentLang = document.getElementById('main-container').getAttribute('data-lang');
+
+            if (inputVal === 'internet' || inputVal === 'الإنترنت' || inputVal === 'الانترنت') {
+                feedback.style.color = 'var(--success)';
+                feedback.textContent = currentLang === 'ar' ? 'عبقري! الإنترنت يربط العالم كله 🌐' : 'Genius! The Internet connects the whole world 🌐';
+            } else {
+                feedback.style.color = 'var(--danger)';
+                feedback.textContent = currentLang === 'ar' ? 'حاول كتابة "Internet" أو "الإنترنت"' : 'Try typing "Internet"';
+            }
+            feedback.style.display = 'block';
+        }
+    </script>
+</body>
+</html>
